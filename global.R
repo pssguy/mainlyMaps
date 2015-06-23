@@ -5,15 +5,28 @@ library(readxl)
 library(ggmap)
 library(shiny)
 library(shinydashboard)
+library(choroplethr)
+library(rgdal)
+library(stringr)
 
+## US states
+maps <- readOGR(dsn=".",
+                layer = "ne_50m_admin_1_states_provinces_lakes", 
+                encoding = "UTF-8",verbose=FALSE)
 
+#limit to US states and DC
+states <-maps[50:100,] 
+
+# create a stateID fore merging
+
+states$stateId <-str_replace(states$iso_3166_2,"US-","")
 
 ## http://geolytix.co.uk/blog/tag/waitrose/ has supermarket locations
 
 #so downloaded that
 
 
-locations <- read_excel("superLocations.xls")
+locations <- read_excel("./data/superLocations.xls")
 
 # create a popup
 # some of the fields have NA so replace with ""
@@ -49,4 +62,8 @@ locs <- locations %>%
 retailerChoice <- sort(unique(locs$Retailer))
 
 pal <- colorFactor("Paired", domain=NULL)
+
+### prisons
+prisons<- readRDS("./data/prisons.rds")
+
 

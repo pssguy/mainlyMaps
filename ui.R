@@ -17,6 +17,7 @@ hr(),
 
   sidebarMenu(id="sbMenu",
     menuItem("UK Supermarkets", tabName = "supermarkets",icon = icon("map-marker")),
+    menuItem("US Prisons", tabName = "prisons",icon = icon("map-marker")),
  
 #   menuItem("Data", tabName = "data",icon = icon("database")),
   menuItem("Info", tabName = "info",icon = icon("info")),
@@ -52,9 +53,25 @@ hr(),
       leafletOutput('leafletMap',height = 550)
       
     )
-   
-  
-      ),
+    ),
+    tabItem("prisons",
+            
+            
+            box(width=6,
+                status = "success", solidHeader = TRUE,
+                title = "Prisons",
+                
+                leafletOutput('prisonsLeaflet',height = 550)
+                
+            ),
+            box(width=6,
+                status = "success", solidHeader = TRUE,
+                title = "Prisons",
+                
+                leafletOutput('prisonsChoropleth',height = 550)
+                
+            )
+    ),
 
 # tabItem("data",
 #           fluidRow(

@@ -21,5 +21,6 @@ shinyServer(function(input, output) {
   
 
   source("code/supermarkets.R", local=TRUE)
+  source("code/prisons.R", local=TRUE)
 
 })
