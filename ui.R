@@ -61,14 +61,14 @@ menuItem("Other Dashboards",
                 status = "success", solidHeader = TRUE,
                 title = "Prisons. Click on circle for Prison Name",
                 
-                leafletOutput('prisonsLeaflet',height = 550)
+                leafletOutput('prisonsLeaflet',height = 450)
                 
             ),
             box(width=6,
                 status = "success", solidHeader = TRUE,
                 title = "Prisons. Click on state for more information",
                 
-                leafletOutput('prisonsChoropleth',height = 550)
+                leafletOutput('prisonsChoropleth',height = 450)
                 
             )
     ),
