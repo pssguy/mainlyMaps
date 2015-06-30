@@ -11,20 +11,25 @@
 # })
 
 # might want to take this out of a reactive
-output$prisonsLeaflet<- renderLeaflet({
+#output$prisonsLeaflet<- renderLeaflet({
   
   
-  prisons %>% 
+lMap <-  prisons %>% 
     select(lat,lon,facility_name) %>% 
     leaflet() %>% 
     addTiles() %>% 
     clearBounds() %>% 
     addCircles(popup=~ facility_name) 
-  
-  
-})
 
-output$prisonsChoropleth <- renderLeaflet({
+output$prisonsLeaflet <- renderLeaflet(lMap)
+  
+  
+#})
+
+#output$prisonsChoropleth <- renderLeaflet({
+  
+  data(df_pop_state)
+  print(glimpse(df_pop_state))
   
   summary <-prisons %>%
     group_by(state) %>%
@@ -54,7 +59,7 @@ output$prisonsChoropleth <- renderLeaflet({
   pal <- colorNumeric("Reds", c(0,max(states2$ppm,na.rm=T)))
   
   # create leaflet map
-  leaflet(data = states2) %>%
+cMap <-  leaflet(data = states2) %>%
     addTiles() %>%
     setView(-110,38,zoom=3) %>% 
     addPolygons(fillColor = ~pal(ppm), 
@@ -63,6 +68,10 @@ output$prisonsChoropleth <- renderLeaflet({
                 weight = 1, 
                 #layerId = ~State,
                 popup = ~popUp) %>% 
-    mapOptions(zoomToLimits="first")
+    mapOptions(zoomToLimits="first") %>% 
+    addLegend(pal = pal, values = ~ppm, position="bottomleft", title="Prisons per Million")
+#%>% 
+#addLegend(pal = pal, values = ~Retailer, opacity=1)
+output$prisonsChoropleth <- renderLeaflet(cMap)
   
-})
+#})

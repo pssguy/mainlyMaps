@@ -25,13 +25,13 @@ hr(),
 #   menuItem("Code",icon = icon("code-fork"),
 #            href = "https://github.com/pssguy/fortune500"),
 #   
-  menuItem("Other Dashboards",
-           menuSubItem("MLB",href = "https://mytinyshinys.shinyapps.io/mlbCharts"),
-           menuSubItem("Fortune 500",href = "https://mytinyshinys.shinyapps.io/fortune500"),
-           menuSubItem("WikiGuardian",href = "https://mytinyshinys.shinyapps.io/wikiGuardian"),
-           menuSubItem("World Soccer",href = "https://mytinyshinys.shinyapps.io/worldSoccer")
-           
-  ),
+menuItem("Other Dashboards",
+         #menuSubItem("MainlyMaps",href = "https://mytinyshinys.shinyapps.io/mainlyMaps"), 
+         menuSubItem("MLB",href = "https://mytinyshinys.shinyapps.io/mlbCharts"),
+         menuSubItem("Climate",href = "https://mytinyshinys.shinyapps.io/climate"),
+         menuSubItem("WikiGuardian",href = "https://mytinyshinys.shinyapps.io/wikiGuardian"),
+         menuSubItem("World Soccer",href = "https://mytinyshinys.shinyapps.io/worldSoccer")
+),
   
   menuItem("", icon = icon("twitter-square"),
            href = "https://twitter.com/pssGuy"),
@@ -48,7 +48,7 @@ hr(),
     
     box(width=12,
       status = "success", solidHeader = TRUE,
-      title = "Amend Post code and Supermarket selection as desired",
+      title = "Amend Post code and Supermarket selection as desired - click circle for address",
       checkboxGroupInput("retailers","Select Retailers",retailerChoice, selected=retailerChoice, inline= TRUE),
       leafletOutput('leafletMap',height = 550)
       
@@ -59,14 +59,14 @@ hr(),
             
             box(width=6,
                 status = "success", solidHeader = TRUE,
-                title = "Prisons",
+                title = "Prisons. Click on circle for Prison Name",
                 
                 leafletOutput('prisonsLeaflet',height = 550)
                 
             ),
             box(width=6,
                 status = "success", solidHeader = TRUE,
-                title = "Prisons",
+                title = "Prisons. Click on state for more information",
                 
                 leafletOutput('prisonsChoropleth',height = 550)
                 

@@ -1,5 +1,5 @@
 
-
+library(dplyr)
 library(leaflet)
 library(readxl)
 library(ggmap)
@@ -8,6 +8,7 @@ library(shinydashboard)
 library(choroplethr)
 library(rgdal)
 library(stringr)
+library(RColorBrewer)
 
 ## US states
 maps <- readOGR(dsn=".",
@@ -24,7 +25,7 @@ states$stateId <-str_replace(states$iso_3166_2,"US-","")
 ## http://geolytix.co.uk/blog/tag/waitrose/ has supermarket locations
 
 #so downloaded that
-
+print("got here")
 
 locations <- read_excel("./data/superLocations.xls")
 
@@ -51,19 +52,27 @@ locations$popup <- sprintf("<table cellpadding='4' style='line-height:1'><tr>
                         locations$Town,
                         locations$Postcode)
 
+print("got here2")
+
+
 exclude <- c("Costco","Dansk Supermarked","Whole Foods")
 #locs <- locs[!locs$Retailer %in% exclude,]
+
+print(glimpse(locations))
 
 locs <- locations %>% 
   data.frame(.) %>% 
   filter(!Retailer %in% exclude) %>% 
   select(Retailer,longitude=LongWGS84,latitude=LatWGS84, Fascia,popup)
 
+print("got here3")
+
+
 retailerChoice <- sort(unique(locs$Retailer))
 
-pal <- colorFactor("Paired", domain=NULL)
+
 
 ### prisons
 prisons<- readRDS("./data/prisons.rds")
 
-
+print("ended global")
