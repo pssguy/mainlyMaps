@@ -9,6 +9,11 @@ library(choroplethr)
 library(rgdal)
 library(stringr)
 library(RColorBrewer)
+library(rcstatebin)
+
+
+library(htmlwidgets)
+library(DT)
 
 ## US states
 maps <- readOGR(dsn=".",
@@ -74,5 +79,24 @@ retailerChoice <- sort(unique(locs$Retailer))
 
 ### prisons
 prisons<- readRDS("./data/prisons.rds")
+
+
+# fortune 1000
+## earlier manipulation of "http://fortune.com/fortune500/"
+
+fortune <- read.csv("./data/fortune500.csv")
+
+# create a rank
+fortune <-fortune %>% 
+  mutate(rank=row_number(),revRank=1001-rank)
+
+
+#states$stateId <-str_replace(states$iso_3166_2,"US-","")
+
+
+### Choropleth map
+## take all states from rcstatebins data
+allStates <- data.frame(state=unique(taxdata$state)) 
+
 
 print("ended global")
