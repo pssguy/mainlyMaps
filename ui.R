@@ -1,5 +1,6 @@
 
 
+
 dashboardPage(
   skin = "green",
   dashboardHeader(title = "Mainly Maps"),
@@ -20,17 +21,30 @@ dashboardPage(
       id = "sbMenu",
       
       menuItem(
-        "Fortune 1000 HQs", tabName = "fortune",icon = icon("map-marker")
+        "Fortune 1000 HQs",
+        menuSubItem(
+          "Maps",tabName = "fortune",icon = icon("map-marker"), selected = TRUE
+        ),
+        menuSubItem("Data", tabName = "fortune_data",icon = icon("database")),
+        menuSubItem("Code",icon = icon("code-fork"),
+                    href = "https://github.com/pssguy/fortune500"),
+        menuSubItem("Info", tabName = "fortune_info",icon = icon("info"))
+        
       ),
       menuItem(
-        "UK Supermarkets", tabName = "supermarkets",icon = icon("map-marker")
+        "UK Supermarkets",
+        menuSubItem("Maps",tabName = "supermarkets",icon = icon("map-marker")),
+        menuSubItem("Info", tabName = "supermarkets_info",icon = icon("info"))
+        
       ),
       menuItem(
-        "US Prisons", tabName = "prisons",icon = icon("map-marker")
+        "US Prisons",
+        menuSubItem("Maps",tabName = "prisons",icon = icon("map-marker")),
+        menuSubItem("Info", tabName = "prisons_info",icon = icon("info"))
       ),
       
       #   menuItem("Data", tabName = "data",icon = icon("database")),
-      menuItem("Info", tabName = "info",icon = icon("info")),
+      # menuItem("Info", tabName = "info",icon = icon("info")),
       #
       #   menuItem("Code",icon = icon("code-fork"),
       #            href = "https://github.com/pssguy/fortune500"),
@@ -52,81 +66,83 @@ dashboardPage(
     )
   ),
   
-  dashboardBody(tabItems(
-    tabItem(
-      "supermarkets",
-      
-      
-      box(
-        width = 12,
-        status = "success", solidHeader = TRUE,
-        title = "Amend Post code and Supermarket selection as desired - click circle for address",
-        checkboxGroupInput(
-          "retailers","Select Retailers",retailerChoice, selected = retailerChoice, inline = TRUE
-        ),
-        leafletOutput('leafletMap',height = 550)
+  dashboardBody(
+    tabItems(
+      tabItem(
+        "supermarkets",
         
-      )
-    ),
-    tabItem(
-      "prisons",
-      
-      
-      box(
-        width = 6,
-        status = "success", solidHeader = TRUE,
-        title = "Prisons. Click on circle for Prison Name",
         
-        leafletOutput('prisonsLeaflet',height = 450)
-        
+        box(
+          width = 12,
+          status = "success", solidHeader = TRUE,
+          title = "Amend Post code and Supermarket selection as desired - click circle for address",
+          checkboxGroupInput(
+            "retailers","Select Retailers",retailerChoice, selected = retailerChoice, inline = TRUE
+          ),
+          leafletOutput('leafletMap',height = 550)
+          
+        )
       ),
-      box(
-        width = 6,
-        status = "success", solidHeader = TRUE,
-        title = "Prisons. Click on state for more information",
+      tabItem(
+        "prisons",
         
-        leafletOutput('prisonsChoropleth',height = 450)
         
-      )
-    ),
-    tabItem("fortune",
-            fluidRow(
-              tabBox(
+        box(
+          width = 6,
+          status = "success", solidHeader = TRUE,
+          title = "Prisons. Click on circle for Prison Name",
+          
+          leafletOutput('prisonsLeaflet',height = 450)
+          
+        ),
+        box(
+          width = 6,
+          status = "success", solidHeader = TRUE,
+          title = "Prisons. Click on state for more information",
+          
+          leafletOutput('prisonsChoropleth',height = 450)
+          
+        )
+      ),
+      tabItem("fortune",
+              fluidRow(
+                tabBox(
+                  # The id lets us use input$tabset1 on the server to find the current tab
+                  id = "tabset1", height = "500px",
+                  tabPanel("Choropleth Click State for Table",
+                           leafletOutput("choropleth")),
+                  tabPanel("Locations. Click for Details",
+                           leafletOutput("locations")),
+                  
+                  tabPanel("HexBins",
+                           statebinOutput("statebins"))
+                ),
                 
-                # The id lets us use input$tabset1 on the server to find the current tab
-                id = "tabset1", height = "500px",
-                tabPanel("Choropleth Click State for Table",
-                         leafletOutput("choropleth")),
-                tabPanel("Locations. Click for Details",
-                         leafletOutput("locations")),
+                box(
+                  width = 6, status = "success", solidHeader = TRUE,
+                  title = "Leading Companies within State - Use with Choropleth",
+                  DT::dataTableOutput("table")
+                  
+                )
+              )),
+      tabItem("fortune_data",
+              fluidRow(column(
+                width = 8,offset = 2,
                 
-                tabPanel("HexBins",
-                         statebinOutput("statebins"))
-              ),
-              
-              box(
-                width = 6, status = "success", solidHeader = TRUE,
-                title = "Leading Companies within State - Use with Choropleth",
-                DT::dataTableOutput("table")
-                
-              )
-            )
-    ),
-    # tabItem("data",
-    #           fluidRow(
-    #             column(width=8,offset=2,
-    #
-    #           box(width=12,
-    #             status = "info", solidHeader = FALSE,
-    #             includeMarkdown("data.md")
-    #           ),
-    #           box(width=12,
-    #             DT::dataTableOutput("data")
-    #           )
-    #             ))
-    #         ),
-    #
-    tabItem("info",includeMarkdown("info.md"))
-    
-  ))
+                box(
+                  width = 12,
+                  status = "info", solidHeader = FALSE,
+                  includeMarkdown("fortune_data.md")
+                ),
+                box(width = 12,
+                    DT::dataTableOutput("fortune_data"))
+              ))),
+      tabItem("fortune_info",includeMarkdown("fortune_info.md")),
+      tabItem(
+        "supermarkets_info",includeMarkdown("supermarkets_info.md")
+      ),
+      tabItem("prisons_info",includeMarkdown("prisons_info.md"))
+      
+    )
+  )
 )
