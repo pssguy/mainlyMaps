@@ -21,9 +21,9 @@ dashboardPage(
       id = "sbMenu",
       
       menuItem(
-        "Fortune 1000 HQs",
+        "Fortune 1000 HQs", selected = TRUE,
         menuSubItem(
-          "Maps",tabName = "fortune",icon = icon("map-marker"), selected = TRUE
+          "Maps",tabName = "fortune",icon = icon("map-marker")
         ),
         menuSubItem("Data", tabName = "fortune_data",icon = icon("database")),
         menuSubItem("Code",icon = icon("code-fork"),
@@ -42,6 +42,10 @@ dashboardPage(
         menuSubItem("Maps",tabName = "prisons",icon = icon("map-marker")),
         menuSubItem("Info", tabName = "prisons_info",icon = icon("info"))
       ),
+      menuItem(
+        "Baseball prospects",
+        menuSubItem("Maps",tabName = "prospects",icon = icon("map-marker"))
+      ),
       
       #   menuItem("Data", tabName = "data",icon = icon("database")),
       # menuItem("Info", tabName = "info",icon = icon("info")),
@@ -51,9 +55,9 @@ dashboardPage(
       #
       menuItem(
         "Other Dashboards",
-        
-        menuSubItem("MLB",href = "https://mytinyshinys.shinyapps.io/mlbCharts"),
         menuSubItem("Climate",href = "https://mytinyshinys.shinyapps.io/climate"),
+        menuSubItem("MLB",href = "https://mytinyshinys.shinyapps.io/mlbCharts"),
+       
         menuSubItem("WikiGuardian",href = "https://mytinyshinys.shinyapps.io/wikiGuardian"),
         menuSubItem("World Soccer",href = "https://mytinyshinys.shinyapps.io/worldSoccer")
       ),
@@ -125,6 +129,13 @@ dashboardPage(
                   
                 )
               )),
+      
+      tabItem("prospects",
+              box(status="info",solidHeader = TRUE,
+                  leafletOutput("prospectsMap")
+                  )
+      ),
+      
       tabItem("fortune_data",
               fluidRow(column(
                 width = 8,offset = 2,

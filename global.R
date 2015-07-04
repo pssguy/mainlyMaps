@@ -11,6 +11,7 @@ library(rgdal)
 library(stringr)
 library(RColorBrewer)
 library(rcstatebin)
+library(readr)
 
 
 library(htmlwidgets)
@@ -103,6 +104,14 @@ fortune <- fortune %>%
 ### Choropleth map
 ## take all states from rcstatebins data
 allStates <- data.frame(state = unique(taxdata$state))
+
+
+## baseball Prospects
+prospects <- read_csv("HSBaseballProspects.csv")
+
+schoolChoice <- sort(unique(prospects$Commitment))
+schoolChoice[1] <- "Unknown"
+
 
 
 print("ended global")

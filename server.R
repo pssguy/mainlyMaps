@@ -1,6 +1,4 @@
 
-
-
 shinyServer(function(input, output) {
   ## supermarket ui
   
@@ -19,6 +17,10 @@ shinyServer(function(input, output) {
         ),
         uiOutput("industries")
       )
+    } else  if (input$sbMenu == "prospects") {
+      inputPanel(
+        selectInput("schools","College Commitment",schoolChoice)
+      )
     } else {
       
     }
@@ -31,5 +33,6 @@ shinyServer(function(input, output) {
   source("code/supermarkets.R", local = TRUE)
   source("code/prisons.R", local = TRUE)
   source("code/fortune500.R", local = TRUE)
+  source("code/baseballProspects.R", local = TRUE)
   
 })

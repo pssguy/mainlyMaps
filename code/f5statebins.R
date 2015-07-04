@@ -17,10 +17,10 @@ output$statebins <- renderStatebin({
     x = "state",
     y = "total",
     type = 'hex',
-    heading =  "<b>Hover for Details</b>",
-    footer = "<small>Source: Fortune500 <a href='http://fortune.com/fortune500/'>(Data)</a>",
+    heading =  "<b>Hover for Details</b>"#,
+    #footer = "<small>Source: Fortune500 <a href='http://fortune.com/fortune500/'>(Data)</a>"
   )
   
-  
+ 
   
 })
