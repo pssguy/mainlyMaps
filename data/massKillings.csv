@@ -1,0 +1,995 @@
+Date,Shooter,Dead,Injured,Location,Article,Year,month,wday,stateId,lon,lat
+2013-01-01,"Desmen Noble, Damian Bell",1,4,"Lorain, OH",http://www.wkyc.com/news/article/276177/3/Lorain-Arrest-made-in-gas-station-shooting,2013,Jan,Tues,OH,-82.1665,41.451
+2013-01-01,Julian Sims,0,4,"McKeesport, PA",http://pittsburgh.cbslocal.com/2013/01/01/4-people-shot-in-mckeesport/,2013,Jan,Tues,PA,-76.208,39.7651
+2013-01-01,Carlito Montoya,4,0,"Sacramento, CA",http://sanfrancisco.cbslocal.com/2013/01/12/3-young-men-teenage-boy-murdered-on-oakland-streets-in-6-hours-no-arrests/,2013,Jan,Tues,CA,-121.555,38.3805
+2013-01-01,Unknown,1,3,"Hawthorne, CA",http://losangeles.cbslocal.com/2013/01/01/man-killed-3-wounded-at-nye-party-in-hawthorne/,2013,Jan,Tues,CA,-118.348,33.9148
+2013-01-05,Sonny Archuleta,4,0,"Aurora, CO",http://www.dailydemocrat.com/ci_22322664/aurora-shooter-was-frenetic-talented-neighbor-says,2013,Jan,Sat,CO,-104.863,39.7392
+2013-01-07,Herbert Bland Jr.,3,1,"Dinwiddie, VA",http://progress-index.com/news/mental-condition-of-triple-homicide-suspect-at-issue-1.1462996,2013,Jan,Mon,VA,-77.6016,37.0793
+2013-01-07,Cedric and James Poore,5,0,"Tulsa, OK",http://usnews.nbcnews.com/_news/2013/01/07/16397584-police-four-women-found-dead-in-tulsa-okla-apartment?lite,2013,Jan,Mon,OK,-95.9928,36.154
+2013-01-07,Sandra Palmer,2,2,"Greensboro, NC",http://www.huffingtonpost.com/2013/01/09/sandra-palmer-north-carolina-woman-shoots-children-video_n_2439714.html,2013,Jan,Mon,NC,-79.7652,36.0691
+2013-01-10,Donald Johnson,3,2,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2012/01/suspect_killed_two_wounded_in.html,2013,Jan,Thurs,LA,-89.931,30.0688
+2013-01-12,Tresvon Spencer,1,4,"Tuscaloosa, AL",http://www.myfoxal.com/story/20585672/teen-arrested-after-deadly-shooting-rampage-in-tuscaloosa,2013,Jan,Sat,AL,-87.5692,33.2098
+2013-01-19,Nehemiah Griego,5,0,"Albuquerque, NM",http://www.cbsnews.com/8301-504083_162-57565870-504083/nehemiah-gringo-case-memorial-service-planned-for-family-allegedly-slain-by-new-mexico-teen/,2013,Jan,Sat,NM,-106.651,35.0845
+2013-01-21,Unknown,0,4,"Brentwood, CA",http://sanfrancisco.cbslocal.com/2013/01/22/4-teens-hurt-in-drive-by-shooting-in-brentwood/,2013,Jan,Mon,CA,-118.474,34.052
+2013-01-21,Unknown,0,5,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2013/01/nopd_4_people_shot_in_central.html,2013,Jan,Mon,LA,-89.931,30.0688
+2013-01-25,Unknown,1,4,"St. Louis, MO",http://stlouis.cbslocal.com/2013/01/25/one-dead-four-wounded-in-drive-by-shooting/,2013,Jan,Fri,MO,-90.4434,38.6407
+2013-01-26,Julian Johnson,1,3,"Springfield, OH",http://www.daytondailynews.com/news/news/1-dead-3-injured-in-tavern-shooting/nT77k/,2013,Jan,Sat,OH,-83.8132,39.9271
+2013-01-26,Unknown,0,5,Washington DC,http://washington.cbslocal.com/2013/01/27/5-injured-in-dc-nightclub-shooting/,2013,Jan,Sat,NA,-77.0364,38.8951
+2013-01-27,Wilbert Thibodeaux,1,3,"Charenton, LA",http://www.foxnews.com/us/2013/01/26/trooper-officer-killed-2-sheriff-deputies-wounded-in-la-shooting-suspect-in/,2013,Jan,Sun,LA,-91.5394,29.8671
+2013-01-30,Douglas Harmon,3,1,"Phoenix, AZ",http://www.businessinsider.com/mark-hummels-dies-after-phoenix-shooting-2013-2,2013,Jan,Wed,AZ,-112.074,33.4484
+2013-02-01,Unknown,1,3,"Oakland, CA",http://www.mercurynews.com/ci_22506049/oakland-one-killed-three-wounded-shooting-at-oakland?source=email,2013,Feb,Fri,CA,-122.224,37.786
+2013-02-02,Sundra Payne,0,5,"Memphis, TN",http://wreg.com/2013/02/04/two-killed-7-injured-during-violent-memphis-weekend/,2013,Feb,Sat,TN,-89.9904,35.1693
+2013-02-03,"Kong Meng Vue, Ryan Cha, Ken Cha",1,3,"Olivehurst, CA",http://sacramento.cbslocal.com/2013/02/04/1-dead-3-hurt-in-olivehurst-shooting/,2013,Feb,Sun,CA,-121.548,39.0787
+2013-02-03,Jackie Spears; Kelcie Stewart,2,2,"Memphis, TN",http://wreg.com/2013/02/04/two-killed-7-injured-during-violent-memphis-weekend/,2013,Feb,Sun,TN,-89.9904,35.1693
+2013-02-03,Christopher Dorner,5,4,"Began in Riverside, CA",https://en.wikipedia.org/wiki/Christopher_Dorner,2013,Feb,Sun,CA,-117.459,33.9494
+2013-02-06,Mayra Perez,3,1,"Denver, CO",http://www.usatoday.com/story/news/nation/2013/02/06/2-children-denver-shooting/1895851/,2013,Feb,Wed,CO,-105.069,39.7433
+2013-02-07,Unknown,0,4,"Chicago, IL",http://chicago.cbslocal.com/2013/02/07/four-wounded-in-south-shore-shooting/,2013,Feb,Thurs,IL,-87.6221,41.8853
+2013-02-09,"Malcolm Hall, Brandon Brown, Deron Bridgewater",0,4,"New Orleans, LA",http://www.cbsnews.com/8301-504083_162-57569930-504083/mardi-gras-shooting-third-man-arrested-in-new-orleans-bourbon-street-attack/,2013,Feb,Sat,LA,-89.931,30.0688
+2013-02-11,Nhan Lap Tran,1,4,"Oakdale, MN",http://www.kaaltv.com/article/stories/S3021415.shtml?cat=10728,2013,Feb,Mon,MN,-92.9649,44.963
+2013-02-11,Thomas Matusiewicz,3,2,"Wilmington, DE","http://www.latimes.com/news/nation/nationnow/la-na-nn-delaware-courthouse-shooting-matusiewicz-20130212,0,5059491.story",2013,Feb,Mon,DE,-75.5478,39.7271
+2013-02-11,Unknown,1,4,"Vallejo, CA",http://www.sfgate.com/crime/article/1-dead-4-hurt-in-Vallejo-shooting-4271870.php,2013,Feb,Mon,CA,-122.136,38.2449
+2013-02-12,"Two suspects, David Fresques in custody and Davis Fotu at large",3,1,"Suburban Salt Lake City (Midvale), UT",http://www.kutv.com/news/top-stories/stories/vid_3882.shtml,2013,Feb,Tues,UT,-111.87,40.7051
+2013-02-13,Joseph Matteson,2,2,"Red Springs, NC",http://www2.wbtw.com/news/2013/feb/14/8/nc-deputies-2-women-dead-2-men-inured-domestic-dis-ar-5590737/,2013,Feb,Wed,NC,-79.1831,34.8152
+2013-02-16,Unknown,1,3,"Winston-Salem, NC",http://www.digtriad.com/news/article/269507/1/Police-Shooting-At-Nitty-Gritty-Soul-Cafe-In-Winston-Salem,2013,Feb,Sat,NC,-80.2005,36.1111
+2013-02-19,Ali Sayed,4,3,"Tustin, CA",http://www.nbclosangeles.com/news/local/Tustin-Orange-County-Freeway-Shootings-191813631.html,2013,Feb,Tues,CA,-117.826,33.7459
+2013-02-21,Mark Hopkins,1,3,"Tulsa, OK",http://www.tulsaworld.com/specialprojects/news/crimewatch/article.aspx?subjectid=450&articleid=20130222_450_0_Police618362,2013,Feb,Thurs,OK,-95.9928,36.154
+2013-02-21,Carlos Zuniga,2,2,"Miami, FL",http://www.miamiherald.com/2013/02/20/3245009/police-multiple-people-shot-in.html,2013,Feb,Thurs,FL,-80.2393,25.812
+2013-02-22,Unknown,0,4,"Grand Rapids, MI",http://www.mlive.com/news/grand-rapids/index.ssf/2013/02/four_shot_outside_grandville_s.html,2013,Feb,Fri,MI,-85.6291,42.9842
+2013-02-23,Unknown,0,4,"Oakland, CA",http://www.ktvu.com/news/news/crime-law/four-hospitalized-after-teens-shoot-bus-oakland/nWXxG/,2013,Feb,Sat,CA,-122.224,37.786
+2013-02-23,Unknown,0,4,"Lancaster, CA",http://latimesblogs.latimes.com/lanow/2013/02/suspects-sought-in-shooting-outside-lancaster-club.html,2013,Feb,Sat,CA,-118.153,34.7133
+2013-02-24,Unknown,0,8,"Macon, GA",http://www.41nbc.com/news/local-news/20390-one-critcally-injured-seven-others-wounded-in-macon-shooting,2013,Feb,Sun,GA,-83.6176,32.8044
+2013-03-02,Unknown,1,3,"Shreveport, LA",http://www.whlt.com/story/21443711/1-dead-3-hurt-in-shreveport-shooting,2013,Mar,Sat,LA,-93.7502,32.5252
+2013-03-03,Unknown,1,3,"Moultrie, GA",http://www.wctv.tv/news/georgianews/headlines/Quadruple-Shooting-in-Moultrie-194924631.html,2013,Mar,Sun,GA,-83.7897,31.1834
+2013-03-03,Unknown,0,6,"Houston, TX",http://abclocal.go.com/ktrk/story?section=news/local&id=9013761&pt=print,2013,Mar,Sun,TX,-95.3098,29.8131
+2013-03-04,Unknown,0,4,"Saginaw, MI",http://www.freep.com/article/20130304/NEWS06/130304005/Shooting-at-Saginaw-area-bar-leaves-4-wounded?odyssey=tab%7Ctopnews%7Ctext%7CMichigan%20news,2013,Mar,Mon,MI,-83.8869,43.4124
+2013-03-04,Unknown,1,3,"Los Banos, CA",http://www.losbanosenterprise.com/2013/03/08/203519/gunfire-leaves-1-dead-3-hurt.html,2013,Mar,Mon,CA,-120.847,37.1038
+2013-03-05,Unknown,1,3,"Indianapolis, IN",http://www.theindychannel.com/news/local-news/police-investigate-east-side-shooting,2013,Mar,Tues,IN,-86.1322,39.7751
+2013-03-05,Unknown,0,4,"Fuquay-Varina, NC",http://www.wral.com/four-shot-at-fuquay-varina-apartment-complex/12189440/,2013,Mar,Tues,NC,-78.8,35.5843
+2013-03-07,Joshua Hurst,2,2,"Jackson, MS",http://www.wapt.com/news/central-mississippi/jackson/Police-seek-man-wanted-in-quadruple-shooting/-/9156912/19231618/-/1p2i2q/-/index.html,2013,Mar,Thurs,MS,-90.1848,32.2988
+2013-03-08,Unknown,1,3,"Buffalo, NY",http://www.buffalonews.com/apps/pbcs.dll/article?AID=/20130309/CITYANDREGION/130309181/1002,2013,Mar,Fri,NY,-78.8864,42.8961
+2013-03-11,Taleb Hussein Yousef Salameh,1,3,"North Liberty, IA",http://qctimes.com/news/state-and-regional/iowa/grad-student-killed-in-shooting-that-wounded-officers/article_5cc0b1b4-8a72-11e2-9061-001a4bcf887a.html?comment_form=true,2013,Mar,Mon,IA,-91.6048,41.7639
+2013-03-11,Andrew Davon Allen and Craig Willson,0,13,"Washington, DC",http://www.washingtonpost.com/local/police-seek-two-men-in-connection-with-shooting-that-injured-13/2013/03/14/4fa6145a-8cda-11e2-9838-d62f083ba93f_story.html,2013,Mar,Mon,DC,-77.0364,38.8951
+2013-03-13,Kurt Myers,5,2,"Herkimer, NY",http://www.usatoday.com/story/news/2013/03/14/upstate-new-york-herkimer-mohawk-suspect-surrounded/1986913/,2013,Mar,Wed,NY,-74.9334,43.0269
+2013-03-13,Unknown,2,2,"San Diego, CA",http://www.usatoday.com/story/news/2013/03/14/upstate-new-york-herkimer-mohawk-suspect-surrounded/1986913/,2013,Mar,Wed,CA,-117.171,32.7241
+2013-03-14,Unknown,0,4,"Modesto, CA",http://sacramento.cbslocal.com/2013/03/14/modesto-police-4-injured-in-drive-by-shooting/,2013,Mar,Thurs,CA,-121.017,37.6695
+2013-03-14,Angelica Vazquez,4,0,"Mesquite, TX",http://www.huffingtonpost.com/2013/03/15/angelica-vazquez-murder-suicide-paulina-alejandro_n_2883425.html,2013,Mar,Thurs,TX,-96.6231,32.7778
+2013-03-16,Unknown,0,7,"Galt, CA",http://www.kcra.com/news/7-injured-in-Galt-drive-by-shooting/-/11797728/19349066/-/9pvp0e/-/index.html,2013,Mar,Sat,CA,-121.314,38.2898
+2013-03-17,Unknown,2,4,"Stockton, CA",http://www.news10.net/news/article/236431/2/1-dead-and-4-more-injured-in-Stockton-shooting,2013,Mar,Sun,CA,-121.291,37.9577
+2013-03-17,Unknown,0,5,"Belle Glade, FL",http://www.palmbeachpost.com/news/news/crime-law/one-dead-three-others-wounded-in-shooting-at-belle/nWthJ/,2013,Mar,Sun,FL,-80.4303,26.6459
+2013-03-20,Brandon Menefee,3,1,"Jefferson County, AL",http://blog.al.com/spotnews/2013/03/birmingham_boy_remains_critica.html,2013,Mar,Wed,AL,-86.3815,31.2942
+2013-03-21,Unknown,0,7,"Chicago, IL",http://www.reuters.com/article/2013/03/21/us-usa-chicago-shooting-idUSBRE92K0QY20130321,2013,Mar,Thurs,IL,-87.6221,41.8853
+2013-03-21,Unknown,1,4,"Kansas City, MO",http://www.nbcnews.com/id/51286298/ns/local_news-kansas_city_mo/,2013,Mar,Thurs,MO,-94.5986,39.1024
+2013-03-22,Joseph Brown,1,3,"Brooklyn, NY",http://abcnews.go.com/US/wireStory/police-people-shot-fatally-coney-island-18793764#.UUzb2hekqc1,2013,Mar,Fri,NY,-73.9893,40.6945
+2013-03-26,Unknown,0,4,"St. Petersberg, FL",http://www.myfoxtampabay.com/story/21803539/2013/03/27/multiple-people-injured-in-st-pete-shooting,2013,Mar,Tues,FL,-82.5001,28.7505
+2013-03-31,Unknown,3,1,"Auburn, WA",http://q13fox.com/2013/03/31/three-people-fatally-shot-outside-auburn-tavern/,2013,Mar,Sun,WA,-122.228,47.3073
+2013-03-31,Unknown,2,3,"Merced County, CA",http://abclocal.go.com/kfsn/story?section=news/local&id=9046338,2013,Mar,Sun,CA,-120.461,37.2916
+2013-04-02,Unknown,4,1,"San Juan, Puerto Rico",http://www.nst.com.my/latest/drive-by-shooting-shuts-down-puerto-rico-highway-1.247670,2013,Apr,Tues,PR,-66.1057,18.4663
+2013-04-06,Unknown,0,4,"Philadelphia, PA",http://www.nbcphiladelphia.com/news/local/High-Powered-Weapon-Philadelphia-Four-Shootings-Missing-M16-204898451.html,2013,Apr,Sat,PA,-75.1638,39.9523
+2013-04-06,Unknown,1,4,"Greenwood, SC",http://www.wyff4.com/news/local-news/abbeville-greenwood-news/Police-5-shot-at-birthday-party-15-year-old-dies/-/9654572/19651374/-/qa9mi0/-/index.html,2013,Apr,Sat,SC,-82.1283,34.1142
+2013-04-07,Matthew Wilson,1,3,"Manhatten, Kansas",http://cjonline.com/news/2013-04-07/one-dead-three-injured-manhattan-shooting,2013,Apr,Sun,KS,-96.5767,39.1774
+2013-04-07,Unknown,1,3,"Long Beach, CA",http://www.dailybulletin.com/breakingnews/ci_22974008/1-dead-3-wounded-north-long-beach-shooting,2013,Apr,Sun,CA,-118.168,33.8034
+2013-04-09,Unknown,1,3,"Philadelphia, PA",http://www.nbcphiladelphia.com/news/local/Philadelphia-Shootings-202276451.html,2013,Apr,Tues,PA,-75.1638,39.9523
+2013-04-10,Unknown,0,4,"Vallejo, CA",http://abclocal.go.com/kgo/story?section=news/local/north_bay&id=9061192,2013,Apr,Wed,CA,-122.136,38.2449
+2013-04-13,Unknown,0,4,"Merced, CA",http://www.cbs47.tv/news/local/story/Merced-Shooting-Injures-Four/wuIX0WcjHk6wJmcsmmtxsQ.cspx,2013,Apr,Sat,CA,-120.424,37.3458
+2013-04-13,"Trenton Ore, Joven Covington",0,5,"Norfolk, VA",http://hamptonroads.com/2013/04/norfolk-police-5-shot-attempted-robbery-2-arrested,2013,Apr,Sat,VA,-76.2085,36.8959
+2013-04-14,Unknown,1,4,"Lexington, KY",http://www.wtvq.com/content/localnews/story/1-Dead-4-Injured-In-Bowling-Alley-Shooting/n7OK9_XOX0GT9CqegR2ZxA.cspx,2013,Apr,Sun,KY,-84.4777,37.9887
+2013-04-14,Unknown,2,4,"Phoenix, AZ",http://ktar.com/22/1626816/2-dead-4-hurt-in-Phoenix-driveby-shooting,2013,Apr,Sun,AZ,-112.074,33.4484
+2013-04-18,Tamerlan Tsarnaev,2,2,"Boston, MA",http://www.nytimes.com/2013/04/25/us/boston-marathon-bombings-developments.html?_r=0,2013,Apr,Thurs,MA,-71.027,42.3706
+2013-04-18,Unknown,4,0,"Akron, OH",http://www.huffingtonpost.com/2013/04/19/ohio-basement-murders-cop_n_3114243.html,2013,Apr,Thurs,OH,-81.524,41.0435
+2013-04-18,Kenneth Phillip,2,2,"Northhampton, PA",http://philadelphia.cbslocal.com/2013/04/18/police-investigate-shooting-in-feasterville-pa/,2013,Apr,Thurs,PA,-75.4791,40.678
+2013-04-20,Unknown,2,2,"Modesto, CA",http://www.modbee.com/2013/04/20/2680055/weekend-shootings-leave-one-dead.html,2013,Apr,Sat,CA,-121.017,37.6695
+2013-04-20,Christine Squire,2,2,"Richmond, VA",http://hamptonroads.com/2013/04/two-dead-two-officers-injured-richmond-shooting,2013,Apr,Sat,VA,-77.4603,37.5538
+2013-04-21,Dennis Clark III,5,2,"Federal Way, WA",http://news.yahoo.com/police-5-dead-shooting-south-seattle-081054003.html,2013,Apr,Sun,WA,-122.316,47.3077
+2013-04-22,Unknown,0,4,"Englewood, Illinois",http://www.dnainfo.com/chicago/20130422/englewood/four-wounded-afternoon-shooting-englewood,2013,Apr,Mon,IL,-87.6459,41.7798
+2013-04-22,"Davante Robertson Charlie A. Gumms, Frankie Hookman, Jr and Lashawn Davis",0,5,"Havey, Louisiana",http://www.wdsu.com/news/local-news/new-orleans/Sheriff-Cold-blooded-killers-shot-at-children-women-in-Harvey-incident/-/9853400/19841056/-/241acbz/-/index.html,2013,Apr,Mon,LA,-92.0004,31.0005
+2013-04-24,Rick Odell Smith,6,1,"Manchester, IL",http://www.usatoday.com/story/news/nation/2013/04/24/manchester-illinois-5-dead-shooting/2108991/,2013,Apr,Wed,IL,-90.3317,39.5405
+2013-04-25,Sean M. Woodings,0,4,"Oberlin, Ohio",http://www.newsnet5.com/dpp/news/local_news/oh_lorain/four-shot-at-an-apartment-in-oberlin-suspect-in-custody,2013,Apr,Thurs,OH,-82.2276,41.2946
+2013-04-27,Unknown,1,4,"Williston, FL",http://www.wogx.com/story/22106167/crab-festival-shooting-five-shot-one-dead-at-annual-street-party-near-gainesville-florida,2013,Apr,Sat,FL,-82.4468,29.3875
+2013-04-28,Unknown,1,3,"Chester, PA",http://www.delawareonline.com/viewart/20130429/NEWS/130429002/Teen-killed-3-injured-drive-by-Pa-shooting,2013,Apr,Sun,PA,-75.3781,39.8482
+2013-04-28,Kyle T. Flack,4,0,"Ottawa, KS",http://www.kansascity.com/2013/05/26/4258412/in-disbelief-friends-describe.html,2013,Apr,Sun,KS,-95.271,38.6147
+2013-04-28,Unknown,2,2,"Jackson, Tennessee",http://www.wbbjtv.com/news/local/PoliceDowntown-Jackson-Shooting-Leaves-2-Dead-and-2-Injured-205159391.html,2013,Apr,Sun,TN,-86.7111,36.3277
+2013-04-28,Unknown,0,5,"Charlotte, NC",http://www.wcnc.com/news/crime/Five-shot-at-home-in-East-Charlotte-no-arrests-made-204988731.html,2013,Apr,Sun,NC,-80.8042,35.26
+2013-04-28,"Neville Lynch, Mark Rose",0,4,"Lauderdale Lakes, FL",http://articles.sun-sentinel.com/2013-04-28/news/fl-four-shot-lauderdale-lakes-20130428_1_critical-condition-armed-services-committee-wednesday-david-rose,2013,Apr,Sun,FL,-80.2262,26.1514
+2013-05-02,Unknown,0,5,"Newark, NJ",http://www.nypost.com/p/news/local/police_people_shot_in_newark_L922bXvppdyU1YrB4bKndJ,2013,May,Thurs,NJ,-74.2251,40.7361
+2013-05-04,Krystal Olymica David,0,4,"Smithfield, NC",http://abclocal.go.com/wtvd/story?section=news/local&id=9090288,2013,May,Sat,NC,-78.336,35.5365
+2013-05-04,Unknown,4,6,"Aguas Buenas, PR",http://www.foxnews.com/world/2013/05/04/4-killed-6-injured-in-drive-by-shooting-in-puerto-rico/,2013,May,Sat,PR,-66.1029,18.2569
+2013-05-05,Unknown,1,3,"Oakland, CA",http://www.contracostatimes.com/breaking-news/ci_23180671/east-oakland-shootings-leave-17-year-old-boy,2013,May,Sun,CA,-122.224,37.786
+2013-05-05,Unknown,0,6,"E. Palo Alto, CA",http://www.sfgate.com/crime/article/Gunfire-near-E-Palo-Alto-restaurant-hurts-6-4490230.php,2013,May,Sun,CA,-116.858,33.0455
+2013-05-06,Unknown,0,4,"Johnstown, PA",http://tribune-democrat.com/local/x508495582/Police-question-4-men-wounded-in-shooting,2013,May,Mon,PA,-77.0527,40.9401
+2013-05-06,"Two boys, 10, 11",0,4,"Ocean Township, NJ",http://www.nbc40.net/story/22173848/police-2-boys-shot-4-youths-at-apartment-complex,2013,May,Mon,NJ,-74.2192,39.79
+2013-05-08,Ralph Robert Warren III,4,0,"Hendersonville, NC",http://www.citizen-times.com/article/20130509/NEWS/305090054/Man-kills-3-self-shooting-Henderson-County,2013,May,Wed,NC,-82.5531,35.2605
+2013-05-10,Unknown,3,1,"Harbor Gateway (Los Angeles), CA",http://ktla.com/2013/05/10/police-3-dead-in-shooting-in-harbor-gateway/,2013,May,Fri,CA,-118.22,33.8168
+2013-05-11,Unknown,0,4,"East Germantown, PA",http://www.philly.com/philly/blogs/dncrime/Four-shot-outside-corner-store-in-East-Germantown.html,2013,May,Sat,PA,-75.1203,39.9927
+2013-05-11,Samuel E. Sallee,4,0,"Waynesville, IN",http://www.theindychannel.com/news/local-news/police-4-found-dead-in-waynesville,2013,May,Sat,IN,-85.8917,39.1151
+2013-05-12,Unknown,0,5,"Newark, NJ",http://www.dispatch.com/content/stories/national_world/2013/05/04/Shooting_of_girl_4_others_at_vigil_not_yet_solved.html,2013,May,Sun,NJ,-74.2251,40.7361
+2013-05-12,Unknown,0,4,"Jersey City, NJ",http://newyork.cbslocal.com/2013/05/11/4-shot-wounded-in-jersey-city-public-housing-development/,2013,May,Sun,NJ,-74.0755,40.7328
+2013-05-12,Unknown,0,4,"Hollister, CA",http://www.kionrightnow.com/story/22233267/four-people-shot-injured-in-hollister,2013,May,Sun,CA,-121.392,36.8281
+2013-05-12,Unknown,0,4,"Apache Junction, AZ",http://ktar.com/22/1633793/Four-shot-at-party-in-Apache-Junction,2013,May,Sun,AZ,-111.52,33.3952
+2013-05-12,Unknown,0,19,"New Orleans, LA",http://www.upi.com/Top_News/US/2013/05/12/About-19-wounded-in-New-Orleans-Mothers-Day-parade-shooting/UPI-65901368404258/,2013,May,Sun,LA,-89.931,30.0688
+2013-05-13,Unknown,0,5,"Winton Hills, OH",http://www.local12.com/content/breaking_news/story/Five-People-Injured-In-Winton-Hills-Shooting/XXwNatFp80uyV0lLZmRf9w.cspx,2013,May,Mon,OH,-84.5146,39.1855
+2013-05-15,Undisclosed,1,4,"Detroit, MI",http://www.wxyz.com/dpp/news/1-dead-4-injured-in-detroit-shooting,2013,May,Wed,MI,-83.0602,42.347
+2013-05-15,Jeremiah Bean,5,0,"Fernley, NV",http://www.mynews4.com/news/local/story/Open-Murder-charges-to-be-filed-against-Jeremiah/vyd11s_PRku07VQCodeCiw.cspx,2013,May,Wed,NV,-119.197,39.4892
+2013-05-16,Unknown,0,4,"Philadelphia, PA",http://www.myfoxphilly.com/story/22268202/bystander-struck-inside-home-among-4-shot-in-sw-philly,2013,May,Thurs,PA,-75.1638,39.9523
+2013-05-18,Unknown,3,3,"Las Piedras, PR",http://abcnews.go.com/International/wireStory/killed-injured-puerto-rico-shooting-19208444,2013,May,Sat,PR,-65.8663,18.183
+2013-05-19,Unknown,0,4,"Detroit, MI",http://www.freep.com/article/20130519/NEWS05/305190159/Four-shot-outside-party-in-Detroit,2013,May,Sun,MI,-83.0602,42.347
+2013-05-19,Codarrell Lee Yates,0,4,"Lunenburg, VA",http://www.timesdispatch.com/news/state-regional/article_5c4e2967-bd4d-5737-8b7d-6e6afa47ee24.html,2013,May,Sun,VA,-78.2656,36.961
+2013-05-19,Unknown,2,2,"South Memphis, TN",http://www.commercialappeal.com/news/2013/may/19/four-shot-two-killed-in-south-memphis/,2013,May,Sun,TN,-90.0235,35.1097
+2013-05-20,Unknown,0,4,"Chicago, IL",http://chicago.cbslocal.com/2013/05/21/four-teens-wounded-in-austin-shooting/,2013,May,Mon,IL,-87.6221,41.8853
+2013-05-21,Albert Peterson,4,0,"Herndon, VA",http://www.nbcwashington.com/news/local/Four-Found-Dead-in-Herndon-Home-171198321.html,2013,May,Tues,VA,-77.3675,38.9839
+2013-05-21,Unknown,0,4,"Madison County, AL",http://blog.al.com/breaking/2013/05/4_teens_injured_in_shooting_at.html,2013,May,Tues,AL,-86.6779,34.7065
+2013-05-23,Evellis T. McGee and Karon D. Thomas,1,3,"Saginaw, MI",http://www.mlive.com/news/saginaw/index.ssf/2013/05/update_1_dead_after_saginaw_hi.html,2013,May,Thurs,MI,-83.8869,43.4124
+2013-05-23,Jason Brian Holt,2,2,"Knoxville, TN",http://www.dailymail.co.uk/news/article-2330162/Former-police-officer-hunt-pain-pills-shoots-dead-pharmacy-owner-customer-robbery.html?ito=feeds-newsxml,2013,May,Thurs,TN,-83.9207,35.9606
+2013-05-24,Julio Jesus Romero,2,2,"Bakersfield, CA",http://www.bakersfieldnow.com/news/local/4-shot-on-Columbus-St-209000741.html,2013,May,Fri,CA,-119.021,35.3843
+2013-05-25,Antonio King Green,1,3,"Flint, MI",http://www.wnem.com/story/22423822/three-women-shot-in-flint,2013,May,Sat,MI,-83.7808,42.9659
+2013-05-25,"Ryan Taybron, Eric Nixon",1,4,"Hampton, VA",http://www.wavy.com/dpp/news/local_news/hampton/family-talks-about-carnival-shooting,2013,May,Sat,VA,-76.3899,37.0727
+2013-05-26,Esteban J. Smith,3,5,"Began in Eden, TX",http://www.foxnews.com/us/2013/05/27/authorities-2-dead-5-injured-after-texas-gunman-seemed-to-randomly-shoot-at/,2013,May,Sun,TX,-95.9207,30.9436
+2013-05-28,Unknown,1,3,"Memphis, TN",http://www.wmctv.com/story/22444072/gunfire-rocks-neighborhood-four-people-shot,2013,May,Tues,TN,-89.9904,35.1693
+2013-05-28,Unknown,5,0,"Sells, AZ",http://www.fronterasdesk.org/news/2013/may/30/homicide-possible-five-bodies-arizona-desert/,2013,May,Tues,AZ,-111.877,31.9203
+2013-05-29,Unknown,0,4,"Chicago, IL","http://www.chicagotribune.com/news/local/breaking/chi-chicago-shootings-violence-2-shot-on-far-south-side-20130529,0,6107595.story",2013,May,Wed,IL,-87.6221,41.8853
+2013-05-31,Unknown,0,4,"Atlanta, GA",http://www.11alive.com/news/article/294952/1/4-people-shot-on-their-porch-during-neighborhood-dispute,2013,May,Fri,GA,-84.4741,33.8444
+2013-06-01,Unknown,0,4,"Milwaukee, WI",http://fox6now.com/2013/06/01/4-shot-outside-milwaukee-nightclub/,2013,Jun,Sat,WI,-87.9584,43.0113
+2013-06-01,Unknown,2,2,"Vallejo, CA",http://www.sfgate.com/crime/article/2-killed-2-hurt-in-Vallejo-shooting-4569496.php,2013,Jun,Sat,CA,-122.136,38.2449
+2013-06-02,Unknown,0,4,"Indianapolis, IN",http://fox59.com/2013/06/02/four-wounded-in-birthday-shooting/,2013,Jun,Sun,IN,-86.1322,39.7751
+2013-06-02,Unknown,0,5,"Roanoke, VA",http://articles.wdbj7.com/2013-06-02/roanoke-police-department_39696718,2013,Jun,Sun,VA,-79.9579,37.2742
+2013-06-02,Unknown,0,4,"Virginia Beach, VA",http://articles.dailypress.com/2013-06-02/news/dp-nws-virginia-beach-shooting_1_virginia-beach-shooting-sentara-leigh,2013,Jun,Sun,VA,-76.1204,36.844
+2013-06-02,Xavier Edmondson and Lewis Antonio,0,7,"LaGrange, GA",http://www.myfoxatlanta.com/story/22484234/report-multiple-people-shot-at-lagrange-park,2013,Jun,Sun,GA,-85.0739,33.0243
+2013-06-03,Manuel Mata III,2,2,"Las Vegas, NV",http://www.fox5vegas.com/story/22477061/2-dead-2-injured-in-early-morning-shooting,2013,Jun,Mon,NV,-115.207,36.3011
+2013-06-04,Johnny Simpson,2,2,"Shoreview, MN",http://minnesota.publicradio.org/display/web/2013/06/04/news/shoreview-shooting,2013,Jun,Tues,MN,-93.1472,45.0791
+2013-06-05,Undisclosed,0,10,"Elburn, IL",http://beaconnews.suntimes.com/news/20556917-418/ten-injured-after-accidental-shooting-at-kane-county-club.html,2013,Jun,Wed,IL,-88.4699,41.8349
+2013-06-07,John Zawahri,5,5,"Santa Monica, CA",http://www.usatoday.com/story/news/nation/2013/06/09/santa-monica-shooting-john-zawahri/2405015/,2013,Jun,Fri,CA,-118.491,34.0195
+2013-06-09,Unknown,0,4,"York City, PA",http://www.whptv.com/news/local/story/Gunfire-erupts-injuring-4-people-in-York-City/C86j-ddS8kS5BbiGcPdEHg.cspx,2013,Jun,Sun,PA,-76.7258,39.9674
+2013-06-10,Unknown,1,5,"Chicago, IL",http://www.suntimes.com/news/20664257-418/four-shot-in-englewood.html,2013,Jun,Mon,IL,-87.6221,41.8853
+2013-06-10,Davonta Coleman,0,6,"St. Louis, MO",http://www.kmov.com/news/local/Multiple-victims-shot-throughout-5-different-incident-in-St-Louis-210974011.html,2013,Jun,Mon,MO,-90.4434,38.6407
+2013-06-11,David Andrus,4,0,"Darien, IL",http://chicago.cbslocal.com/2013/06/11/four-people-found-shot-to-death-in-unincorporated-downers-grove/,2013,Jun,Tues,IL,-87.9805,41.7434
+2013-06-12,Ahmed Dirir,4,0,"St. Louis, MO",http://www.cnn.com/2013/06/13/us/missouri-shooting/,2013,Jun,Wed,MO,-90.4434,38.6407
+2013-06-14,Unknown,0,4,"High Point, NC",http://nocera.blogs.nytimes.com/2013/06/17/weekend-gun-report-june-14-16-2013/,2013,Jun,Fri,NC,-80.0053,35.9557
+2013-06-15,Earnest Woodley,0,4,"Nashville, TN",http://www.huffingtonpost.com/2013/06/15/earnest-woodley-nashville-shooting_n_3446396.html,2013,Jun,Sat,TN,-86.7781,36.1657
+2013-06-15,Unknown,1,3,"Houston, TX",http://www.chron.com/news/houston-texas/houston/article/1-dead-3-injured-in-SW-Houston-night-club-4602574.php,2013,Jun,Sat,TX,-95.3098,29.8131
+2013-06-16,Unknown,1,3,"Chicago, IL",http://chicago.cbslocal.com/2013/06/16/police-1-dead-3-hurt-in-shooting-at-chatham-club/,2013,Jun,Sun,IL,-87.6221,41.8853
+2013-06-18,Unknown,1,3,"Berkeley, MO",http://stlouis.cbslocal.com/2013/06/18/police-4-shot-in-berkeley-in-broad-daylight/,2013,Jun,Tues,MO,-90.3312,38.7545
+2013-06-19,Gary W. Stewart Jr.,3,1,"Louisville, KY",http://www.wkyt.com/news/headlines/A-shooting-in-Louisville-leaves-three-dead-and-one-critically-injured--212223321.html,2013,Jun,Wed,KY,-85.6768,38.189
+2013-06-21,Unknown,1,3,"Chicago, IL",http://abclocal.go.com/wls/story?section=news/local&id=9149117,2013,Jun,Fri,IL,-87.6221,41.8853
+2013-06-21,Darren Lamont Roberts and Kyle Edward Thornton,0,6,"Norfolk, VA",http://hamptonroads.com/2013/06/police-charge-two-norfolk-shooting-injured-six,2013,Jun,Fri,VA,-76.2085,36.8959
+2013-06-22,Unknown,0,4,"Providence, RI",http://news.providencejournal.com/breaking-news/2013/06/four-shot-in-olneyville-latest-in-a-series-of-city-shootings-ready.html,2013,Jun,Sat,RI,-71.4145,41.8227
+2013-06-22,"Kamal ""Rico"" Edge",1,4,"Paterson, NJ",http://www.nbc40.net/story/22662014/police-1-dead-3-wounded-in-paterson-shooting,2013,Jun,Sat,NJ,-74.171,40.912
+2013-06-22,Unknown,1,4,"Baltimore, MD",http://articles.baltimoresun.com/2013-06-22/news/bs-md-ci-five-shot-20130622_1_west-baltimore-early-morning-shooting-homicide-unit,2013,Jun,Sat,MD,-76.7195,39.3242
+2013-06-22,Lakim Anthony Faust,0,5,"Greenville, NC",http://thecelebritycafe.com/feature/2013/06/five-shot-north-carolina-rampage,2013,Jun,Sat,NC,-77.3926,35.5804
+2013-06-23,Unknown,1,8,"Kansas City, MO",http://www.kshb.com/dpp/news/crime/nine-people-shot-at-club-in-kansas-city-at-least-three-in-critical-condition,2013,Jun,Sun,MO,-94.5986,39.1024
+2013-06-23,Elijah Rodgers,1,3,"Sacramento, CA",http://www.sacbee.com/2013/06/24/5518682/party-dispute-leads-to-gunfire.html,2013,Jun,Sun,CA,-121.555,38.3805
+2013-06-23,Unknown,1,4,"Virginia Beach, VA",http://www.wvec.com/news/1-dead-4-injured-in-Town-Center-shooting-212669741.html,2013,Jun,Sun,VA,-76.1204,36.844
+2013-06-23,Unknown,1,3,"Chattanooga, TN",http://www.newschannel5.com/story/22668926/1-killed-3-injured-in-chattanooga-vehicle-shooting,2013,Jun,Sun,TN,-85.2064,35.0178
+2013-06-23,Unknown,0,4,"Gentilly, LA",http://www.wwltv.com/news/crime/Quadruple-shooting-rocks-Gentilly-street-during-soldiers-going-away-party-212688831.html,2013,Jun,Sun,LA,-90.0628,30.0134
+2013-06-24,Unknown,1,3,"Kansas City, MO",http://fox4kc.com/2013/06/24/1-dead-2-injured-in-kc-shooting/,2013,Jun,Mon,MO,-94.5986,39.1024
+2013-06-25,Unknown,1,4,"Chicago, IL","http://www.chicagotribune.com/news/local/breaking/chi-1-dead-4-wounded-in-south-side-shooting-20130625,0,2417544.story",2013,Jun,Tues,IL,-87.6221,41.8853
+2013-06-27,Tierra Fallin,1,3,"Baltimore, MD","http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-shooting-arrest-20130704,0,710526.story",2013,Jun,Thurs,MD,-76.7195,39.3242
+2013-06-27,"Manuel Talamantez, Christina Martinez",2,2,"Three Rivers, CA",http://www.visaliatimesdelta.com/article/20130629/NEWS01/306290008/Two-behind-bars-after-four-shot-Three-Rivers,2013,Jun,Thurs,CA,-118.828,36.4355
+2013-06-28,Unknown,0,6,"Chicago, IL",http://www.huffingtonpost.com/2013/06/29/uptown-driveby-shooting-6_n_3521906.html?utm_hp_ref=chicago,2013,Jun,Fri,IL,-87.6221,41.8853
+2013-06-29,Unknown,0,4,"Aurora, CO",http://kdvr.com/2013/06/30/police-4-shot-at-aurora-house-party/,2013,Jun,Sat,CO,-104.863,39.7392
+2013-06-29,"Ronald Reid, Barry Stinson",3,1,"North Charleston, SC",http://www.dailyjournal.net/view/story/edf01532a7374ccf8a2654b74f045693/NC--Bike-Shop-Shooting/,2013,Jun,Sat,SC,-79.9913,32.853
+2013-06-30,Unknown,0,9,"Brooklyn, NY",http://www.nypost.com/p/news/local/brooklyn/seven_wounded_by_brooklyn_gunfire_lknqTq0jhQRk2PAdxM4N5K,2013,Jun,Sun,NY,-73.9893,40.6945
+2013-07-01,Amos Wells,4,0,"Fort Worth, TX",http://www.nbcdfw.com/news/local/Three-Shot-in-Fort-Worth-213915921.html,2013,Jul,Mon,TX,-97.2915,32.7714
+2013-07-02,Unknown,1,3,"Montgomery, AL",http://www.wncftv.com/localnews/Triple-Shooting-in-Montgomery-Leaves-1-dead-3-Injured--213921881.html,2013,Jul,Tues,AL,-86.2578,32.357
+2013-07-03,Unknown,1,3,"Calais, ME",http://www.wcsh6.com/news/article/248564/2/One-dead-and-three-injured-from-a-shooting-in-Calais,2013,Jul,Wed,ME,-67.2786,45.189
+2013-07-04,Robert Marion Naylor,1,6,"Pontiac, MI",http://www.wxyz.com/dpp/news/1-dead-6-injured-in-pontiac-shooting,2013,Jul,Thurs,MI,-83.289,42.6703
+2013-07-04,Unknown,0,4,"Woodlawn, IL",http://chicago.cbslocal.com/2013/07/05/four-shot-including-14-year-old-boy-in-woodlawn/,2013,Jul,Thurs,IL,-89.0503,38.3144
+2013-07-05,Unknown,1,3,"Macon, GA",http://www.13wmaz.com/news/article/237898/4/1-Dead-3-Injured-in-Shooting-Outside-Macon-Club,2013,Jul,Fri,GA,-83.6176,32.8044
+2013-07-06,Unknown,1,7,"Chicago, IL",http://articles.chicagotribune.com/2013-07-07/news/chi-chicago-violence-july-6july-7-20130706_1_west-flournoy-street-drive-by-shooting-west-side,2013,Jul,Sat,IL,-87.6221,41.8853
+2013-07-06,Brandon Reese,1,3,"Brooklyn, NY",http://bed-stuy.patch.com/groups/editors-picks/p/four-people-shot-one-dead-at-marcy-houses,2013,Jul,Sat,NY,-73.9893,40.6945
+2013-07-06,Chauncy Laray Mitchell,0,4,"Florence, AL",http://blog.al.com/breaking/2013/07/early_morning_shooting_leaves_1.html,2013,Jul,Sat,AL,-87.6617,34.823
+2013-07-06,Unknown,1,3,"Los Angeles, CA",http://www.dailynews.com/ci_23615062/1-shot-death-3-wounded-during-party-south?source=most_viewed,2013,Jul,Sat,CA,-118.248,33.974
+2013-07-07,Unknown,1,5,"Chicago, IL",http://www.suntimes.com/news/crime/21201725-418/four-shot-in-roseland-person-in-custody.html,2013,Jul,Sun,IL,-87.6221,41.8853
+2013-07-07,Unknown,1,4,"Stockton, CA",http://www.recordnet.com/apps/pbcs.dll/article?AID=/20130709/A_NEWS/307090313,2013,Jul,Sun,CA,-121.291,37.9577
+2013-07-07,Unknown,0,4,"Meridian, MS",http://www.wjtv.com/story/22782311/quadruple-shooting-sunday-morning,2013,Jul,Sun,MS,-88.6635,32.3816
+2013-07-07,Unknown,1,3,"Pompano Beach, FL",http://www.nbcmiami.com/news/local/1-Dead-3-Injured-in-Pompano-Beach-Armed-Robbery-Attempt-Deputies-214527091.html,2013,Jul,Sun,FL,-80.1206,26.2348
+2013-07-09,Unknown,2,2,"Rockford, IL",http://abclocal.go.com/wls/story?section=news/local/illinois&id=9168037,2013,Jul,Tues,IL,-89.094,42.2711
+2013-07-09,Lamont Jones,0,4,"Baltimore, MD",http://articles.baltimoresun.com/2013-07-09/news/bs-md-ci-western-multiple-shooting-20130709_1_west-baltimore-broadway-east-east-baltimore,2013,Jul,Tues,MD,-76.7195,39.3242
+2013-07-10,Konrad Schafer and David Damus,2,12,"Kissimmee, FL","http://www.orlandosentinel.com/news/local/breakingnews/os-konrad-schafer-murder--20130711,0,5562510.story",2013,Jul,Wed,FL,-81.4076,28.292
+2013-07-11,Unknown,1,3,"Charlotte, NC",http://www.wbtv.com/story/22817634/police-one-dead-3,2013,Jul,Thurs,NC,-80.8042,35.26
+2013-07-12,Unknown,1,4,"Hamilton Township, NJ",http://www.washingtontimes.com/news/2013/jul/14/one-teen-dead-4-wounded-nj-birthday-party-shooting/,2013,Jul,Fri,NJ,-74.6751,40.2168
+2013-07-12,Unknown,1,3,"San Francicsco, CA",http://www.sfgate.com/crime/article/1-killed-3-wounded-in-Mission-shooting-4649420.php,2013,Jul,Fri,CA,-122.47,37.7361
+2013-07-12,Unknown,2,2,"Greensburg, KY",http://www.kentucky.com/2013/07/12/2712598/police-2-dead-2-injured-in-rural.html,2013,Jul,Fri,KY,-85.5193,37.2759
+2013-07-13,Unknown,0,4,"Washington, DC",http://www.nbcwashington.com/news/local/Four-Shot-Police-Searching-for-Gunman-215434211.html,2013,Jul,Sat,DC,-77.0364,38.8951
+2013-07-13,Unknown,1,3,"Oklahoma City, OK",http://kfor.com/2013/07/14/one-dead-three-injured-in-northeast-okc-shooting/,2013,Jul,Sat,OK,-97.5628,35.4916
+2013-07-14,Billie McKinney,0,5,"Kentwood, MI",http://www.mlive.com/news/grand-rapids/index.ssf/2013/07/5_people_shot_late_sunday_at_p.html,2013,Jul,Sun,MI,-85.6138,42.9457
+2013-07-14,Unknown,1,4,"Wichita, KS",http://www.wibw.com/home/headlines/One-Dead-Four-Injured-In-Shooting-Near-Downtown-Wichita-215439921.html,2013,Jul,Sun,KS,-97.259,37.652
+2013-07-14,Phillip Brierly Jr.,2,2,"Lexington, SC",http://www.thestate.com/2013/07/15/2863458/sheriff-man-stabs-uncle-commits.html,2013,Jul,Sun,SC,-81.2362,33.9815
+2013-07-17,Joe Carroll,3,1,"Oakland, CA",http://www.nbcbayarea.com/news/local/Quadruple-Shooting-Girl-8-Dead-Children-Grandma-Injured-215984691.html,2013,Jul,Wed,CA,-122.224,37.786
+2013-07-19,Unknown,0,4,"Hartford, CT",http://articles.courant.com/2013-07-19/community/hc-hartford-shooting-vibes-club-0720-20130719_1_graze-wound-18-year-old-man-10-gunshots,2013,Jul,Fri,CT,-72.6771,41.7801
+2013-07-19,Unknown,0,4,"Madera, CA",http://www.fresnobee.com/2013/07/19/3396298/madera-drive-by-may-be-revenge.html,2013,Jul,Fri,CA,-120.182,36.9283
+2013-07-20,Devin Spann,0,5,"Campbell, OH",http://www.vindy.com/news/2013/jul/21/-injured-in-shootings-in-campbell/,2013,Jul,Sat,OH,-80.5919,41.0777
+2013-07-21,Terrence Lynom and Angelo Clark,1,3,"Chicago, IL",http://wgntv.com/2013/07/21/1-dead-3-injured-in-far-south-side-shooting/,2013,Jul,Sun,IL,-87.6221,41.8853
+2013-07-21,Unknown,0,5,"Brooklyn (Bushwick), NY",http://www.nypost.com/p/news/local/brooklyn/spray_of_bullets_hits_Utf74cwI8L0Lr8TSaw0D5H,2013,Jul,Sun,NY,-73.9442,40.6774
+2013-07-21,Unknown,0,4,"Brooklyn (Crown Heights), NY",http://brooklyn.news12.com/news/4-shot-in-drive-by-shooting-in-brooklyn-1.5739729,2013,Jul,Sun,NY,-73.9443,40.6376
+2013-07-21,Unknown,2,2,"Fort Pierce, FL",http://www.wptv.com/dpp/news/region_st_lucie_county/fort_pierce/3-wounded-in-2-fort-pierce-drive-by-shootings-sunday-morning-on-boston-avenue-and-angle-road,2013,Jul,Sun,FL,-80.5342,27.4121
+2013-07-24,Unknown,0,4,"Topeka, KS",http://www.wibw.com/home/headlines/Drive-by-Reported-On-SE-Topeka-Street-For-2nd-Time-In-One-Week-216878511.html,2013,Jul,Wed,KS,-95.7807,38.9881
+2013-07-25,Unknown,0,4,"Inkster, MI",http://www.wxyz.com/dpp/news/4-people-shot-in-inkster-on-thursday-evening,2013,Jul,Thurs,MI,-83.3147,42.2933
+2013-07-26,Sidney A. Muller,4,0,"Clarksburg, WV",http://www.wvgazette.com/News/201307260012,2013,Jul,Fri,WV,-80.3419,39.2874
+2013-07-26,Pedro Alberto Vargas,7,0,"Hialea, FL",http://www.abc22now.com/shared/news/top-stories/stories/wkef_vid_14957.shtml,2013,Jul,Fri,FL,-80.2803,25.8226
+2013-07-27,Unknown,1,3,"Farmington, NM",http://www.krqe.com/dpp/news/crime/1-dead-3-hurt-in-farmington-shooting,2013,Jul,Sat,NM,-108.179,36.7403
+2013-07-28,Unknown,0,4,"Granger, WA",http://seattletimes.com/html/localnews/2021495487_apwagrangershooting.html,2013,Jul,Sun,WA,-120.155,46.3402
+2013-07-28,Unknown,1,3,"Irvington, NJ",http://newjersey.news12.com/news/1-dead-3-injured-after-irvington-shootings-1.5786807,2013,Jul,Sun,NJ,-74.2329,40.7262
+2013-07-28,Unknown,0,5,"Dallas, TX",http://crimeblog.dallasnews.com/2013/07/police-five-shot-wounded-at-fast-food-drive-through-in-north-dallas.html/,2013,Jul,Sun,TX,-96.7903,32.7812
+2013-07-30,Parrish Chee,0,4,"Lea County (Hobbs), NM",http://www.krqe.com/dpp/news/crime/4-injured-in-shooting-near-hobbs,2013,Jul,Tues,NM,-103.178,32.7008
+2013-08-02,Unknown,2,3,"Newark, NJ",http://www.nj.com/news/index.ssf/2013/08/at_least_one_dead_four_shot_in_newarks_central_ward.html,2013,Aug,Fri,NJ,-74.2251,40.7361
+2013-08-02,Tristan Crayton,0,4,"Broad Ripple, IN",http://www.wishtv.com/dpp/news/local/marion_county/4-people-shot-outside-broad-ripple-nightclub,2013,Aug,Fri,IN,-86.1305,39.8667
+2013-08-02,Unknown,4,0,"Whitesburg, KY",http://www.sfgate.com/news/crime/article/4-dead-in-shooting-in-eastern-Ky-4702896.php,2013,Aug,Fri,KY,-82.855,37.1388
+2013-08-03,Unknown,0,5,"Detriot, MI",http://www.clickondetroit.com/news/5-shot-including-child-outside-detroit-home/-/1719418/21320248/-/p60k3gz/-/index.html,2013,Aug,Sat,MI,-82.9263,42.4007
+2013-08-04,Unknown,1,3,"Kansas City, Mo",http://fox4kc.com/2013/08/04/quadruple-shooting-leaves-one-dead-while-neighborhood-church-seeks-change/,2013,Aug,Sun,MO,-94.5986,39.1024
+2013-08-04,Giovanni Pacheco,3,4,"Salinas, CA",http://www.ksbw.com/news/central-california/salinas/double-homicide-in-salinas/-/5738906/21334240/-/lx0hwnz/-/index.html,2013,Aug,Sun,CA,-121.656,36.6777
+2013-08-05,Known but unidentified.,0,4,"Montclair, NJ",http://pix11.com/2013/08/06/4-people-shot-in-montclair-new-jersey/,2013,Aug,Mon,NJ,-74.2164,40.8119
+2013-08-05,Rockne Newell,3,4,"Ross Township, PA",http://articles.mcall.com/2013-08-06/news/mc-monroe-ross-township-municipal-building-shootin-20130805_1_township-official-state-police-hamilton-township,2013,Aug,Mon,PA,-78.3772,40.4457
+2013-08-07,Erbie Bowser,4,4,"Dallas, TX",http://bigstory.ap.org/article/police-least-4-dead-dallas-area-shootings,2013,Aug,Wed,TX,-96.7903,32.7812
+2013-08-11,Nikko Jenkins,4,0,"Omaha, NE",http://www.inquisitr.com/937335/nebraska-convict-nikko-jenkins-adds-four-homicides-after-prison-release/,2013,Aug,Sun,NE,-96.1711,41.2917
+2013-08-11,Unknown,1,3,"Flatbush, NY",http://www.amny.com/urbanite-1.812039/four-shot-in-flatbush-1.5873385,2013,Aug,Sun,NY,-73.959,40.652
+2013-08-11,Unknown,0,4,"Wilmington, DE",http://www.delawareonline.com/article/20130812/NEWS01/308120084/4-wounded-in-Wilmington-shooting,2013,Aug,Sun,DE,-75.5478,39.7271
+2013-08-11,Unknown,2,2,"St. Louis, MO",http://fox2now.com/2013/08/09/multiple-people-shot-in-north-st-louis-2/,2013,Aug,Sun,MO,-90.4434,38.6407
+2013-08-11,Unknown,1,4,"Portsmouth, VA",http://www.fox43tv.com/dpps/news/crime/mount-vernon-avenue-shooting-portsmouth_6624449,2013,Aug,Sun,VA,-76.2983,36.8354
+2013-08-12,Unknown,0,4,"Cincinnati, OH",http://downtown-mtauburn.fox19.com/news/news/164041-4-injured-after-drive-shooting-otr,2013,Aug,Mon,OH,-84.5382,39.1668
+2013-08-15,Daniel Green,4,0,"Oklahoma, OK",http://www.news9.com/story/23149917/neighbors-shocked-over-qualduple-murder-in,2013,Aug,Thurs,OK,-97.5076,35.5867
+2013-08-16,Unknown,0,4,"Kingsessing, PA",http://www.philly.com/philly/news/breaking/20130814_Four_injured__1_critically__in_Kingsessing_shooting.html,2013,Aug,Fri,PA,-75.2296,39.9368
+2013-08-17,Demetrius Ward,0,4,"Oakland, CA",http://www.contracostatimes.com/news/ci_23885411/oakland-four-shot-telegraph-avenue,2013,Aug,Sat,CA,-122.224,37.786
+2013-08-18,Unknown,1,3,"Rochester, NY",http://www.rochesterhomepage.net/story/innocent-bystander-shot-and-killed-on-south-plymouth-avenue/d/story/BzbJIALklUy5obzJF0tt_A,2013,Aug,Sun,NY,-77.6843,43.286
+2013-08-18,Unknown,1,3,"Chicago, IL",http://chicago.cbslocal.com/2013/08/18/1-killed-3-wounded-in-west-side-shooting/,2013,Aug,Sun,IL,-87.6221,41.8853
+2013-08-18,Unknown,0,4,"Toledo, OH",http://www.toledoblade.com/Police-Fire/2013/08/19/Six-injured-in-violent-weekend-in-Toledo.html,2013,Aug,Sun,OH,-83.5694,41.7207
+2013-08-18,Unknown,0,4,"Port Norris, NJ",http://www.myfoxphilly.com/story/23166504/4-shot-during-gathering-in-south-jersey-woods,2013,Aug,Sun,NJ,-75.0984,39.2833
+2013-08-18,Darryl Sain,0,4,"St. Louis, MO",http://fox2now.com/2013/08/18/suspect-arrested-four-shot-midtown-gas-station/,2013,Aug,Sun,MO,-90.4434,38.6407
+2013-08-18,Dontrel Shyhee Blakeney,1,4,"Chesterfield County, SC",http://myfox8.com/2013/08/18/5-shot-1-killed-in-sc-shooting-suspects-sought-in-nc/,2013,Aug,Sun,SC,-80.0359,34.7276
+2013-08-19,Kelsky Patterson,1,4,"Chicago, IL",http://articles.chicagotribune.com/2013-08-20/news/chi-cops-5-shot-in-uptown-20130819_1_bang-five-men-shooting,2013,Aug,Mon,IL,-87.6221,41.8853
+2013-08-20,Melville Mason,2,2,"Baltimore, MD",http://www.abc2news.com/dpp/news/crime_checker/baltimore_city_crime/three-people-shot-on-n-carey-street-in-west-baltimore,2013,Aug,Tues,MD,-76.7195,39.3242
+2013-08-20,Unknown,0,4,"Vanceboro, NC",http://www.witn.com/home/headlines/Multiple-People-Shot-Outside-Vanceboro-220411001.html,2013,Aug,Tues,NC,-77.1779,35.3131
+2013-08-22,Jim Edwards,2,2,"Shaler, PA",http://pittsburgh.cbslocal.com/2013/08/22/deadly-shooting-in-shaler/,2013,Aug,Thurs,PA,-79.9632,40.5227
+2013-08-23,Unknown,1,6,"Baltimore, MD",http://baltimore.cbslocal.com/2013/08/25/juvenile-dead-6-shot-after-dice-game-goes-bad/,2013,Aug,Fri,MD,-76.7195,39.3242
+2013-08-24,Unknown,0,4,"Indianapolis, IN",http://www.theindychannel.com/news/local-news/four-indianapolis-men-wounded-after-seemingly-random-gunfire,2013,Aug,Sat,IN,-86.1322,39.7751
+2013-08-25,Unknown,2,2,"Minneapolis, MN",http://minnesota.publicradio.org/display/web/2013/08/26/news/2-shot-dead-2-injured-in-minneapolis,2013,Aug,Sun,MN,-93.3148,45.1604
+2013-08-25,Unknown,0,4,"Oakland, CA",http://www.contracostatimes.com/news/ci_23939970/four-people-including-two-girls-wounded-oakland-shooting,2013,Aug,Sun,CA,-122.224,37.786
+2013-08-25,Unknown,1,4,"Dillon County, SC",http://www.carolinalive.com/news/story.aspx?id=938146,2013,Aug,Sun,SC,-79.2591,34.3833
+2013-08-25,Hubert Allen Jr.,3,2,"Lake Butler, FL",http://www.abcactionnews.com/dpp/news/state/officials-gunman-kills-wounds-multiple-people-in-north-florida-shooting-spree,2013,Aug,Sun,FL,-82.3414,30.0076
+2013-08-28,Devonere Simmonds,3,2,"Columbus, OH",http://www.dispatch.com/content/stories/public/2013/08/29/third-homicide-charge-for.teen.html,2013,Aug,Wed,OH,-83.0134,40.1009
+2013-09-05,Unknown,0,4,"Charlotte, NC",http://www.wsoctv.com/news/news/local/police-investigate-multiple-calls-shots-fired-outs/nZn7z/,2013,Sep,Thurs,NC,-80.8042,35.26
+2013-09-07,Unknown,2,4,"Gary, IN",http://www.chron.com/news/media/2-dead-4-injured-in-Gary-Indiana-shooting-87075.php?cmpid=videohcat,2013,Sep,Sat,IN,-87.3199,41.5907
+2013-09-07,Darnell Hollings,1,3,"St. Louis, MO",http://www.kmov.com/news/crime/21-year-old-man-charged-in-fatal-quadruple-north-St-Louis-shooting-223392611.html,2013,Sep,Sat,MO,-90.4434,38.6407
+2013-09-10,Roderick Rodgers and David Anderson,1,4,"Bridgeport, CT","http://www.courant.com/news/connecticut/hc-bridgeport-shooting-0911-20130910,0,6220161.story",2013,Sep,Tues,CT,-73.3637,41.3089
+2013-09-11,Unknown,0,4,"New York, NY",http://www.nydailynews.com/new-york/4-people-shot-club-sob-varick-st-article-1.1453270,2013,Sep,Wed,NY,-74.006,40.7143
+2013-09-11,Unknown,1,3,"Washington, DC",http://www.wusa9.com/news/article/274561/158/1-dead-3-injured-after-quadruple-shooting-in-NW-DC,2013,Sep,Wed,DC,-77.0364,38.8951
+2013-09-11,Jacob Bennett and Brittany Moser,4,0,"Renegade Mountain, TN",http://www.foxnews.com/us/2013/09/12/investigators-bodies-4-people-shot-to-death-found-in-car-on-renegade-mountain/,2013,Sep,Wed,TN,-84.864721,35.890147
+2013-09-13,Unknown,0,4,"Centreville, IL",http://fox2now.com/2013/09/13/four-shot-in-centreville-housing-complex/,2013,Sep,Fri,IL,-90.1251,38.5834
+2013-09-14,Earl Spencer Boyce,0,4,"Marion, NC",http://www.mcdowellnews.com/news/article_1476be3e-1d6c-11e3-8698-001a4bcf6878.html,2013,Sep,Sat,NC,-82.0347,35.6842
+2013-09-15,Unknown,0,6,"Yakima, WA",http://www.kimatv.com/news/local/Shooting-leaves-six-people-shot-one-in-critical-condition--223823421.html,2013,Sep,Sun,WA,-120.406,46.7226
+2013-09-15,Unknown,0,4,"Wilmington, DE",http://abclocal.go.com/wpvi/story?section=news/local&id=9249747,2013,Sep,Sun,DE,-75.5478,39.7271
+2013-09-15,Unknown,0,5,"Colorado Springs, CO",http://www.kktv.com/home/headlines/Shooting--223813311.html,2013,Sep,Sun,CO,-104.858,38.8615
+2013-09-15,Unknown,0,7,"Fresno, CA",http://www.ksee24.com/news/local/Six-Injured-in-Shooting-at-Fresno-Party-223953501.html,2013,Sep,Sun,CA,-119.735,36.8626
+2013-09-15,Unknown,2,2,"Bakersfield, CA",http://www.bakersfieldnow.com/news/local/2-suspects-dead-2-officers-wounded-in-shootout-223903971.html,2013,Sep,Sun,CA,-119.021,35.3843
+2013-09-15,Robert E. Bell,3,1,"Snellville, GA",http://www.11alive.com/news/article/306499/40/4-Shot-3-dead-in-Gwinnett-Co-shooting,2013,Sep,Sun,GA,-84.0229,33.8178
+2013-09-16,Aaron Alexis,13,8,"Washington, DC",http://www.washingtonpost.com/local/police-search-for-active-shooter-on-grounds-of-washington-navy-yard-in-southeast-dc/2013/09/16/b1d72b9a-1ecb-11e3-b7d1-7153ad47b549_story.html,2013,Sep,Mon,DC,-77.0364,38.8951
+2013-09-17,Unknown,0,4,"Lansing, MI",http://www.wlns.com/story/23456201/shooting-1524-ottawa,2013,Sep,Tues,MI,-84.5555,42.7325
+2013-09-17,Unknown,1,4,"Stockton, CA",http://www.news10.net/news/article/257700/2/1-dead-4-injured-in-shooting-at-Stockton-grocery-store,2013,Sep,Tues,CA,-121.291,37.9577
+2013-09-17,Unknown,0,4,"Las Vegas, NV",https://www.reviewjournal.com/news/crime-courts/las-vegas-police-seek-information-drive-shooting,2013,Sep,Tues,NV,-115.207,36.3011
+2013-09-17,Unknown,4,0,"West Broward, FL",http://www.lasvegassun.com/news/2013/sep/19/us-florida-chase-deaths/,2013,Sep,Tues,FL,-80.0564,26.582
+2013-09-18,Unknown,1,4,"Bakersfield, CA",http://www.bakersfieldnow.com/news/local/4-shot-behind-convenience-store-224423401.html,2013,Sep,Wed,CA,-119.021,35.3843
+2013-09-18,Unknown,1,4,"Whitehaven, TN",http://whitehaven.wmctv.com/news/news/195832-police-one-dead-after-multiple-people-shot-whitehaven,2013,Sep,Wed,TN,-90.0293,35.0273
+2013-09-18,Unknown,0,5,"Kissimmee, FL",http://www.myfoxorlando.com/story/23469838/kissimmee-police-investigate-shootings-which-left-5-injured,2013,Sep,Wed,FL,-81.4076,28.292
+2013-09-19,Bryon Champ,0,13,"Chicago, IL","http://www.chicagotribune.com/news/local/breaking/chi-multiple-people-including-3yearold-shot-in-south-side-attack-20130919,0,352520.story",2013,Sep,Thurs,IL,-87.6221,41.8853
+2013-09-20,Unknown,2,2,"Long Beach, CA",http://www.lbreport.com/news/sep13/187nlbros.htm,2013,Sep,Fri,CA,-118.168,33.8034
+2013-09-20,Guadalupe Ronquillo-Ovalle,5,0,"Rice, TX",http://www.cnn.com/2013/09/22/justice/texas-bodies-found/,2013,Sep,Fri,TX,-96.4986,32.2438
+2013-09-21,Unknown,0,4,"Palm Springs, FL",,2013,Sep,Sat,FL,-80.0962,26.6359
+2013-09-22,Antonio Keshawn Raglin,3,1,"Muskegon, MI",http://www.usatoday.com/story/news/nation/2013/09/22/shootout-social-club/2850083/,2013,Sep,Sun,MI,-86.2542,43.2377
+2013-09-22,Unknown,1,3,"St. Louis, MO",http://blogs.riverfronttimes.com/dailyrft/2013/09/randy_lee_jones_21_killed_three_injured_north_st_louis.php,2013,Sep,Sun,MO,-90.4434,38.6407
+2013-09-22,Unknown,1,6,"Witchita, KA",http://www.ksn.com/2013/09/22/police-investigating-shooting-in-old-town/,2013,Sep,Sun,KA,-97.3186,37.6868
+2013-09-24,Antonio Michael Smith,0,6,"Huntington, WV",http://www.wsaz.com/news/huntingtonnews/headlines/Multiple-People-Shot-in-Huntington-At-Least-Four-Victims-225120602.html,2013,Sep,Tues,WV,-82.4129,38.3717
+2013-09-25,Unknown,0,4,"Haw River, NC",http://www.thetimesnews.com/news/top-news/four-shot-at-haw-river-sports-bar-1.208316,2013,Sep,Wed,NC,-79.3642,36.0915
+2013-09-26,Unknown,0,4,"Jacksonville, FL",http://www.sfgate.com/news/crime/article/4-injured-in-Jacksonville-nightclub-shooting-4849153.php,2013,Sep,Thurs,FL,-81.6556,30.3322
+2013-09-27,Unknown,4,0,"Ashville, PA",http://www.post-gazette.com/stories/local/region/state-police-identify-4-shooting-victims-in-cambria-county-incident-705426/,2013,Sep,Fri,PA,-78.5448,40.5549
+2013-09-29,Unknown,1,4,"Chicago, IL",http://chicago.cbslocal.com/2013/09/28/four-hurt-in-washington-park-shooting/,2013,Sep,Sun,IL,-87.6221,41.8853
+2013-09-29,Unknown,0,4,"Zanesville, OH",http://www.zanesvilletimesrecorder.com/article/20130930/NEWS01/309300004/Four-people-hit-during-Putnam-Avenue-shooting,2013,Sep,Sun,OH,-82.0041,39.9274
+2013-10-02,Unknown,0,4,"Omaha, NE",http://www.omaha.com/article/20131002/NEWS/131009582,2013,Oct,Wed,NE,-96.1711,41.2917
+2013-10-02,Andy Keith Hunt,4,0,"Double Springs, AL",http://blog.al.com/spotnews/2013/10/4_found_shot_to_death_in_car_s.html,2013,Oct,Wed,AL,-87.3604,34.1214
+2013-10-05,Unknown,1,13,"Fresno, CA",,2013,Oct,Sat,CA,-119.735,36.8626
+2013-10-06,Unknown,0,4,"Buffalo, NY",http://www.buffalonews.com/city-region/police-blotter/four-shot-outside-zelmer-street-party-20131006,2013,Oct,Sun,NY,-78.8864,42.8961
+2013-10-06,Unknown,1,5,"Phillidelphia, PA",,2013,Oct,Sun,PA,-74.9798,40.1415
+2013-10-06,Unknown,0,4,"Avondale, AZ",http://www.azfamily.com/news/Five-people-shot-in-Avondale-226653571.html,2013,Oct,Sun,AZ,-112.35,33.4356
+2013-10-09,Unknown,4,0,"Paris, TX",http://dfw.cbslocal.com/2013/10/10/4-people-found-shot-dead-in-paris-texas/,2013,Oct,Wed,TX,-95.6052,33.6552
+2013-10-12,Unknown,2,2,"Tulsa, OK",http://www.tulsaworld.com/news/dead-injured-in-shooting-saturday-outside-after-hours-club/article_5e8c6612-55e9-5078-a530-4740deefd91c.html,2013,Oct,Sat,OK,-95.9928,36.154
+2013-10-12,Meng Lee,0,5,"Tulsa, OK",http://www.theblaze.com/stories/2013/10/13/gunfire-erupts-at-asian-cultural-celebration-5-injured-2-arrested/,2013,Oct,Sat,OK,-95.9928,36.154
+2013-10-13,Unknown,0,8,"Harrisburg, PA",http://cumberlink.com/news/local/communities/harrisburg/police-multiple-people-shot-sunday-outside-harrisburg-community-center/article_23653c26-34bf-11e3-af30-001a4bcf887a.html,2013,Oct,Sun,PA,-76.8944,40.2587
+2013-10-18,Unknown,0,4,"Margate, FL",http://articles.sun-sentinel.com/2013-10-22/news/fl-margate-shooting-folo-20131022_1_lori-eller-shooting-victims-margate-coconut-creek-fire-rescue,2013,Oct,Fri,FL,-80.2064,26.2445
+2013-10-20,Unknown,2,4,"Pittsburgh, PA",http://www.philly.com/philly/news/breaking/20131020_ap_ce7c85b6f7cd419d97b4c28ecd7d1f2c.html,2013,Oct,Sun,PA,-79.951,40.4744
+2013-10-20,Unknown,2,2,"Reno, NV",http://www.rgj.com/viewart/20131021/NEWS01/131021004/Update-Shooting-morning-Sparks-Middle-School,2013,Oct,Sun,NV,-119.813,39.5257
+2013-10-20,Benjamin Frazier,1,4,"Las Vegas, NV",http://www.usatoday.com/story/news/nation/2013/10/21/las-vegas-casino-shooting/3142815/,2013,Oct,Sun,NV,-115.207,36.3011
+2013-10-20,Unknown,2,2,"Miami-Dade, FL",http://www.wsvn.com/news/articles/local/21012002683326/multiple-people-shot-in-agricultural-area/,2013,Oct,Sun,FL,-80.4987,25.609
+2013-10-26,Unknown,1,5,"New Haven, CT",http://www.nbcconnecticut.com/news/local/1-Killed-5-Injured-in-New-Haven-Club-Shooting-229371141.html,2013,Oct,Sat,CT,-72.9275,41.3657
+2013-10-26,Unknown,1,3,"Ridgecrest, CA","http://www.latimes.com/local/lanow/la-me-ln-victims-ridgecrest-shootings-20131025,0,7877039.story#axzz2j22H29vy",2013,Oct,Sat,CA,-117.683,35.6065
+2013-10-26,Michael Guzzo,5,0,"Phonix, AZ","http://www.chicagotribune.com/sns-rt-usa-phoenixshooting-20131026,0,899134.story",2013,Oct,Sat,AZ,-112.090719,33.465189
+2013-10-26,Unknown,0,4,"Miami Gardens, FL",http://www.miamiherald.com/2013/10/27/3714331/miami-gardens-shooting-leaves.html,2013,Oct,Sat,FL,-80.2456,25.942
+2013-10-27,Samuel Nathan Duran,0,6,"Roseville, CA",http://www.journalgazette.net/article/20131027/NEWS03/131029521/1066,2013,Oct,Sun,CA,-121.256,38.7407
+2013-10-27,Unknown,1,6,"Sacramento, CA",http://sacramento.cbslocal.com/2013/10/27/7-people-shot-1-killed-during-drive-by-shooting-at-sacramento-club/,2013,Oct,Sun,CA,-121.555,38.3805
+2013-10-27,Unknown,1,7,"Vallejo, CA",http://fox40.com/2013/10/27/police-8-people-shot-in-vallejo-after-getting-flat-tire/,2013,Oct,Sun,CA,-122.136,38.2449
+2013-10-27,Unknown,1,4,"Southern Pines, NC",http://www.wral.com/five-shot-at-southern-pines-billiards-bar/13043219/,2013,Oct,Sun,NC,-79.395,35.2181
+2013-10-27,Unknown,0,4,"Albuquerque, NM",http://www.washingtonpost.com/national/2-police-officers-1-sheriffs-deputy-wounded-in-albuquerque-shootout/2013/10/26/2cababe0-3e9b-11e3-b0e7-716179a2c2c7_story.html,2013,Oct,Sun,NM,-106.651,35.0845
+2013-10-27,Unknown,0,4,"Beaumont, TX",http://www.chron.com/news/texas/article/4-wounded-in-Beaumont-gunfire-suspect-sought-4930432.php?cmpid=htx,2013,Oct,Sun,TX,-94.1097,30.0737
+2013-10-28,Charles Everett Brownlow Jr.,5,0,"Terrell, TX",http://inforney.com/crime/item/1378-terrell-pd-five-confirmed-dead-after-shooting-spree-suspect-in-custody,2013,Oct,Mon,TX,-96.3013,32.7584
+2013-10-29,Bryan Sweatt,6,0,"Callison, SC",http://www.wyff4.com/news/local-news/abbeville-greenwood-news/sheriff-multiple-dead-in-upstate-home/-/9654572/22702972/-/cnrsfg/-/index.html,2013,Oct,Tues,SC,-82.2274,34.0442
+2013-10-31,Unknown,2,2,"Fayetteville, NC",http://www.wncn.com/story/23849018/2-dead-2-injured-in-fayetteville-shooting,2013,Oct,Thurs,NC,-78.8843,35.0748
+2013-11-02,Unknown,1,3,"Radcliff, KY",http://www.wave3.com/story/23858405/early-morning-shooting-leaves-one-dead-3-injured,2013,Nov,Sat,KY,-85.9769,37.7235
+2013-11-03,Unknown,1,4,"Los Angeles, CA",http://www.nbclosangeles.com/news/local/SoCal-Teacher-Survives-LAX-Shooting-Rampage-230385911.html,2013,Nov,Sun,CA,-118.248,33.974
+2013-11-04,Jose Luis Avalos,0,5,"Perris, CA",http://blog.pe.com/crime/2013/11/04/perris-five-people-shot-in-early-morning-drive-by/,2013,Nov,Mon,CA,-117.321,33.7873
+2013-11-05,Unknown,3,7,"Detroit, MI",http://bigstory.ap.org/article/detroit-police-3-dead-4-hurt-store-shooting,2013,Nov,Tues,MI,-83.0602,42.347
+2013-11-05,Victor Leon Coley,0,4,"Washington, DC",http://www.wtop.com/109/3499118/At-least-three-men-shot-in-Northeast-DC,2013,Nov,Tues,DC,-77.0364,38.8951
+2013-11-05,Jerry Vue,1,3,"Fresno, CA",http://www.fresnobee.com/2013/11/05/3591785/sunnyside-high-other-schools-locked.html,2013,Nov,Tues,CA,-119.735,36.8626
+2013-11-07,Unknown,4,0,"Jacksonville, FL",http://jacksonville.com/breaking-news/2013-11-08/story/police-investigating-quadruple-shooting-jacksonvilles-westside,2013,Nov,Thurs,FL,-81.6556,30.3322
+2013-11-09,Unknown,1,3,"Phoenix, AZ",http://www.myfoxphoenix.com/story/23928624/2013/11/10/woman-killed-during-shooting-at-party,2013,Nov,Sat,AZ,-112.074,33.4484
+2013-11-09,Randy Stewart,2,16,"Cyprus, TX",http://www.chron.com/news/houston-texas/houston/article/Two-dead-more-than-a-dozen-injured-in-shooting-4971781.php,2013,Nov,Sat,TX,-95.6823,29.953
+2013-11-10,Dwight Ellis,1,3,"Canton, OH",http://www.newsnet5.com/dpp/news/local_news/oh_stark/man-arrested-for-shooting-four-in-canton-bar-parking-lot,2013,Nov,Sun,OH,-81.3712,40.7824
+2013-11-10,Ali Akbar Mohammadi Rafie,4,1,"Brooklyn, NY",http://www.nbcnewyork.com/news/local/East-Williamsburg-Shooting-Monday-231395251.html,2013,Nov,Sun,NY,-73.9893,40.6945
+2013-11-12,Michael Sanders,4,0,"Phoenix, AZ",http://www.azcentral.com/community/nephoenix/articles/20131113phoenix-police-release-ids-triple-homicide-abrk.html,2013,Nov,Tues,AZ,-112.074,33.4484
+2013-11-17,Unknown,1,3,"Houston, TX",http://abclocal.go.com/ktrk/story?section=news/local&id=9319503,2013,Nov,Sun,TX,-95.3098,29.8131
+2013-11-20,Johnathan Sanchez,3,2,"Houston, TX",http://www.washingtonpost.com/national/gunfire-at-suburban-houston-apartment-complex-kills-3-wounds-2/2013/11/20/98e33be4-5240-11e3-9ee6-2580086d8254_story.html,2013,Nov,Wed,TX,-95.3098,29.8131
+2013-11-20,Roberto Garcia Sousa,3,1,"Miami-Dade, FL",http://www.myfoxorlando.com/story/24027285/3-dead-1-injured-in-miami-dade-shooting,2013,Nov,Wed,FL,-80.4987,25.609
+2013-11-21,Unknown,0,4,"Philadelphia, PA",http://www.myfoxphilly.com/story/24039009/four-people-shot-in-overbrook,2013,Nov,Thurs,PA,-75.1638,39.9523
+2013-11-22,Unknown,2,2,"Columbus, OH",http://www.reuters.com/article/2013/11/22/us-usa-shooting-ohio-idUSBRE9AL11420131122,2013,Nov,Fri,OH,-83.0134,40.1009
+2013-11-23,David Cornell Bennett Jr.,4,0,"Parsons, KS",http://www.kansas.com/2013/11/28/3147418/kan-ags-office-takes-quadruple.html,2013,Nov,Sat,KS,-95.2649,37.3402
+2013-11-23,Unknown,4,1,"Tulsa, OK",http://www.reuters.com/article/2013/11/25/us-usa-shooting-tulsa-idUSBRE9AO02F20131125,2013,Nov,Sat,OK,-95.9928,36.154
+2013-11-24,Unknown,1,3,"Minneapolis, MN",http://www.myfoxtwincities.com/story/24060228/1-dead-3-injured-in-shooting-at-e-lake-st-restaurant,2013,Nov,Sun,MN,-93.3148,45.1604
+2013-11-24,Unknown,0,7,"Oakland, CA",http://www.sfgate.com/crime/article/Oakland-birthday-shooting-2-gunmen-7-victims-5013659.php,2013,Nov,Sun,CA,-122.224,37.786
+2013-11-28,Unknown,0,4,"Rochester, NY",http://www.newstimes.com/news/crime/article/4-men-wounded-by-gunfire-on-Rochester-street-5019212.php,2013,Nov,Thurs,NY,-77.6843,43.286
+2013-11-29,Unknown,0,4,"Indianapolis, IN",http://www.indystar.com/story/news/2013/11/30/four-teens-shot-at-eastside-party-friday/3791085/,2013,Nov,Fri,IN,-86.1322,39.7751
+2013-11-29,Unknown,0,4,"Fresno, CA",http://www.fresnobee.com/2013/11/29/3639288/four-injured-in-southwest-fresno.html,2013,Nov,Fri,CA,-119.735,36.8626
+2013-11-30,Unknown,0,5,"Lansing, MI",http://www.lansingstatejournal.com/article/20131130/NEWS01/311300014/,2013,Nov,Sat,MI,-84.5555,42.7325
+2013-11-30,Unknown,0,4,"Valdosta, GA",http://www.wtxl.com/news/four-people-shot-valdosta-police-search-for-suspects/article_33eb666a-5a1c-11e3-8eba-0019bb30f31a.html,2013,Nov,Sat,GA,-83.3321,30.7539
+2013-12-01,Unknown,4,0,"Topeka, KS",http://www.kake.com/home/headlines/Three-dead-one-injured-in-Topeka-shooting-234030831.html?ref=831,2013,Dec,Sun,KS,-95.6936,39.0581
+2013-12-01,Unknown,2,2,"Miami, FL",http://miami.cbslocal.com/2013/12/02/liberty-city-shooting-leaves-two-women-dead-two-injured/,2013,Dec,Sun,FL,-80.2393,25.812
+2013-12-02,Unknown,1,3,"Gary, IN",http://wgntv.com/2013/12/03/violent-confusing-day-in-gary-leaves-3-dead-several-injured/,2013,Dec,Mon,IN,-87.3199,41.5907
+2013-12-03,Chad Smith and Tony Churchill,0,4,"Louisville, KY",http://www.whas11.com/news/local/Police-investigate-after-man-shot-234270721.html,2013,Dec,Tues,KY,-85.6768,38.189
+2013-12-03,Herbert Clyde Hughes Jr.,4,0,"Erwin, TN",http://www.johnsoncitypress.com/article/104594,2013,Dec,Tues,TN,-82.4168,36.1451
+2013-12-03,Tim Adams,4,0,"Alma, AL",http://www.nwahomepage.com/story/three-dead-in-crawford-county-shooting/d/story/etJnF0YqjUO4e2t9MBgB0A,2013,Dec,Tues,AL,-87.8801,31.4825
+2013-12-07,Unknown,0,4,"Wilmington, DE",http://hiphopwired.com/2013/12/08/meek-mill-delaware-concert-4-people-shot/,2013,Dec,Sat,DE,-75.5478,39.7271
+2013-12-08,Unknown,4,0,"Manchester, CT",http://articles.courant.com/2013-12-08/community/hc-manchester-shooting-1208-20131207_1_three-women-gunshot-child,2013,Dec,Sun,CT,-72.5237,41.776
+2013-12-09,Unknown,2,3,"Miami-Dade, FL",http://www.miamiherald.com/2013/12/10/3809575/3-officers-shot-in-northwest-miami.html,2013,Dec,Mon,FL,-80.4987,25.609
+2013-12-13,Antonio Devon Brown,1,3,"Huntington, WV",http://www.wsaz.com/news/headlines/Multiple-Shooting-in-Huntington-235696321.html,2013,Dec,Fri,WV,-82.4129,38.3717
+2013-12-14,Unknown,0,4,"Statesville, NC",http://www.statesville.com/news/article_85907f20-65ff-11e3-aa76-001a4bcf6878.html,2013,Dec,Sat,NC,-80.8903,35.8687
+2013-12-15,Unknown,0,5,"Channelview, TX",http://www.nbcdfw.com/news/local/Five-Teens-Shot-in-Harris-County-235999031.html,2013,Dec,Sun,TX,-95.115,29.7914
+2013-12-15,Unknown,1,3,"Florida City, FL",http://www.nbcmiami.com/news/4-Injured-in-Florida-City-Shooting-Police-235869831.html,2013,Dec,Sun,FL,-80.4792,25.4479
+2013-12-17,Alan Frazier,2,2,"Reno, NV",http://bigstory.ap.org/article/gunman-shoots-4-kills-himself-reno-hospital,2013,Dec,Tues,NV,-119.813,39.5257
+2013-12-21,Unknown,1,4,"Trenton, NJ",http://www.nj.com/mercer/index.ssf/2013/12/drive-by_shooting_in_trenton_leaves_1_dead_4_wounded_authorities_say.html,2013,Dec,Sat,NJ,-74.712,40.2805
+2013-12-22,Unknown,1,3,"Fruitland Township, MI",http://www.freep.com/article/20131221/NEWS06/312210061/1-man-killed-3-wounded-in-Michigan-party-shooting,2013,Dec,Sun,MI,-86.3421,43.3432
+2013-12-22,Unknown,0,4,"Shelby, NC",http://www.shelbystar.com/news/local/police-four-injured-in-overnight-shooting-updated-10-15-a-m-1.253381,2013,Dec,Sun,NC,-81.5568,35.312
+2013-12-25,Unknown,1,3,"Medford, NY",http://newyork.cbslocal.com/2013/12/25/one-dead-3-injured-in-early-morning-medford-li-shooting/,2013,Dec,Wed,NY,-72.9865,40.8212
+2013-12-25,Unknown,3,2,"Irvington, NJ",,2013,Dec,Wed,NJ,-74.2329,40.7262
+2013-12-26,Unknown,1,7,"Slidell, LA",http://www.wafb.com/story/24305963/shooting-outside-bar-leaves-several-people-injured,2013,Dec,Thurs,LA,-89.7926,30.2621
+2013-12-26,Ben Edward Freeman,4,3,"Raceland, LA",http://www.nola.com/crime/index.ssf/2013/12/lafourche_parish_shooter_attac.html#incart_river_default,2013,Dec,Thurs,LA,-90.6278,29.6838
+2013-12-29,Jason McWilliams,2,6,"Montgomery, AL",http://www.cbsatlanta.com/story/24318554/mpd-investigating-citys-47th-and-48th-homicide,2013,Dec,Sun,AL,-86.2578,32.357
+2013-12-29,Ivan Wong,2,2,"Miami-Dade, FL",http://www.wsvn.com/news/articles/local/21012612231273/suspect-named-in-rampage-that-killed-2-injured-2/,2013,Dec,Sun,FL,-80.4987,25.609
+2013-12-30,Abbas Lodhi,4,0,"Pleasant Valley, NY",http://www.cbsnews.com/news/cops-ny-pharmacist-killed-wife-then-sons-then-himself/,2013,Dec,Mon,NY,-75.433,42.9187
+2013-12-31,Unknown,2,2,"Barberton, OH",http://www.ohio.com/news/break-news/two-teens-killed-two-injured-in-barberton-robbery-shooting-1.456428,2013,Dec,Tues,OH,-81.6212,41.0197
+2013-12-31,Unknown,0,5,"Brooklyn, NY",http://online.wsj.com/article/AP4e28dd72538b433eb86c62607da2a04f.html,2013,Dec,Tues,NY,-73.9893,40.6945
+2013-12-31,Undisclosed,4,0,"Fontana, CA",http://www.therepublic.com/view/story/a00d45543d0f446ab2a3f7658fe195db/US--Bodies-In-Home,2013,Dec,Tues,CA,-115.967,34.84
+2014-01-01,Unknown,2,2,"Norfolk, VA",http://www.wvec.com/my-city/norfolk/Three-people-shot-in-Norfolk-two-are-dead-238350921.html,2014,Jan,Wed,VA,-76.2085,36.8959
+2014-01-03,Unknown,1,3,"New York (Queens), NY",http://www.nytimes.com/2014/01/04/nyregion/gunman-fires-at-moving-suv-in-queens-killing-one-and-wounding-three-others.html?_r=0,2014,Jan,Fri,NY,-74.0102,40.7029
+2014-01-04,Leonard ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“FrankÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Harris Jr,2,2,"Rock Falls, IL",http://wqad.com/2014/01/04/man-reportedly-killed-in-shooting-outside-rock-falls-bar/,2014,Jan,Sat,IL,-89.689,41.7798
+2014-01-05,Unknown,1,3,"Erie, OH",http://www.goerie.com/man-shot-dead-at-private-party-in-parade-street-building,2014,Jan,Sun,OH,-83.2407,39.7454
+2014-01-05,Unknown,0,4,"Atlanta, Ga",http://www.cbsatlanta.com/story/24366624/4-men-hospitalized-and-arrested-after-atlatna-shooting,2014,Jan,Sun,GA,-84.4741,33.8444
+2014-01-12,Unknown,0,4,"Portland, OR",http://www.katu.com/news/local/Multiple-people-shot-at-Southeast-Portland-Club-239796101.html,2014,Jan,Sun,OR,-122.691,45.5079
+2014-01-12,Unknown,0,5,"Elgin, Il",http://www.dailyherald.com/article/20140112/news/701129890/,2014,Jan,Sun,IL,-88.2384,42.0345
+2014-01-12,Unknown,0,5,"Huntsville, AL",http://whnt.com/2014/01/13/15-year-old-arrested-in-bench-warmer-shooting-clubs-liquor-license-suspended/,2014,Jan,Sun,AL,-86.5564,34.7184
+2014-01-14,Unknown,0,4,"Los Angeles, CA",http://www.nbclosangeles.com/news/local/Multiple-People-Shot-in-South-LA--240207831.html,2014,Jan,Tues,CA,-118.248,33.974
+2014-01-16,Joshua Boren,5,0,"Spanish Fork, UT",http://www.washingtonpost.com/national/family-friends-stunned-by-utah-murder-suicide/2014/01/19/4cab8f68-8177-11e3-a273-6ffd9cf9f4ba_story.html,2014,Jan,Thurs,UT,-111.649,40.0699
+2014-01-16,Unknown,2,2,"Fresno, CA","http://www.latimes.com/local/lanow/la-me-ln-fresno-carjacking-shooting-spree-20140117,0,577172.story#axzz2qgY3j6io",2014,Jan,Thurs,CA,-119.735,36.8626
+2014-01-16,Unknown,1,4,"Ardmore, OK",http://www.cnn.com/2014/01/17/justice/oklahoma-atf-agents-shot/,2014,Jan,Thurs,OK,-97.1792,34.1566
+2014-01-20, Jeremiah Eugene Pullen,0,4,"Manassas, VA",http://www.washingtonpost.com/local/crime/four-shot-at-manassas-sports-bar/2014/01/20/a178eefa-81d1-11e3-bbe5-6a2a3141e3a9_story.html,2014,Jan,Mon,VA,-77.4872,38.7447
+2014-01-21,Unknown,2,3,"Newark, NJ",http://www.nj.com/essex/index.ssf/2014/01/prosecutors_identify_victims_in_newark_shooting_that_left_2_dead_3_hurt.html,2014,Jan,Tues,NJ,-74.2251,40.7361
+2014-01-25,Unknown,1,4,"Chicago, IL",http://www.suntimes.com/25170149-761/1-dead-4-wounded-in-south-side-bar-shooting.html,2014,Jan,Sat,IL,-87.6221,41.8853
+2014-01-25,Unknown,0,4,"Belle Glade, FL",http://www.cbs12.com/news/top-stories/stories/vid_12757.shtml,2014,Jan,Sat,FL,-80.4303,26.6459
+2014-01-27,Unknown,1,4,"Seattle, WA",http://q13fox.com/2014/01/27/woman-shot-near-pioneer-square/#axzz2riLpuDCJ,2014,Jan,Mon,WA,-122.332,47.6062
+2014-01-27,Unknown,0,4,"Rocky Mount, NC",http://www.wral.com/four-people-shot-behind-church-in-rocky-mount/13332824/,2014,Jan,Mon,NC,-78.6171,34.4359
+2014-01-28,Unknown,0,5,"Milwaukee, WI",http://fox6now.com/2014/01/28/at-least-three-victims-discovered-after-shooting-near-28th-chambers/,2014,Jan,Tues,WI,-87.9584,43.0113
+2014-01-28,Darion Marcus Aguilar,3,5,"Baltimore, MD",http://thebottomline.as.ucsb.edu/2014/01/three-killed-five-injured-during-shooting-in-maryland-mall,2014,Jan,Tues,MD,-76.7195,39.3242
+2014-02-02,Andrew Parish,3,2,"Franklin, IL",http://www.theindychannel.com/news/local-news/multiple-people-shot-in-franklin-home,2014,Feb,Sun,IL,-90.0889,39.6222
+2014-02-03,Unknown,4,0,"Cypress, TX",http://www.chron.com/neighborhood/cyfair/crime-courts/article/Cops-seek-gunman-in-Cypress-shooting-that-killed-4-5200810.php,2014,Feb,Mon,TX,-95.4342,29.834
+2014-02-05,Earl Edward Clauge Jr.,1,3,"Perry, FL",http://www.wctv.tv/news/floridanews/headlines/Shooting-At-Perry-Ford-Dealership-243701681.html,2014,Feb,Wed,FL,-83.6093,30.1725
+2014-02-06,Unknown,1,3,"Chicago, IL",http://articles.chicagotribune.com/2014-02-06/news/chi-chicago-shootings-at-least-2-shot-on-far-north-side-20140205_1_masked-gunman-police-search-3-others,2014,Feb,Thurs,IL,-87.6221,41.8853
+2014-02-06,Robert Garza Sr.,4,0,"Defiance, OH",http://www.foxnews.com/us/2014/02/07/4-dead-in-apparent-murder-suicide-in-ohio-authorities-say/,2014,Feb,Thurs,OH,-84.3904,41.2967
+2014-02-07,Unknown,0,4,"New Orleans, LA",http://www.wafb.com/story/24662387/four-people-shot-at-lounge-in-eastern-new-orleans,2014,Feb,Fri,LA,-89.931,30.0688
+2014-02-12,Unknown,0,5,"Gary, IN",http://abclocal.go.com/wls/story?section=news/local/indiana&id=9430380,2014,Feb,Wed,IN,-87.3199,41.5907
+2014-02-12,Unknown,1,3,"Stockton, Ca",http://www.kcra.com/news/4-shot-1-killed-in-shooting-at-stockton-park/24443448,2014,Feb,Wed,CA,-121.291,37.9577
+2014-02-12,Unknown,1,3,"Oakland, CA",http://www.sfgate.com/crime/article/One-dead-3-wounded-in-Oakland-shooting-5230506.php,2014,Feb,Wed,CA,-122.224,37.786
+2014-02-15,Unknown,0,5,"Fort Wayne, IN",http://wlfi.com/2014/02/16/five-injured-in-fort-wayne-shooting/,2014,Feb,Sat,IN,-85.1289,41.1306
+2014-02-15,Peter Andrade,0,5,"Las Vegas, NV",http://www.fox5vegas.com/story/24738619/2-people-shot-at-wedding-reception,2014,Feb,Sat,NV,-115.207,36.3011
+2014-02-16,Unknown,1,3,"Saginaw, MI",http://www.mlive.com/news/saginaw/index.ssf/2014/02/police_1_woman_3_men_shot_outs.html,2014,Feb,Sun,MI,-83.8869,43.4124
+2014-02-16,Unknown,1,6,"Dallas, TX",http://www.cbsnews.com/news/one-dead-six-injured-after-shooting-at-dallas-nightclub/,2014,Feb,Sun,TX,-96.7903,32.7812
+2014-02-16,Unknown,1,4,"Fort Worth, TX",http://www.star-telegram.com/2014/02/16/5574682/three-shot-at-fort-worth-stockyards.html,2014,Feb,Sun,TX,-97.2915,32.7714
+2014-02-16,Unknown,1,4,"Jacksonville, Fl",http://www.firstcoastnews.com/story/news/local/murray-hill-ortega/2014/02/16/fat-kats-shooting/5530199/,2014,Feb,Sun,FL,-81.6556,30.3322
+2014-02-16,Unknown,1,6,"Pine Hills, FL",http://www.gainesville.com/article/20140216/WIRE/140219630?Title=One-dead-six-injured-after-shots-fired-at-house-party-,2014,Feb,Sun,FL,-81.4534,28.5578
+2014-02-18,Unknown,0,6,"Fort Lauderdale, Fl",http://www.huffingtonpost.com/2014/02/18/officer-shooting-at-shooters_n_4810242.html,2014,Feb,Tues,FL,-80.1279,26.1213
+2014-02-20,Cherie Lash Rhoades,4,2,"Alturas, Ca",http://news.yahoo.com/police-4-dead-2-injured-n-calif-shooting-042059615.html,2014,Feb,Thurs,CA,-120.641,41.434
+2014-02-20,Andrew Sizemore,4,0,"Indianapolis, IN",http://www.startribune.com/nation/246522671.html,2014,Feb,Thurs,IN,-86.1322,39.7751
+2014-02-20,"James Anthony Chin, Christian Eduardo Menrano-Ramirez and Richard Brody Thompson",0,12,"St. Petersburg, FL",http://www.wtsp.com/news/article/357621/250/Multiple-people-shot-with-pellet-gun-in-St-Pete,2014,Feb,Thurs,FL,-82.6793,27.7709
+2014-02-23,Unknown,0,4,"Wilmington, CA",http://losangeles.cbslocal.com/2014/02/22/4-shot-during-family-party-in-harbor-city/,2014,Feb,Sun,CA,-118.254,33.7794
+2014-02-24,Unknown,4,1,"Glade Spring, VA",http://www.tricities.com/news/article_183acf4e-9e20-11e3-b7a7-0017a43b2370.html,2014,Feb,Mon,VA,-81.7732,36.7458
+2014-02-26,John Conta Jr.,4,0,"Oak Lawn, IL",http://abclocal.go.com/wls/story?section=news/local&id=9446990%5D(Man,2014,Feb,Wed,IL,-87.7526,41.7134
+2014-03-01,Unknown,1,4,"Pittsburgh, PA",http://pittsburgh.cbslocal.com/2014/03/01/1-killed-in-homewood-shooting/,2014,Mar,Sat,PA,-79.951,40.4744
+2014-03-03,Xzavier Tyrone Mazyck,0,4,"Detroit, Mi",http://www.freep.com/article/20140228/NEWS01/302280128/Four-people-shot-in-Detroit,2014,Mar,Mon,MI,-83.0602,42.347
+2014-03-05,"Jared Michael Williams, and Hope Phillips",3,1,"Pelzer, NC",http://www.foxcarolina.com/story/24895264/deputies-respond-to-shooting-in-pelzer,2014,Mar,Wed,NC,-80.0003,35.5007
+2014-03-08,Unknown,1,3,"Richmond, Ca",http://abclocal.go.com/kgo/story?section=news/local/east_bay&id=9459909,2014,Mar,Sat,CA,-122.384,37.9475
+2014-03-09,Unknown,0,4,"Milwaukee, WI",http://fox6now.com/2014/03/09/four-teens-shot-while-inside-vehicle-one-critically-injured/,2014,Mar,Sun,WI,-87.9584,43.0113
+2014-03-09,Patrick Calhoun,0,6,"Chicago, IL",http://www.suntimes.com/news/metro/26090624-418/orr-star-among-6-shot-at-party.html,2014,Mar,Sun,IL,-87.6221,41.8853
+2014-03-09,Igmidio Mista,3,1,"Fremont, OH",http://www.newsnet5.com/news/state/3-killed-2-wounded-in-fremont-overnight-nightclub-shootings,2014,Mar,Sun,OH,-83.134,41.3562
+2014-03-14,Two Unknown,0,4,"Brooklyn, NY",http://abclocal.go.com/wabc/story?section=news/local/new_york&id=9467017,2014,Mar,Fri,NY,-73.9893,40.6945
+2014-03-16,"Tacorey Lamon Lakes, Brandell Shaquael Little, and Unknown",0,4,"Waynsboro, GA",http://www.wjbf.com/story/24988474/4-shot-in-waynesboro,2014,Mar,Sun,GA,-81.9983,33.1855
+2014-03-16,Joe Frederick Hawkins,3,1,"Beaumont, TX",http://www.chron.com/news/texas/article/3-family-members-dead-in-shooting-at-Beaumont-home-5324763.php,2014,Mar,Sun,TX,-94.1097,30.0737
+2014-03-22,Antonio Marcel Flenoid ,0,4," Sikeston, Mo",http://www.kfvs12.com/story/25046780/4-hurt-1-in-custody-after-shooting-at-bar-in-sikeston,2014,Mar,Sat,MO,-89.5879,36.8767
+2014-03-22,Unknown,0,4,"North Charlston, SC",http://www.wmbfnews.com/story/25045920/four-wounded-after-shooting-at-a-north-charleston-club,2014,Mar,Sat,SC,-79.9773,32.7767
+2014-03-23,Alvin Bell,1,3,"Arlington, TX",http://crimeblog.dallasnews.com/2014/03/one-dead-three-injured-after-arlington-sports-bar-shooting.html/,2014,Mar,Sun,TX,-97.1081,32.7357
+2014-03-24,Unknown,0,7,"San Francisco, CA",http://sanfrancisco.cbslocal.com/2014/03/24/no-arrests-after-7-injured-in-sf-tenderloin-drive-by-shooting/,2014,Mar,Mon,CA,-122.728,37.7848
+2014-03-24,Unknown,1,3,"Long Beach, CA","http://www.latimes.com/local/lanow/la-me-ln-fatal-shooting-long-beach-restaurant-20140324,0,2537437.story",2014,Mar,Mon,CA,-118.168,33.8034
+2014-03-30,Unknown,0,5,"Charlotte, NC",http://www.wsoctv.com/news/news/local/4-injured-overnight-shooting-sunset-road-cook-out/nfN3c/,2014,Mar,Sun,NC,-80.8042,35.26
+2014-03-30,Unknown,0,5,"Starkville, MS",http://www.wjtv.com/story/25120281/five-injured-nightclub-shooting,2014,Mar,Sun,MS,-88.8791,33.4255
+2014-04-03,Ivan Lopez,4,16,"Kileen, TX",http://abclocal.go.com/ktrk/story?section=news/state&id=9489479,2014,Apr,Thurs,TX,-97.7365,31.1183
+2014-04-04,Unknown,0,4,"Detroit, Mi",http://www.wxyz.com/news/region/detroit/7-people-injured-during-shooting-on-detroits-east-side,2014,Apr,Fri,MI,-83.0602,42.347
+2014-04-05,Unknown,1,5,"Chicago, Il",http://abclocal.go.com/wls/story?section=news/local/chicago_news&id=9492677,2014,Apr,Sat,IL,-87.6221,41.8853
+2014-04-05, Unknown,0,4,"Fairfield, Ca",http://abclocal.go.com/kgo/story?section=news/local/north_bay&id=9493728,2014,Apr,Sat,CA,-122.02,38.2784
+2014-04-05,Unknown,1,3,"Phoenix, Az",http://www.abc15.com/news/region-phoenix-metro/west-phoenix/pd-1-dead-3-injured-after-shooting-at-neighboring-parties,2014,Apr,Sat,AZ,-112.074,33.4484
+2014-04-06,Unknown,0,4,"Springfield, Ma",http://www.masslive.com/news/index.ssf/2014/04/4_people_wounded_in_springfiel.html,2014,Apr,Sun,MA,-72.6048,42.1707
+2014-04-06,Unknown,0,4,"Oklahoma City, Ok",http://www.koco.com/news/4-hurt-in-oklahoma-city-club-shooting/25346772,2014,Apr,Sun,OK,-97.5628,35.4916
+2014-04-07,Unknown,0,4,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2014/04/mid-city_shooting_leaves_4_inj.html,2014,Apr,Mon,LA,-89.931,30.0688
+2014-04-09,Unknown,0,5,"Rockford, IL",http://www.rrstar.com/article/20140410/NEWS/140419948/10448/NEWS,2014,Apr,Wed,IL,-89.094,42.2711
+2014-04-10,Unknown,1,3,"Arlington, TX",http://www.pal-item.com/article/20140410/NEWS01/304100024/RPD-identifies-4-shooting-victims,2014,Apr,Thurs,TX,-97.1081,32.7357
+2014-04-11,Unknown,0,4,"Richmond, IN",http://www.pal-item.com/article/20140410/NEWS01/304100024/RPD-identifies-4-shooting-victims,2014,Apr,Fri,IN,-84.8897,39.8321
+2014-04-12,Unknown,1,3,"New Orleans, LA",http://www.wwl.com/pages/18797373.php?contentType=4&contentId=15047837,2014,Apr,Sat,LA,-89.931,30.0688
+2014-04-13,Derek Morse,3,1,"Lookout Valley, TN",http://www.wrcbtv.com/story/25208440/chattanooga-police-investigating-a-shooting,2014,Apr,Sun,TN,-85.8593,35.5375
+2014-04-14,Unknown,1,3,"Vineland, NJ",http://www.thedailyjournal.com/article/20140414/NEWS01/140414001/Reports-4-shot-Vineland-1-dead?nclick_check=1,2014,Apr,Mon,NJ,-75.0087,39.4955
+2014-04-14,Unknown,0,4,"Washington, DC",http://www.wusa9.com/story/news/local/dc/2014/04/14/four-shot-in-southeast-dc/7691681/,2014,Apr,Mon,DC,-77.0364,38.8951
+2014-04-17,Unknown,0,4,"Nashville, TN",http://www.newschannel5.com/story/25279549/3-people-four-year-old-injured-during-shooting,2014,Apr,Thurs,TN,-86.7781,36.1657
+2014-04-20,Kim Tong Yik Doluony,1,3,"Mankato, MN",http://minnesota.cbslocal.com/2014/04/20/4-shot-1-dead-3-arrested-in-mankato-shooting/,2014,Apr,Sun,MN,-93.9789,44.1283
+2014-04-20,Unknown,0,5,"Chicago, Il",http://wgntv.com/2014/04/21/5-children-injured-in-south-side-shooting/,2014,Apr,Sun,IL,-87.6221,41.8853
+2014-04-20,Unknown,0,6,"Montgomory, IL",http://wgntv.com/2014/04/21/6-shot-at-easter-party-in-montgomery/,2014,Apr,Sun,IL,-88.3292,41.7258
+2014-04-20,Unknown,2,2,"Tampa Bay, FL",http://www.tampabay.com/news/publicsafety/crime/two-killed-two-injured-in-tampa-park-shooting/2175979,2014,Apr,Sun,FL,-82.4611,27.9808
+2014-04-24,Unknown,1,3,"Houston, TX",http://abclocal.go.com/ktrk/story?section=news/local&id=9514647,2014,Apr,Thurs,TX,-95.3098,29.8131
+2014-04-25,Unknown,2,3,"Memphis, TN",http://www.wmctv.com/story/25338203/2-people-dead-3-injured-in-early-morning-shooting,2014,Apr,Fri,TN,-89.9904,35.1693
+2014-04-27,Unknown,0,5,"Troy, NY",http://www.timesunion.com/local/article/Five-shot-in-Troy-5433252.php,2014,Apr,Sun,NY,-73.5256,42.7114
+2014-04-27,Unknown,1,3,"Rome, GA",http://www.ajc.com/news/news/1-dead-3-injured-in-floyd-county-shooting/nfjGq/,2014,Apr,Sun,GA,-85.1716,34.2417
+2014-04-29,Geddy Kramer,1,6,"Cobb County, GA",http://www.ajc.com/news/news/cobb-police-investigating-shooting-at-fedex-facili/nfkNR/,2014,Apr,Tues,GA,-83.9422,31.9754
+2014-04-30,Unknown,0,4,"Chicago, Il",http://chicago.cbslocal.com/2014/04/30/four-wounded-in-south-shore-shooting-2/,2014,Apr,Wed,IL,-87.6221,41.8853
+2014-05-03,Porfirio Hernandez,4,4,"Jonesboro, AR",http://dailydigestnews.com/2014/05/report-gunman-3-others-killed-in-arkansas-shootings/,2014,May,Sat,AR,-90.6231,35.8358
+2014-05-03,Unknown,0,4,"Houston, TX",http://www.chron.com/news/houston-texas/houston/article/4-injured-in-shooting-at-after-prom-party-in-5450776.php,2014,May,Sat,TX,-95.3098,29.8131
+2014-05-05,Unknown,0,4,"Chicago, Il",http://abc7chicago.com/archive/9527250/,2014,May,Mon,IL,-87.6221,41.8853
+2014-05-05,Unknown,0,4,"Wheat Ridge, CO",http://www.thedenverchannel.com/news/local-news/shooting-at-wheat-ridge-hotel-police-say-4-people-may-have-been-shot-no-suspect-in-custody-050314,2014,May,Mon,CO,-105.108,39.777
+2014-05-05,Karim Kamdar,2,2," Fort Bend County, TX",http://www.khou.com/news/local/Life-Flight-called-to-shooting-in-Fort-Bend-County-257927111.html,2014,May,Mon,TX,-97.6247,33.7665
+2014-05-09,Unknown,4,0,"Pomona, CA",http://www.theguardian.com/world/2014/may/09/man-kills-himself-three-members-california-family,2014,May,Fri,CA,-117.756,34.0423
+2014-05-09,Darrin Campbell ,4,0,"Tampa, FL",http://www.pennlive.com/midstate/index.ssf/2014/05/florida_man_shot_family_set_fi.html,2014,May,Fri,FL,-82.582,27.9961
+2014-05-10,Unknown,1,6,"Sacramento, CA",http://www.sacbee.com/2014/05/10/6395499/one-dead-six-injured-in-shooting.html,2014,May,Sat,CA,-121.555,38.3805
+2014-05-10,Unknown,0,7,"Memphis, TN",http://www.wmcactionnews5.com/story/25488030/seven-people-shot-outside-of-a-memphis-nightclue,2014,May,Sat,TN,-89.9904,35.1693
+2014-05-10,Oslushla Smith,1,3,"DeKalb, GA",http://www.wsbtv.com/news/news/local/2-men-sought-after-baby-shot-killed-dekalb-home-in/nftWg/,2014,May,Sat,GA,-84.2264,33.7715
+2014-05-11,Unknown,2,3,"DeKalb, GA",http://www.ajc.com/news/news/local/1-killed-3-injured-in-drive-by-shooting-in-dekalb/nfs8b/,2014,May,Sun,GA,-84.2264,33.7715
+2014-05-11,Marvin Louis Guy,1,3,"Kileen, TX",http://www.upi.com/Top_News/US/2014/05/11/Killeen-Texas-police-shooting-Officer-dies/3931399854346/,2014,May,Sun,TX,-97.7365,31.1183
+2014-05-12,Unknown,0,4,"Chicago, Il",http://www.dnainfo.com/chicago/20140513/little-village/little-village-shooting-leaves-four-men-wounded,2014,May,Mon,IL,-87.6221,41.8853
+2014-05-13,Marcellus Brooks,0,5,"Atlanta, GA",http://www.wmcactionnews5.com/story/25506522/3-shot-near-therrell-high-school-in-sw-atlanta,2014,May,Tues,GA,-84.4741,33.8444
+2014-05-17,unknown,0,5,"Washington, DC",http://www.washingtonpost.com/local/crime/five-wounded-in-shooting-outside-strip-club-in-northeast-washington/2014/05/17/0c630764-ddcb-11e3-b745-87d39690c5c0_story.html,2014,May,Sat,DC,-77.0364,38.8951
+2014-05-17,Unknown,1,3,"Coachella, CA",http://ktla.com/2014/05/17/coachella-shooting-leaves-teenage-boy-dead-3-injured/#axzz32eab06Sn,2014,May,Sat,CA,-116.174,33.6803
+2014-05-18,Unknown,0,7,"Sandusky, OH",http://fox8.com/2014/05/18/1-badly-beaten-7-shot-during-incident-at-sports-bar/,2014,May,Sun,OH,-82.7244,41.3991
+2014-05-18,Unknown,2,2,"Cobb County, GA",http://www.wsbtv.com/news/news/local/2-dead-2-injured-cobb-county-shooting/nfy7F/,2014,May,Sun,GA,-83.9422,31.9754
+2014-05-22,Jarmon Phillips,1,3,"Dallas, Tx",http://www.nbcdfw.com/news/local/Quadruple-Shooting-at-Dallas-Shopping-Center-260202931.html,2014,May,Thurs,TX,-96.7903,32.7812
+2014-05-23,Elliot Rodger,4,8,"Santa Barbara,CA",http://www.nytimes.com/2014/05/25/us/california-drive-by-shooting.html,2014,May,Fri,CA,-119.707,34.4219
+2014-05-24,Unknown,0,5,"Detroit, Mi",http://www.myfoxdetroit.com/story/25606670/5-shot-on-detroits-west-side-suspects-still-at-large,2014,May,Sat,MI,-83.0602,42.347
+2014-05-24,Unknown,1,3,"Bellflower, CA",http://ktla.com/2014/05/23/quadruple-shooting-in-bellflower-leaves-3-hospitalized/#axzz32eab06Sn,2014,May,Sat,CA,-118.13,33.888
+2014-05-24,Unknown,1,7,"New Orleans, LA",http://www.wdsu.com/news/local-news/new-orleans/nopd-boy-15-killed-others-injured-in-overnight-shooting-on-eads-street/26152954,2014,May,Sat,LA,-89.931,30.0688
+2014-05-24,Unknown,0,4,"San Antonio, TX",http://www.ksat.com/news/4-injured-in-east-side-shooting/26150408,2014,May,Sat,TX,-98.5289,29.4684
+2014-05-25,Unknown,1,3,"Toledo, OH",http://www.monroenews.com/news/2014/may/26/police-1-killed-3-others-hurt-toledo-shooting/,2014,May,Sun,OH,-83.5694,41.7207
+2014-05-25,Unknown,3,1,"Myrtle Beach, SC",http://www.usatoday.com/story/news/nation/2014/05/25/myrtle-beach-shooting/9569305/,2014,May,Sun,SC,-78.7847,33.7716
+2014-05-27,Unknown,0,4,"Norwalk, CA",http://www.whittierdailynews.com/general-news/20140527/4-wounded-in-norwalk-shooting,2014,May,Tues,CA,-118.077,33.9068
+2014-05-28,Michael Harrison Davis Sheer,4,0,"Mission Viejo, CA",http://www.nbclosangeles.com/news/local/Four-Bodies-Found-in-Mission-Viejo-Home-260791721.html,2014,May,Wed,CA,-117.672,33.6
+2014-05-31,Unknown,0,4,"Brooklyn, NY",http://brooklyn.news12.com/news/4-injured-in-shooting-near-1191-prospect-place-in-crown-heights-1.8295291,2014,May,Sat,NY,-73.9893,40.6945
+2014-05-31,Unknown,1,3,"San Bernardino, CA",http://www.sbsun.com/general-news/20140601/san-bernardino-drive-by-shooting-kills-one-sends-three-to-hospital,2014,May,Sat,CA,-117.29,34.1083
+2014-06-01,Unknown,1,5,"Chicago, Il",http://www.dnainfo.com/chicago/20140601/austin/teen-killed-five-others-injured-austin-shooting,2014,Jun,Sun,IL,-87.6221,41.8853
+2014-06-01,Unknown,0,4,"Sacramento, CA",http://fox40.com/2014/06/01/sacramento-driveby-shooting-leaves-3-wounded/,2014,Jun,Sun,CA,-121.555,38.3805
+2014-06-03,Unknown,1,4,"Atlanta, GA",http://www.wsbtv.com/news/news/4-shot-1-killed-auburn-avenue/ngCYg/,2014,Jun,Tues,GA,-84.4741,33.8444
+2014-06-05,Aaron Ybarra,1,3,"Seattle, WA",http://blogs.seattletimes.com/today/2014/06/shooting-on-seattle-pacific-campus-2-victims-reported/,2014,Jun,Thurs,WA,-122.332,47.6062
+2014-06-06,Unreleased,1,3,"Oak Park, MI",http://detroit.cbslocal.com/2014/06/08/2-suspects-in-custody-after-shooting-in-oak-park-leaves-1-dead-3-injured/,2014,Jun,Fri,MI,-85.2159,42.4014
+2014-06-07,Unknown,1,4,"Moncks Corner, SC",http://www.live5news.com/story/25719421/1-dead-4-injured-in-berkeley-co-shooting,2014,Jun,Sat,SC,-80.0131,33.196
+2014-06-08,Jerad Miller & Amanda Miller,5,0,"Las Vegas, NV",http://www.mynews3.com/mostpopular/story/Tragic-day-Five-killed-including-2-Metro-officers/D9ijUJ5li0WVolLrKpXz6A.cspx,2014,Jun,Sun,NV,-115.207,36.3011
+2014-06-08,Kanavis Malik Cole,1,4,"Opp, AL",http://www.wsfa.com/story/25722331/arrest-made-after-4-injured-1-killed-in-opp-club-shooting,2014,Jun,Sun,AL,-86.2555,31.2827
+2014-06-08,Sonny Enrique ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“QuiqueÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Medina,5,0,"San Carlos Park, FL",http://www.rawstory.com/rs/2014/06/09/florida-sheriff-man-guns-down-3-daughters-wife-himself-in-everyday-usa-mass-killing/,2014,Jun,Sun,FL,-81.8781,26.6211
+2014-06-09,Edward Prince,3,1,"Chicago, IL",http://www.suntimes.com/news/27972053-761/3-dead-2-wounded-in-domestic-shooting-in-ashburn.html#.U6DF8PldV8E,2014,Jun,Mon,IL,-87.6221,41.8853
+2014-06-09,Delshawn Lowery,0,6,"Paterson, NJ",http://www.northjersey.com/news/drive-by-shooting-in-paterson-leaves-six-people-wounded-1.1032409,2014,Jun,Mon,NJ,-74.171,40.912
+2014-06-13,Unknown,3,1,"Los Angelas, CA",http://ktla.com/2014/06/14/3-killed-1-injured-in-south-l-a-shooting-investigation-underway/#axzz34dEzt0K2,2014,Jun,Fri,CA,-118.24,34.0546
+2014-06-15,Unknown,0,4,"Park Forest, IL",http://chicago.cbslocal.com/2014/06/15/four-people-shot-at-party-in-park-forest/,2014,Jun,Sun,IL,-87.6745,41.4914
+2014-06-15,Unknown,0,4,"Kokomo, IN",http://wishtv.com/2014/06/15/sunday-morning-shooting-sends-three-to-the-hospital/,2014,Jun,Sun,IN,-86.1711,40.5069
+2014-06-20,Unknown,0,4,"Seat Pleasant, MD",http://www.csnwashington.com/article/police-gambling-dispute-leads-4-shot,2014,Jun,Fri,MD,-76.9066,38.8962
+2014-06-21,Unknown,0,5,"Memphis, TN",http://www.walb.com/story/25850437/five-teens-shot-after-midnight-basketball-tournament,2014,Jun,Sat,TN,-89.9904,35.1693
+2014-06-22,Unknown,1,3,"Windsor, CA",http://sanfrancisco.cbslocal.com/2014/06/22/teenager-killed-3-hurt-early-morning-shooting-windsor/,2014,Jun,Sun,CA,-122.804,38.5328
+2014-06-24,Unknown,2,7,"Miami, FL",http://edition.cnn.com/2014/06/24/us/miami-shooting/,2014,Jun,Tues,FL,-80.2393,25.812
+2014-06-25,Unknown,0,5,"Lowell, MA",http://www.bostonherald.com/news_opinion/local_coverage/2014/06/5_people_shot_at_massachusetts_birthday_party,2014,Jun,Wed,MA,-71.3033,42.656
+2014-06-26,Unknown,0,5,"Milwaukee, WI",http://fox6now.com/2014/06/27/teen-altercation-leads-to-shoot-out-three-of-five-people-injured-released-from-hospital/,2014,Jun,Thurs,WI,-87.9584,43.0113
+2014-06-26,Unknown,2,2,"Detroit, Mi",http://detroit.cbslocal.com/2014/06/26/2-killed-2-hurt-in-west-side-detroit-shooting/,2014,Jun,Thurs,MI,-83.0602,42.347
+2014-06-28,Unknown,0,7,"Antioch, CA",http://www.ktvu.com/news/news/crime-law/seven-victims-injured-late-night-antioch-shooting/ngWL6/,2014,Jun,Sat,CA,-121.812,37.9965
+2014-06-29,unknown,0,4,"St. Louis, MO",http://www.kmov.com/news/crime/4-shot-in-2800-block-of-Dayton-Saturday-night-265307151.html,2014,Jun,Sun,MO,-90.4434,38.6407
+2014-06-29,Unknown,1,4,"Los Angeles, CA",http://www.reuters.com/article/2014/06/29/us-usa-california-shooting-idUSKBN0F40UL20140629,2014,Jun,Sun,CA,-118.248,33.974
+2014-06-29,unknown,1,3,"San Diego, CA",http://www.10news.com/news/relatives-say-victim-in-shooting-at-mobile-home-park-near-imperial-beach-was-a-stepfather-06292014,2014,Jun,Sun,CA,-117.171,32.7241
+2014-06-29,Unknown,1,8,"New Orleans, LA",http://www.usatoday.com/story/news/nation/2014/06/29/bourbon-street-shooting/11703789/,2014,Jun,Sun,LA,-89.931,30.0688
+2014-06-30,Unknown,1,3,"Lexington, KY",http://www.lex18.com/news/one-of-four-women-shot-in-lexington-dies,2014,Jun,Mon,KY,-84.4777,37.9887
+2014-07-02,Unknown,0,5,"Chester Township, PA",http://www.delcotimes.com/general-news/20140702/cops-consider-link-between-chester-shootings,2014,Jul,Wed,PA,-75.3781,39.8482
+2014-07-05,Unknown,1,4,"Portland, OR",http://www.oregonlive.com/portland/index.ssf/2014/07/one_dead_four_injured_followin.html,2014,Jul,Sat,OR,-122.691,45.5079
+2014-07-05,Unknown,0,7,"Broad Ripple, IN",http://www.indystar.com/story/news/crime/2014/07/05/people-shot-broad-ripple/12242111/?from=global&sessionKey=&autologin=,2014,Jul,Sat,IN,-86.1305,39.8667
+2014-07-05,Zeric D. McKinney,0,5,"Centerville, IL",http://www.bnd.com/2014/07/12/3300006/centreville-man-accused-of-shooting.html,2014,Jul,Sat,IL,-90.5736,38.9564
+2014-07-05,Unknown,0,7,"Norfolk, VA",http://hamptonroads.com/2014/07/norfolk-police-focus-shooting-injured-7,2014,Jul,Sat,VA,-76.2085,36.8959
+2014-07-05,Unknown,0,4,"Houston, TX",http://abc13.com/news/6-hurt-after-shooting-at-houston-caribbean-festival/158283/,2014,Jul,Sat,TX,-95.3098,29.8131
+2014-07-06,Unknown,0,4,"Buffalo, NY",http://wivb.com/2014/07/07/four-men-shot-on-erb-street/,2014,Jul,Sun,NY,-78.8864,42.8961
+2014-07-06,Unknown,0,4,"St Louis, MO",http://stlouis.cbslocal.com/2014/07/06/four-shot-outside-northside-club/,2014,Jul,Sun,MO,-90.4434,38.6407
+2014-07-06,Unknown,2,2,"Bogalusia, LA",http://www.wwltv.com/news/northshore/Bogalusa-police-investigating-fatal-quadruple-shooting-265972731.html,2014,Jul,Sun,LA,-118.244,34.0522
+2014-07-07,Unknown,0,4,"Stopover, KY",http://www.wkyt.com/home/headlines/Four-injured-in-Pike-Co-shooting-266060871.html,2014,Jul,Mon,KY,-82.0784,37.5093
+2014-07-07,Unknown,2,2,"Miami, FL",http://www.wsvn.com/story/25952520/2-dead-3-injured-in-northwest-miami-dade-shooting,2014,Jul,Mon,FL,-80.2393,25.812
+2014-07-08,Unknown,0,5,"Providence, RI",http://www.providencejournal.com/breaking-news/content/20140709-five-people-shot-in-providence-police-searching-for-shooters-and-increasing-patrols.ece,2014,Jul,Tues,RI,-71.4145,41.8227
+2014-07-08,Unknown,1,4,"San Bernardino, CA",http://ktla.com/2014/07/08/police-searching-for-gunman-after-shooting-in-san-bernardino-leaves-1-person-dead-4-injured/,2014,Jul,Tues,CA,-117.29,34.1083
+2014-07-09,Ronald Lee Haskell,6,1,"Houston, TX",http://www.deseretnews.com/article/865606660/Utahn-accused-of-killing-6-in-Texas-was-ordered-to-stay-away-from-ex-wife.html,2014,Jul,Wed,TX,-95.3098,29.8131
+2014-07-12,John Izeal Smith,3,2,"Pasadena, CA",http://www.latimes.com/local/lanow/la-me-ln-at-least-one-killed-in-pasadena-shooting-police-said-20140712-story.html,2014,Jul,Sat,CA,-118.299,33.7866
+2014-07-13,Unknown,0,5,"Skyline, WA",http://blogs.seattletimes.com/today/2014/07/five-people-injured-in-skyway-shooting-early-this-morning/,2014,Jul,Sun,WA,-120.501,47.5001
+2014-07-13,Unknown,0,5,"Stamford, CT",http://stamford.dailyvoice.com/police-fire/five-people-shot-downtown-stamford-incident-caught-video,2014,Jul,Sun,CT,-73.5362,41.0541
+2014-07-13,Unknown,1,4,"Sacramento, CA",http://www.sacbee.com/2014/07/13/6553124/five-people-shot-one-dead-in-early.html,2014,Jul,Sun,CA,-121.555,38.3805
+2014-07-19,Unknown,1,4,"Chicago, IL","http://www.chicagotribune.com/news/local/breaking/chi-chicago-shootings-violence-20140719,0,5419990.story",2014,Jul,Sat,IL,-87.6221,41.8853
+2014-07-20,Unknown,1,4,"Kent, WA",http://www.kentreporter.com/news/267863071.html,2014,Jul,Sun,WA,-122.235,47.3809
+2014-07-20,Unknown,0,6,"Irvington, NJ",http://www.nj.com/essex/index.ssf/2014/07/six_injured_after_fight_ends_in_gunfire_in_irvington_police_say.html,2014,Jul,Sun,NJ,-74.2329,40.7262
+2014-07-20,Unknown,1,3,"St. Louis, MO",http://www.kmov.com/news/crime/Teenager-killed-in-shootout-at-Metro-East-strip-club-267845511.html,2014,Jul,Sun,MO,-90.4434,38.6407
+2014-07-20,Unknown,1,3,"Washington Park, IL",http://www.bnd.com/2014/07/20/3310805/one-man-dead-three-other-people.html,2014,Jul,Sun,IL,-90.0929,38.6351
+2014-07-20,Unknown,1,3,"Las Vegas, NV",http://www.lasvegassun.com/news/2014/jul/20/one-dead-three-inured-drive-by-shooting/,2014,Jul,Sun,NV,-115.207,36.3011
+2014-07-21,Unknown,0,4,"Memphis, TN",http://wreg.com/2014/07/22/five-injured-in-foote-homes-shootings/,2014,Jul,Mon,TN,-89.9904,35.1693
+2014-07-22,Alex Anderson,3,1,"Moreno Valley, CA",http://blog.pe.com/crime/2014/07/25/moreno-valley-gunman-in-fatal-shooting-spree-idd/,2014,Jul,Tues,CA,-117.225,33.8827
+2014-07-23,Unknown,0,4,"Pittsburgh, PA",http://pittsburgh.cbslocal.com/2014/07/23/at-least-2-shot-in-north-braddock/,2014,Jul,Wed,PA,-79.951,40.4744
+2014-07-25,Unknown,1,6,"Chicago, IL",http://www.nbcchicago.com/news/local/Multiple-People-Shot-on-Chicagos-West-Side-268669332.html,2014,Jul,Fri,IL,-87.6221,41.8853
+2014-07-26,Unknown,1,3,"Pine Bluff, AR",http://www.katv.com/story/26123434/2014/07/27/4-shot-1-dead-in-pine-bluff-shooting,2014,Jul,Sat,AR,-91.9859,34.209
+2014-07-26,Unknown,0,7,"Sylvester, GA",http://www.walb.com/story/26119457/seven-teens-shot-in-sylvester,2014,Jul,Sat,GA,-83.8501,31.6033
+2014-07-27,Joel Smith,5,0,"Saco, ME",http://www.reuters.com/article/2014/07/28/us-usa-maine-saco-idUSKBN0FX01J20140728,2014,Jul,Sun,ME,-70.4428,43.5009
+2014-07-27,Unknown,0,4,"Kalamazoo, MI",http://www.mlive.com/news/kalamazoo/index.ssf/2014/07/4_wounded_in_shooting_at_off-c.html,2014,Jul,Sun,MI,-85.493,42.2738
+2014-07-28,Charles Mozdir,1,3,"New York, NY",http://online.wsj.com/articles/two-u-s-marshals-nypd-detective-shot-in-new-york-city-1406570113,2014,Jul,Mon,NY,-74.006,40.7143
+2014-07-28,Unknown,1,4,"Philadelphia, PA",http://www.philly.com/philly/news/1_killed_in_Feltonville_shooting.html,2014,Jul,Mon,PA,-75.1638,39.9523
+2014-07-31,Andrew Michaelis,3,3,"Fayetteville, NC",http://bigstory.ap.org/article/3-people-killed-3-deputies-wounded-shootout,2014,Jul,Thurs,NC,-78.8843,35.0748
+2014-08-01,Unknown,1,3,"Philadelphia, PA",http://philadelphia.cbslocal.com/2014/08/01/child-reportedly-shot-in-grays-ferry/,2014,Aug,Fri,PA,-75.1638,39.9523
+2014-08-02,Unknown,0,7,"New Bedford, MA",http://bostonherald.com/news_opinion/local_coverage/2014/08/7_shot_after_argument_outside_new_bedford_bar,2014,Aug,Sat,MA,-70.951,41.6334
+2014-08-02,Unknown,1,5,"Pittsburgh, PA",http://philadelphia.cbslocal.com/2014/08/02/man-killed-5-others-shot-outside-pa-bar/,2014,Aug,Sat,PA,-79.951,40.4744
+2014-08-02,Unknown,0,4,"Salem City, NJ",http://www.nj.com/salem/index.ssf/2014/08/4_teenagers_shot_in_salem_city_authorities_say_its_part_ongoing_feud.html,2014,Aug,Sat,NJ,-75.4754,39.5731
+2014-08-02,Unknown,3,1,"Dallas, TX",http://www.nbcdfw.com/news/local/Four-Shot-3-Dead-in-Dallas-Shooting--269669971.html,2014,Aug,Sat,TX,-96.7903,32.7812
+2014-08-03,Unknown,1,3,"Beloit, WI",http://fox6now.com/2014/08/02/breaking-multiple-gunshot-victims-reported-at-beloit-park/,2014,Aug,Sun,WI,-89.086,42.562
+2014-08-03,Unknown,0,5,"St. Louis, MO",http://www.stltoday.com/news/local/crime-and-courts/five-wounded-in-st-louis-shooting/article_03615f36-5610-5475-887e-c4b02ecee90c.html,2014,Aug,Sun,MO,-90.4434,38.6407
+2014-08-03,Clarence Washington,5,0,"Culpeper, VA",http://www.nbcwashington.com/news/local/Five-Found-Dead-in-Culpeper-Virginia-Home-269806131.html,2014,Aug,Sun,VA,-77.9928,38.5117
+2014-08-03,Unknown,0,4,"Columbia, TN",http://columbiadailyherald.com/news/local-news/five-wounded-east-side-shooting,2014,Aug,Sun,TN,-87.004,35.624
+2014-08-03,Unknown,0,6,"Houston, TX",http://www.khou.com/story/news/crime/2014/08/03/mass-shooting-houston-night-club/13542329/,2014,Aug,Sun,TX,-95.3098,29.8131
+2014-08-04,Unknown,0,5,"Atlanta, GA",http://www.ajc.com/news/news/5-injured-in-northwest-atlanta-shooting-monday/ngwKf/,2014,Aug,Mon,GA,-84.4741,33.8444
+2014-08-05,Unknown,3,1,"Fayetteville, NC",http://www.wncn.com/story/26206212/3-dead-1-injured-in-fayetteville-shooting,2014,Aug,Tues,NC,-78.8843,35.0748
+2014-08-06,Unknown,0,4,"Chicago, IL",http://voices.suntimes.com/news/breaking-news/three-hurt-in-shooting-outside-goose-island-night-club/,2014,Aug,Wed,IL,-87.6221,41.8853
+2014-08-06,Unknown,3,1,"Bakersfield, CA",http://www.turnto23.com/news/local-news/late-night-shooting-in-east-bakersfield-leaves-several-people-injured-080614,2014,Aug,Wed,CA,-119.021,35.3843
+2014-08-07,"Hasaan Jamel Ray, Antonio Ray",0,4,"St. Pauls, PA",http://www.robesonian.com/news/news/50100207/Two-charged-4-injured-during-shooting-at-store-in-St.-Pauls,2014,Aug,Thurs,PA,-76.9057,40.2724
+2014-08-07,Unknown,0,4,"Wichita, KS",http://www.kansas.com/2014/08/07/3585741/three-shot-at-apartment-complex.html,2014,Aug,Thurs,KS,-97.259,37.652
+2014-08-08,Unknown,0,4,"Milwaukee, WI",http://www.620wtmj.com/news/local/Quadruple-shooting-caps-off-violent-night-in-Milwaukee-270593521.html,2014,Aug,Fri,WI,-87.9584,43.0113
+2014-08-08,Unknown,0,4,Washington DC,http://www.washingtonpost.com/local/quadruple-shooting-in-northeast/2014/08/09/4f87a8fa-1fda-11e4-82f9-2cd6fa8da5c4_story.html,2014,Aug,Fri,NA,-77.0364,38.8951
+2014-08-08,Marcos Delgado,1,3,"Albuquerque, NM",http://www.koat.com/news/four-shot-near-carlisle-candelaria/27378416?_escaped_fragment_=bzz1Te#!bzz1Te,2014,Aug,Fri,NM,-106.651,35.0845
+2014-08-08,Unknown,0,4,"Hauma, LA",http://www.wwltv.com/news/lafourche-terrebonne/Four-shot-at-Houma-birthday-party-Friday-night-270594151.html,2014,Aug,Fri,LA,-90.713,29.5973
+2014-08-09,Unknown,0,9,"Minneapolis, MN",http://minnesota.cbslocal.com/2014/08/09/several-people-shot-inside-dt-mpls-nightclub/,2014,Aug,Sat,MN,-93.3148,45.1604
+2014-08-09,Unknown,0,4,"Columbus, OH",http://www.dispatch.com/content/stories/local/2014/08/10/man-killed-4-teens-hurt-in-separate-shootings.html,2014,Aug,Sat,OH,-83.0134,40.1009
+2014-08-09,Unknown,0,4,"Philadelphia, PA",http://6abc.com/news/police-argument-leads-to-4-struck-in-feltonville-shooting/250999/,2014,Aug,Sat,PA,-75.1638,39.9523
+2014-08-10,Unknown,0,6,Washington DC,http://www.washingtonpost.com/local/crime/six-injured-in-shooing-in-southwest-dc/2014/08/10/01dcb296-20a0-11e4-86ca-6f03cbd15c1a_story.html,2014,Aug,Sun,NA,-77.0364,38.8951
+2014-08-10,Unknown,0,7,"Moreno Valley, CA",http://abc7.com/news/moreno-valley-house-party-shooting-7-injured/251363/,2014,Aug,Sun,CA,-117.225,33.8827
+2014-08-10,Unknown,0,6,"Wrightsville, GA",http://www.macon.com/2014/08/10/3242315/6-wounded-in-wrightsville-shooting.html,2014,Aug,Sun,GA,-82.7199,32.7293
+2014-08-10,Unknown,2,5,"New Orleans, LA",http://www.theguardian.com/world/2014/aug/11/two-dead-five-injured-new-orleans,2014,Aug,Sun,LA,-89.931,30.0688
+2014-08-12,Unknown,2,3,"Buffalo, NY",http://www.buffalonews.com/city-region/police-blotter/2-teens-killed-in-separate-shootings-police-know-identity-of-gunman-who-killed-14-year-old-20140812,2014,Aug,Tues,NY,-78.8864,42.8961
+2014-08-12,Austin Denzell Tyler,3,4,"Cartersville, GA",http://patch.com/georgia/cartersville/sheriff-bartow-shooter-fired-12-people-15-minute-shooting-spree#.U-__TmMzOSo,2014,Aug,Tues,GA,-84.8471,34.2008
+2014-08-13,Unknown,1,5,"Memphis, TN",http://www.commercialappeal.com/news/local-news/crime/fourth-memphis-shooting-in-15-hours-leaves-six-including-four-children-shot-one-man-dead_24710039,2014,Aug,Wed,TN,-89.9904,35.1693
+2014-08-13,Unknown,0,4,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2014/08/four_injured_in_7th_ward_shoot.html,2014,Aug,Wed,LA,-89.931,30.0688
+2014-08-14,Unknown,1,3,"Sauk Villiage, IL",http://www.suntimes.com/news/29268672-418/16-year-old-boy-killed-3-injured-in-sauk-village-shooting.html,2014,Aug,Thurs,IL,-87.5847,41.4866
+2014-08-15,Michael William Little,2,2,"Knoxville, TN",http://www.rawstory.com/rs/2014/08/18/knoxville-police-cadet-opens-fire-on-ex-girlfriends-family-is-killed-by-her-brother/,2014,Aug,Fri,TN,-83.9207,35.9606
+2014-08-16,Unknown,0,6,"Salt Lake City, UT",http://bigstory.ap.org/article/6-hurt-salt-lake-city-nightclub-shooting,2014,Aug,Sat,UT,-111.901,40.7561
+2014-08-16,Unknown,1,3,"Plainfield, NJ",http://7online.com/news/multiple-people-shot-in-plainfield-new-jersey-/266123/,2014,Aug,Sat,NJ,-74.415,40.6152
+2014-08-16,Frederick Miller,2,2,"Camp Spring, MD",http://www.nbcwashington.com/news/local/Grandparents-Shot-Suspect-Dies-in-Gun-Battle-Child-Wounded-271529321.html,2014,Aug,Sat,MD,-76.913,38.8051
+2014-08-17,Unknown,0,4,"Queens, NY",http://7online.com/news/south-jamaica-shooting-leaves-4-wounded-2-critically/266817/,2014,Aug,Sun,NY,-78.2104,43.2802
+2014-08-17,Melvin Smith,0,4,"Boston, MA",http://www.bostonglobe.com/metro/2014/08/17/four-injured-chinatown-shooting/kowA3S5nozEligJNwcTNuN/story.html,2014,Aug,Sun,MA,-71.027,42.3706
+2014-08-17,Unkown,1,4,"Palo Alto, CA",http://www.mercurynews.com/crime-courts/ci_26357654/east-palo-alto-one-killed-four-injured-shooting,2014,Aug,Sun,CA,-122.115,37.4581
+2014-08-17,Unknown,0,4,"Las Vegas, NV",http://www.lasvegassun.com/news/2014/aug/17/four/,2014,Aug,Sun,NV,-115.207,36.3011
+2014-08-20,Unkown,0,5,"Frayser, TN",http://www.commercialappeal.com/news/local-news/crime/five-men-shot-in-frayser_59439274,2014,Aug,Wed,TN,-90.0034,35.2176
+2014-08-24,Unkown,1,3,"Chicago, IL",http://www.dnainfo.com/chicago/20140824/auburn-gresham/auburn-gresham-lounge-shooting-leaves-one-dead-three-injured,2014,Aug,Sun,IL,-87.6221,41.8853
+2014-08-25,Unkown,0,4,"Chicago, IL",http://www.chicagotribune.com/news/local/breaking/chi-pizza-hut-four-shot-20140826-story.html,2014,Aug,Mon,IL,-87.6221,41.8853
+2014-08-25,Unknown,2,4,"San Fernando Valley, CA",http://www.nbclosangeles.com/news/local/Three-Homicides-San-Fernando-Valley-May-Be-Linked-272485031.html,2014,Aug,Mon,CA,-122.47,37.7361
+2014-08-26,William Rolando Fuentes Godinez,4,0,"Tulsa, OK",http://www.newson6.com/story/26369827/tulsa-police-two-adults-two-children-killed-in-murder-suicide,2014,Aug,Tues,OK,-95.9928,36.154
+2014-08-27,Unkown,1,3,"Detroit, Mi",http://www.clickondetroit.com/news/detroit-police-investigating-a-quadruple-shooting/27767568,2014,Aug,Wed,MI,-83.0602,42.347
+2014-08-27,Alexander Hernandez,3,4,"Los Angeles, CA",http://abcnews.go.com/US/wireStory/suspect-fatal-shootings-charged-murder-25137192,2014,Aug,Wed,CA,-118.248,33.974
+2014-08-30,Francis Stack,4,0,"Elmhurst, IL",http://www.pjstar.com/article/20140831/LIFESTYLE/140839923/10929/NEWS,2014,Aug,Sat,IL,-87.9464,41.8835
+2014-08-30,George Mason III,3,1,"Brooksville, FL",http://www.wtsp.com/story/news/local/2014/08/30/luck-for-police-after-truck-accidentally-hits-shooting-suspect/14875769/,2014,Aug,Sat,FL,-82.3959,28.5862
+2014-08-31,Anthony Jesus Torres,0,5,"Livermore, CA",http://www.sfgate.com/bayarea/article/5-shot-at-Livermore-party-5725329.php,2014,Aug,Sun,CA,-121.583,37.5267
+2014-08-31,Unkown,2,2,"Birmingham, AL",http://www.abc3340.com/story/26419037/police-two-people-dead-two-injured-following-motorcycle-club-shooting,2014,Aug,Sun,AL,-86.8025,33.5207
+2014-09-01,Derek Gooding,1,3,"Brooklyn, NY",http://www.dnainfo.com/new-york/20140901/crown-heights/man-killed-3-others-injured-during-crown-heights-shooting-police-say,2014,Sep,Mon,NY,-73.9893,40.6945
+2014-09-01,Unkown,2,2,"Greensboro, NC",http://www.wxii12.com/news/police-investigating-shooting-in-greensboro/27826982,2014,Sep,Mon,NC,-79.7652,36.0691
+2014-09-01,Evan Bennett,4,1,"Greenville, NC",http://www.wlos.com/news/features/top-stories/stories/officer-shooting-linked-three-other-killings-17601.shtml,2014,Sep,Mon,NC,-77.3926,35.5804
+2014-09-02,Unkown,3,2,"Kansas City, KS",http://www.kansascity.com/news/local/crime/article1348304.html,2014,Sep,Tues,KS,-94.6304,39.1031
+2014-09-02,Unkown,0,5,"Highland, CA",http://www.latimes.com/local/lanow/la-me-ln-five-hospitalized-highland-shooting-20140902-story.html,2014,Sep,Tues,CA,-117.209,34.1283
+2014-09-02,Unkown,2,3,"Jackson, MS",http://www.msnewsnow.com/story/26436970/2-dead-in-shooting-at-jackson-sports-bar,2014,Sep,Tues,MS,-90.1848,32.2988
+2014-09-03,Unknown,0,4,"Los Angeles, CA",http://ktla.com/2014/09/03/4-men-wounded-in-south-l-a-shooting-2-other-people-shot-in-previous-incident/,2014,Sep,Wed,CA,-118.248,33.974
+2014-09-04,unknown,0,5,"Flint, MI",http://www.detroitnews.com/article/20140904/METRO06/309040076/Police-5-wounded-shooting-outside-Flint-store,2014,Sep,Thurs,MI,-83.7808,42.9659
+2014-09-06,Jamel Ramon Nolton,0,5,"Macon, GA",http://www.macon.com/2014/09/06/3289964_five-shot-outside-grants-lounge.html?rh=1,2014,Sep,Sat,GA,-83.6176,32.8044
+2014-09-06,Unknown,0,5,"Orlando, FL",http://www.orlandosentinel.com/news/breaking-news/os-5-shot-drive-by-kwik-stop-gas-20140906-story.html,2014,Sep,Sat,FL,-81.3733,28.5452
+2014-09-11,Unknown,2,5,"Detroit, Mi",http://www.clickondetroit.com/news/detroit-police-investigating-seven-people/28025096,2014,Sep,Thurs,MI,-83.0602,42.347
+2014-09-14,Unknown,0,6,"Anchorage, AK",http://abcnews.go.com/Technology/wireStory/police-hurt-shooting-alaska-bar-25498698,2014,Sep,Sun,AK,-149.856,61.22
+2014-09-14,Unknown,1,3,"Norfolk, VA",http://wavy.com/2014/09/14/one-dead-two-wounded-in-norfolk-shooting/,2014,Sep,Sun,VA,-76.2085,36.8959
+2014-09-14,Unkown,0,7,"Abbeville, LA",http://www.theadvertiser.com/story/news/crime/2014/09/14/abbevilleshooting/15638545/,2014,Sep,Sun,LA,-92.2416,29.9466
+2014-09-14,Unknown,3,1,"Corpus Christi, TX",http://www.huffingtonpost.com/2014/09/15/texas-trailer-park-shooting_n_5822968.html?utm_hp_ref=crime,2014,Sep,Sun,TX,-97.3991,27.7978
+2014-09-15,Wesley Daley Jr,0,4,"Cleveland, OH",http://www.cleveland.com/metro/index.ssf/2014/09/cleveland_man_wanted_for_shoot.html,2014,Sep,Mon,OH,-81.6675,41.4894
+2014-09-15,Unknown,0,5,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2014/09/5_shot_in_eastern_new_orleans.html,2014,Sep,Mon,LA,-89.931,30.0688
+2014-09-18,Don Charles Spirit,8,0,"Bell, FL",http://www.bbc.com/news/business-29266609,2014,Sep,Thurs,FL,-82.8651,29.7491
+2014-09-19,Unknown,0,4,"Queens, NY",http://newyork.cbslocal.com/2014/09/19/east-elmhurst-queens-shooting-leaves-multiple-people-wounded/,2014,Sep,Fri,NY,-78.2104,43.2802
+2014-09-20,Unknown,2,2,"Panola County, MS",http://www.commercialappeal.com/news/local-news/desoto/2-dead-2-injured-in-mississippi-shooting_13582967,2014,Sep,Sat,MS,-89.7437,31.8644
+2014-09-21,Unknown,0,4,"East Liverpool, OH",http://www.theintelligencer.net/page/content.detail/id/612546.html,2014,Sep,Sun,OH,-80.6006,40.6774
+2014-09-21,Unknown,2,2,"Philadelphia, PA",http://www.nbcphiladelphia.com/news/local/2-Dead-2-Injured-in-Overnight-Shooting-at-Day-Care-Facility-275922111.html,2014,Sep,Sun,PA,-75.1638,39.9523
+2014-09-28,Unknown,0,4,"Philadelphia, PA",http://philadelphia.cbslocal.com/2014/09/28/police-investigate-quadruple-shooting-in-fairhill/,2014,Sep,Sun,PA,-75.1638,39.9523
+2014-09-28,"Vernell Ballard, Unknown",0,4,"Indianapolis, IN",http://www.theindychannel.com/news/local-news/4-people-shot-during-private-party-at-vfw-building-near-3600-english-ave,2014,Sep,Sun,IN,-86.1322,39.7751
+2014-09-28,Unknown,1,6,"Walterboro, SC",http://www.abcnews4.com/story/26646633/1-dead-5-wounded-in-colleton-county-shooting,2014,Sep,Sun,SC,-80.7032,32.9252
+2014-09-28,Unknown,0,15,"Miami, FL",http://www.miamiherald.com/news/local/crime/article2282344.html,2014,Sep,Sun,FL,-80.2393,25.812
+2014-09-29,Unknown,0,4,"Fresno, CA",http://www.fresnobee.com/2014/09/29/4151197_three-people-shot-in-northwest.html?rh=1,2014,Sep,Mon,CA,-119.735,36.8626
+2014-09-30,Unknown,0,5,"Detroit, Mi",http://www.freep.com/story/news/local/michigan/detroit/2014/09/30/five-shot-detroit-party/16466987/,2014,Sep,Tues,MI,-83.0602,42.347
+2014-10-02,"Alonzo Russell Sr., Sylvester Lamont Jordan, Damaino Nicholas Thomas",0,5,"Darlington, SC",http://www.wbtw.com/story/26691567/3-arrested-after-5-shot-in-drug-deal-gone-badly-darlington-sheriff-says,2014,Oct,Thurs,SC,-79.9317,34.3177
+2014-10-04,Unknown,1,3,"Chicago, IL",http://abc7chicago.com/news/1-dead-3-wounded-in-west-garfield-park-shooting/336592/,2014,Oct,Sat,IL,-87.6221,41.8853
+2014-10-04,Unknown,2,2,"Memphis, TN",http://wreg.com/2014/10/04/multiple-people-shot-in-southeast-memphis/,2014,Oct,Sat,TN,-89.9904,35.1693
+2014-10-04,Unknown,0,4,"Pomona, CA",http://www.insidesocal.com/sgvcrime/2014/10/05/four-wounded-in-shooting-at-pomona-restaurant-drive-through/?doing_wp_cron=1422648180.5885689258575439453125,2014,Oct,Sat,CA,-117.756,34.0423
+2014-10-05,"Prosper Natron Johnson, Deanta Holsey",3,2,"Jacksonville, FL",http://www.news4jax.com/news/3-killed-2-dead-in-mass-shooting/28963234,2014,Oct,Sun,FL,-81.6556,30.3322
+2014-10-06,Unreported,1,5,"Detroit, Mi",http://www.myfoxdetroit.com/story/26719319/mass-shooting-kills-mother-of-three-wounds-five-others,2014,Oct,Mon,MI,-83.0602,42.347
+2014-10-07,Mickey Sudduth,2,2,"Aberdeen, MS",http://www.rawstory.com/rs/2014/10/mississippi-family-gunfight-leaves-two-dead-two-wounded/,2014,Oct,Tues,MS,-88.5147,33.8476
+2014-10-08,Unknown,4,0,"Guilderland, NY",http://www.dailymail.co.uk/news/article-2786805/Cops-4-slain-include-2-adults-boys-ages-7-10.html,2014,Oct,Wed,NY,-73.9115,42.7045
+2014-10-08,Traymont B. Burton,0,4,"Richmond, VA",http://www.nbc12.com/story/26741075/richmond-police-respond-to-south-richmond-shooting,2014,Oct,Wed,VA,-77.4603,37.5538
+2014-10-09,Unreported,1,3,"Oklahoma City, OK",http://www.koco.com/news/police-officer-shot-in-southeast-oklahoma-city/29019196,2014,Oct,Thurs,OK,-97.5628,35.4916
+2014-10-09,unknown,0,4,"Atlanta, GA",http://www.ajc.com/news/news/three-wounded-in-auburn-avenue-shooting/nhfX4/,2014,Oct,Thurs,GA,-84.4741,33.8444
+2014-10-10,Calvin A. Dennis,0,5,"Utica, NY",http://wibx950.com/multiple-shooting-victims-at-level-bar-officer-shot-suspect/,2014,Oct,Fri,NY,-75.2332,43.0774
+2014-10-11,Unknown,3,1,"Stockton, CA",http://www.sacbee.com/news/local/crime/article2691157.html,2014,Oct,Sat,CA,-121.291,37.9577
+2014-10-12,Unknown,1,3,"Atlanta, GA",http://www.ajc.com/news/news/local/police-investigate-apparent-drive-by-shooting/nhg9B/,2014,Oct,Sun,GA,-84.4741,33.8444
+2014-10-14,Brandon Mclean,3,2,"Peachtree Corners, GA",http://www.ajc.com/news/news/2-killed-3-injured-in-gwinnett-county-shooting/nhjN6/,2014,Oct,Tues,GA,-84.2216,33.9701
+2014-10-16,Donnie Everett,1,3,"Detroit, Mi",http://www.clickondetroit.com/news/detroit-man-charged-in-shooting-that-killed-3yearold-injured-3-others/29230266,2014,Oct,Thurs,MI,-83.0602,42.347
+2014-10-16,David Mohney,3,1,"Port Orange, FL",http://www.wftv.com/news/news/local/fire-rescue-multiple-people-shot-including-3-child/nhk4z/,2014,Oct,Thurs,FL,-81.024,29.137
+2014-10-18,Unknown,0,4,"Brooklyn, NY",http://www.nydailynews.com/new-york/nyc-crime/4-men-hospitalized-brooklyn-shooting-article-1.1979466,2014,Oct,Sat,NY,-73.9893,40.6945
+2014-10-18,Unknown,1,3,"Aiken, SC",http://www.aikenstandard.com/article/20141018/AIK0101/141019399/1083/update-victim-s-name-released-in-deadly-graniteville-nightclub-shooting,2014,Oct,Sat,SC,-81.6959,33.5544
+2014-10-20,unknown,0,4,"Detroit, Mi",http://detroit.cbslocal.com/2014/10/21/4-injured-in-gas-station-shooting-near-ecorse-police-department/,2014,Oct,Mon,MI,-83.0602,42.347
+2014-10-22,Unknown,0,4,"Joliet, IL",http://www.theherald-news.com/2014/10/23/three-hospitalized-following-shooting-in-joliet/aoj7zsx/,2014,Oct,Wed,IL,-88.1802,41.5097
+2014-10-24, Jaylen Fryberg,5,1,"Marysville, WA",http://www.nytimes.com/2014/11/09/us/death-toll-rises-to-5-in-school-shooting.html?smid=re-share,2014,Oct,Fri,WA,-122.162,48.0496
+2014-10-26,Ryan Champion,4,0,"Cadiz, KY",http://www.lex18.com/news/ksp-arrests-sole-survivor-of-trigg-county-triple-homicide-charges-him-with-murder/,2014,Oct,Sun,KY,-87.8286,36.802
+2014-10-29,Unknown,0,5,"Raleigh, NC",http://www.walb.com/story/27155807/five-shot-at-raleigh-apartment-complex,2014,Oct,Wed,NC,-82.164,35.4479
+2014-11-05,Unknown,0,4,"San Francisco, CA",http://www.sfgate.com/crime/article/Four-shot-in-S-F-s-Mission-District-5874728.php?cmpid=reddit-desktop,2014,Nov,Wed,CA,-122.728,37.7848
+2014-11-07,Unknown,0,4,"Los Angeles, CA",http://www.presstelegram.com/general-news/20141108/four-shot-outside-willowbrook-apartment,2014,Nov,Fri,CA,-118.248,33.974
+2014-11-08,"Jose M. Chavez, Michael Wayne Davis",1,4,"Greensboro, NC",http://myfox8.com/2014/11/08/1-dead-4-injured-in-downtown-greensboro-shooting/,2014,Nov,Sat,NC,-79.7652,36.0691
+2014-11-08,Unknown,0,5,"Pomona, CA",http://www.latimes.com/local/lanow/la-me-ln-five-shot-pomona-park-20141109-story.html,2014,Nov,Sat,CA,-117.756,34.0423
+2014-11-15,Unknown,3,1,"Springfield, MO",http://www.ky3.com/news/local/springfield-police-investigate-homicide-possibly-multiple-dead-at-motel-on-glenstone-and-kearney/21048998_29738482,2014,Nov,Sat,MO,-93.3437,37.2581
+2014-11-16,Kenan Ivery,1,4,"Akron, OH",http://www.ohio.com/news/break-news/slain-akron-officer-was-a-hero-eyewitness-says-four-others-shot-suspect-arrested-1.541405,2014,Nov,Sun,OH,-81.524,41.0435
+2014-11-16,Unknown,1,3,"Miami, FL",http://miami.cbslocal.com/2014/11/17/police-identify-man-killed-during-quadruple-shooting/,2014,Nov,Sun,FL,-80.2393,25.812
+2014-11-17,Unknown,0,4,"North Las Vegas, NV",http://www.reviewjournal.com/news/las-vegas/4-wounded-north-las-vegas-shooting,2014,Nov,Mon,NV,-115.174,36.2969
+2014-11-17,Unknown,0,6,"El Paso, TX",http://www.kvia.com/news/police-club-shooter-5-others-injured/29754252,2014,Nov,Mon,TX,-106.485,31.7636
+2014-11-19,Unknown,1,3,"Chicago, IL",http://www.chicagotribune.com/news/local/breaking/chi-several-shot-in-humboldt-park-20141119-story.html,2014,Nov,Wed,IL,-87.6221,41.8853
+2014-11-19,Unknown,4,1,"Cleveland, OH",http://www.nytimes.com/aponline/2014/11/22/us/ap-us-cleveland-home-killings.html?smid=re-share,2014,Nov,Wed,OH,-81.6675,41.4894
+2014-11-19, Myron May,1,3,"Tallahassee, FL",http://www.sfgate.com/news/texas/article/Dangerous-situation-reported-at-Florida-State-5905512.php?cmpid=reddit-mobile,2014,Nov,Wed,FL,-84.0976,30.5668
+2014-11-20,Jeannine LePage,3,1,"Tabernacle, NJ",http://bigstory.ap.org/article/d61e024d8f844be9a51cd16eaff24506/mother-who-shot-children-dies-her-injuries,2014,Nov,Thurs,NJ,-74.7102,39.844
+2014-11-21,Unknown,0,6,"Clairton, PA",http://www.wpxi.com/news/news/local/breaking-many-6-people-shot-clairton/njCYF/,2014,Nov,Fri,PA,-79.9317,40.3243
+2014-11-22,Colter Richard Arbach,4,1,"Sisseton, SD",http://www.theguardian.com/us-news/2014/nov/22/gunman-four-dead-south-dakota-indiana-reservation?CMP=share_btn_gp,2014,Nov,Sat,SD,-97.0498,45.6647
+2014-11-22,Unknown,1,3,"Springfield, OH",http://wdtn.com/2014/11/22/springfield-police-investigate-shooting/,2014,Nov,Sat,OH,-83.8132,39.9271
+2014-11-23,Unknown,5,0,"Cleveland, OH",http://www.usatoday.com/story/news/nation/2014/11/24/cleveland-mass-shooting/19474067/,2014,Nov,Sun,OH,-81.6675,41.4894
+2014-11-23,Jaquan Cortez Portier,0,4,"Accomack County, VA",http://wtkr.com/2014/11/24/man-accused-of-shooting-four-people-inside-accomack-co-home/,2014,Nov,Sun,VA,-77.197,38.7935
+2014-11-26,Unknown,0,4,"Reading, PA",http://www.usatoday.com/story/news/nation/2014/11/26/barbershop-shooting-reading-pennsylvania/19549491/,2014,Nov,Wed,PA,-75.9402,40.3572
+2014-11-26,Unknown,0,6,"San Francisco, CA",http://www.sfgate.com/news/article/Six-shot-and-wounded-in-S-F-s-Mission-District-5919251.php?cmpid=reddit-mobile,2014,Nov,Wed,CA,-122.728,37.7848
+2014-11-28,Unknown,0,4,"Memphis, TN",http://www.wmcactionnews5.com/story/27500884/shooting-outside-memphis-bikini-bar,2014,Nov,Fri,TN,-89.9904,35.1693
+2014-11-28,Jose Hernandez Benitez,2,3,"Weir, TX",http://www.mystatesman.com/news/news/local/man-arrested-after-2-killed-3-injured-in-weir-part/njHdp/,2014,Nov,Fri,TX,-97.5929,30.6747
+2014-11-29,Unkown,1,3,"Newark, NJ",http://www.nj.com/essex/index.ssf/2014/11/1_killed_in_newark_shooting_3_others_wounded_officials_say.html,2014,Nov,Sat,NJ,-74.2251,40.7361
+2014-11-29,Unkown,3,2,"Atlanta, GA",http://www.rawstory.com/rs/2014/11/three-people-shot-to-death-in-atlanta-two-injured/#.VHojCEsJpzk.reddit,2014,Nov,Sat,GA,-84.4741,33.8444
+2014-11-30,Unknown,0,4,"Brooklyn, NY",http://nypost.com/2014/12/01/three-shot-outside-baby-shower/,2014,Nov,Sun,NY,-73.9893,40.6945
+2014-11-30,Unknown,0,5,"Chattanooga, TN",http://www.wrcbtv.com/story/27508990/deputies-early-morning-shooting-injures-5-people,2014,Nov,Sun,TN,-85.2064,35.0178
+2014-12-01,Jody Lee Hunt,5,0,"Westover, WV",http://www.nbcnews.com/news/us-news/west-virginia-gunman-jody-lee-hunt-dead-after-four-killed-n259261,2014,Dec,Mon,WV,-79.9438,39.65
+2014-12-02,Unknown,2,4,"St. Louis, MO",http://www.stltoday.com/news/local/crime-and-courts/six-shot-in-suspected-holdup-at-st-louis-bar-popular/article_33503b67-ec0b-570e-af58-a699771c4ed6.html,2014,Dec,Tues,MO,-90.4434,38.6407
+2014-12-02,unknown,0,5,"Newport News, VA",http://www.13newsnow.com/story/news/local/mycity/newport-news/2014/12/02/newport-news-police-investigating-shooting-incident/19807177/,2014,Dec,Tues,VA,-76.4635,37.0583
+2014-12-03,Reginald Mercer,1,3,"Cabarrus County, NC",http://www.wsoctv.com/news/news/local/dispatch-cabarrus-co-officials-working-shooting-in/njK4M/,2014,Dec,Wed,NC,-80.5793,35.2123
+2014-12-04,"Andres ""Andy"" Avalos",3,1,"Bradenton, FL",http://www.cbsnews.com/news/3-dead-1-injured-in-bradenton-florida-shootings/,2014,Dec,Thurs,FL,-82.5239,27.4025
+2014-12-06,Unkown,0,4,"Minneapolis, MN",http://www.kare11.com/story/news/crime/2014/12/06/4-injured-in-party-bus-shooting-in-minneapolis/20022493/,2014,Dec,Sat,MN,-93.3148,45.1604
+2014-12-07,Unknown,0,4,"St. Joseph County, IN",http://www.southbendtribune.com/news/local/four-injured-in-st-joseph-county-banquet-hall-shooting/article_f241d43c-7e24-11e4-ba15-67a1a0af4ad1.html,2014,Dec,Sun,IN,-86.7891,39.5043
+2014-12-12,Unknown,0,4,"Portland, OR",http://www.nytimes.com/2014/12/13/us/oregon-4-hurt-in-shooting-near-portland-high-school.html?partner=rss&emc=rss&smid=tw-nytimes&_r=1,2014,Dec,Fri,OR,-122.691,45.5079
+2014-12-13,Unknown,0,5,"Tampa, FL",http://tbo.com/news/crime/five-wounded-in-shooting-at-tampa-nightclub-20141213/,2014,Dec,Sat,FL,-82.582,27.9961
+2014-12-14,Unknown,2,4,"Macon, GA",http://www.13wmaz.com/story/news/local/macon/2014/12/12/friday-morning-macon-wings-cafe-shooting/20292021/,2014,Dec,Sun,GA,-83.6176,32.8044
+2014-12-14,Unknown,1,4,"Miami, FL",http://www.nbcmiami.com/news/local/One-of-Five-Victims-in-Overtown-Drive-By-Shooting-Dies-Miami-Police-286224471.html,2014,Dec,Sun,FL,-80.2393,25.812
+2014-12-15,Unknown,0,4,"Chicago, IL",http://www.chicagotribune.com/news/local/breaking/chi-multiple-people-shot-michigan-and-57th-chicago-20141215-story.html,2014,Dec,Mon,IL,-87.6221,41.8853
+2014-12-15,Bradley William Stone,6,3,"Montgomery County, PA",http://www.mediaite.com/tv/while-you-were-watching-sydney-pa-gunman-killed-6-and-is-still-at-large/,2014,Dec,Mon,PA,-76.8755,41.1699
+2014-12-16,Unknown,0,4,"Elizabeth, NJ",http://www.nj.com/union/index.ssf/2014/12/one_man_seriously_injured_three_others_stable_after_elizabeth_shooting_police_say.html,2014,Dec,Tues,NJ,-74.1834,40.6721
+2014-12-20,Unknown,4,0,"Rockford, Il",http://chicago.suntimes.com/nationworld/7/71/223001/4-people-including-2-children-killed-rockford-home,2014,Dec,Sat,IL,-89.094,42.2711
+2014-12-21,Unknown,1,10,"Calumet City, IL",http://abc13.com/news/house-party-shooting-kills-1-wounds-10/445683/,2014,Dec,Sun,IL,-87.5295,41.6156
+2014-12-21,Unknown,2,2,"Denton, TX",http://dfw.cbslocal.com/2014/12/21/denton-police-look-for-shooting-suspect/,2014,Dec,Sun,TX,-97.096,33.1495
+2014-12-21,Unknown,2,2,"Sarasota, Fl",http://www.heraldtribune.com/article/20141221/BREAKING/141229965/2416/NEWS?Title=UPDATE-2-dead-3-injured-after-shooting-in-Sarasota-bar,2014,Dec,Sun,FL,-82.5239,27.4025
+2014-12-22,William Spengler,3,2,"Webster, NY",http://www.usatoday.com/story/news/nation/2012/12/24/webster-new-york-firefighter-shot/1788917/,2014,Dec,Mon,NY,-77.4541,43.2182
+2014-12-22,Unknown,1,3,"Detroit, MI",http://www.myfoxdetroit.com/story/27702993/police-investigate-teen-shooting-as-robbery-gone-bad,2014,Dec,Mon,MI,-83.0602,42.347
+2014-12-22,Unknown,0,5,"Chicago, IL",http://www.chicagotribune.com/news/local/breaking/chi-5-teens-shot-in-englewood-20141222-story.html,2014,Dec,Mon,IL,-87.6221,41.8853
+2014-12-22,Unknown,0,4,"Fresno, CA",http://abc30.com/news/4-wounded-in-central-fresno-drive-by-shooting/447341/,2014,Dec,Mon,CA,-119.735,36.8626
+2014-12-22,Unknown,0,9,"West Little River, FL",http://www.local10.com/news/police-checking-on-reports-of-a-shooting/30357538,2014,Dec,Mon,FL,-80.3014,25.6278
+2014-12-23,Unknown,1,3,"Winchester, KY",http://www.wlky.com/news/one-person-dead-three-injured-in-apartment-complex-shooting/30380264,2014,Dec,Tues,KY,-84.1607,37.9649
+2014-12-24,Unknown,1,3,"St. Louis, MO",http://www.ksdk.com/story/news/crime/2014/12/24/1-dead-in-downtown-quadruple-shooting/20883631/,2014,Dec,Wed,MO,-90.4434,38.6407
+2014-12-26,Unknown,1,3,"East St. Louis, IL",http://www.kmov.com/news/crime/East-St-Louis-Man-murdered-early-Friday-286882421.html,2014,Dec,Fri,IL,-88.5408,39.1247
+2014-12-26,Demarcus Gladney & a 16 year old minor,1,3,"Shreveport, LA",http://www.shreveporttimes.com/story/news/2014/12/28/another-arrested-in-downtown-shooting/20977211/,2014,Dec,Fri,LA,-93.7502,32.5252
+2014-12-27,Unknown,0,4,"Sacramento, CA",http://www.sacbee.com/news/local/crime/article5079981.html,2014,Dec,Sat,CA,-121.555,38.3805
+2014-12-27,Unknown,1,3,"Los Angeles, CA",http://www.nbclosangeles.com/news/local/4-People-Shot-1-Fatally-in-South-LA-286939761.html,2014,Dec,Sat,CA,-118.248,33.974
+2014-12-29,Unknown,0,4,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2014/12/4_injured_in_monday_morning_sh.html,2014,Dec,Mon,LA,-89.931,30.0688
+2015-01-01,Unknown,0,5,"Memphis, TN",http://www.wmcactionnews5.com/story/27743361/5-injured-in-new-years-day-party-bus-shooting,2015,Jan,Thurs,TN,-89.9904,35.1693
+2015-01-02,Unknown,1,4,"Savannah, GA",http://savannahnow.com/crime/2015-01-02/police-1-dead-4-injured-overnight-savannah-shooting,2015,Jan,Fri,GA,-81.0883,32.0747
+2015-01-04,William Christopher Cabbler,2,4,"Roanoke, VA",http://www.wdbj7.com/news/local/developing-story-roanoke-police-investigating-early-am-shooting/30521654,2015,Jan,Sun,VA,-79.9579,37.2742
+2015-01-04,Unknown,3,1,"Dallas, TX",http://dfw.cbslocal.com/2015/01/04/police-3-dead-1-in-surgery-after-dallas-shooting/,2015,Jan,Sun,TX,-96.7903,32.7812
+2015-01-06,Unknown,1,3,"Miami, FL",http://www.nbcmiami.com/news/local/2-Shot-2-Grazed-by-Bullets-in-Miami-287737751.html,2015,Jan,Tues,FL,-80.2393,25.812
+2015-01-07,Cortez Sims,1,3,"Chattanooga, TN",http://www.wrcbtv.com/story/27778835/one-person-is-dead-and-three-others-are-injured-in-overnight-shooting,2015,Jan,Wed,TN,-85.2064,35.0178
+2015-01-08,Unknown,1,3,"Boston, MA",http://boston.cbslocal.com/2015/01/09/1-dead-3-wounded-in-shooting-on-roxbury-street/,2015,Jan,Thurs,MA,-71.027,42.3706
+2015-01-09,Unknown,4,0,"San Francisco, CA",http://abc7news.com/news/sfpd-confirm-4-dead-following-shooting-in-hayes-valley/469681/,2015,Jan,Fri,CA,-122.728,37.7848
+2015-01-10,John Lee,3,1,"Moscow, ID",http://www.kxly.com/news/north-idaho-news/moscow-police-investigating-shooting/30634900,2015,Jan,Sat,ID,-116.87,46.7353
+2015-01-11,Unknown,0,5,"San Jose, CA",http://abc7news.com/news/5-hurt-in-shooting-during-chris-brown-party-in-sj/470625/,2015,Jan,Sun,CA,-121.705,37.1894
+2015-01-11,Unknown,2,5,"Hope Mills, NC",http://www.wral.com/two-dead-five-injured-in-shooting-at-hope-mills-party/14346149/,2015,Jan,Sun,NC,-78.9329,34.9213
+2015-01-11,Rishod Shermaine Fields,0,5,"Tuskegee, AL",http://www.al.com/news/montgomery/index.ssf/2015/01/arrest_made_in_shooting_that_i_1.html,2015,Jan,Sun,AL,-85.6667,32.3721
+2015-01-11,Unknown,1,3,"Lakeland, FL",http://www.abcactionnews.com/news/region-polk/lakeland/deputies-one-person-killed-three-others-shot-during-a-home-invasion-robbery-in-lakeland,2015,Jan,Sun,FL,-81.8997,28.0359
+2015-01-12,Unknown,2,2,"Wichita, KS",http://www.kansas.com/news/local/crime/article6058869.html,2015,Jan,Mon,KS,-97.259,37.652
+2015-01-13,Unknown,0,5,"Portsmouth, VA",http://wtkr.com/2015/01/13/early-morning-shooting-at-portsmouth-lounge-leaves-5-people-injured/,2015,Jan,Tues,VA,-76.2983,36.8354
+2015-01-14,Unknown,2,3,"Rockford, IL",http://www.mystateline.com/fulltext-news/d/story/update-victims-identified-in-deadly-rockford-shoot/42689/GXoLZ3hSL0a6X8s5IeDbCA,2015,Jan,Wed,IL,-89.094,42.2711
+2015-01-19,Unknown,2,5,"San Antonio, TX",http://www.ksat.com/content/pns/ksat/news/2015/01/20/chaotic-brawl--shooting-leaves-two-dead--more-wounded.html,2015,Jan,Mon,TX,-98.5289,29.4684
+2015-01-20,Timothy David Shoffner,1,3,"Clarksville, TN",http://www.wsmv.com/story/27904193/clarksville-police-id-suspect-in-shooting,2015,Jan,Tues,TN,-87.3349,36.5226
+2015-01-23,Unknown,0,6,"Boston, MA",http://www.wcvb.com/news/multiple-people-shot-in-boston/30895680,2015,Jan,Fri,MA,-71.027,42.3706
+2015-01-24,Jonathon Walker,4,1,"Queens, NY",http://www.nbcnewyork.com/news/local/2-Kids-and-1-Adult-Dead-in-Queens-Shooting-3rd-Child-Being-Treated-Brookville-148th-Avenue-289669211.html,2015,Jan,Sat,NY,-78.2104,43.2802
+2015-01-24,Unknown,3,5,"Omaha, NE",http://www.usatoday.com/story/news/nation/2015/01/24/omaha-party-shooting/22297565/,2015,Jan,Sat,NE,-96.1711,41.2917
+2015-01-26,Unknown,1,4,"Stockton, CA",http://www.kcra.com/news/local-news/news-stockton/teenager-dies-3-others-hurt-in-stockton-shooting/30937222,2015,Jan,Mon,CA,-121.291,37.9577
+2015-01-28,Unknown,1,3,"DeKalb, GA",http://www.ajc.com/news/news/one-dead-three-wounded-in-dekalb-shooting/njy7R/,2015,Jan,Wed,GA,-84.2264,33.7715
+2015-01-29,Thomas Jessee Lee,5,0,"Troup County, GA",http://www.wsbtv.com/news/news/local/five-bodies-found-inside-lagrange-home/nj2rK/,2015,Jan,Thurs,GA,-85.0283,33.0335
+2015-02-01,Michael Morris,0,6,"Syracuse, NY",http://www.syracuse.com/news/index.ssf/2015/02/6th_victim_in_mcavans_pub_shooting_took_herself_to_hospital_sunday_police_say.html,2015,Feb,Sun,NY,-76.1977,43.0214
+2015-02-01,Unknown,1,4,"Manhattan, NY",http://7online.com/news/1-dead-4-wounded-after-shooting-in-hamilton-heights/500497/,2015,Feb,Sun,NY,-73.9926,40.7422
+2015-02-04,Unknown,4,0,"King, NC",http://www.journalnow.com/news/crime/four-dead-in-stokes-county-shooting/article_eed92570-aca5-11e4-91e7-0f002c38c9b8.html,2015,Feb,Wed,NC,-80.2922,36.3202
+2015-02-05,Unknown,3,3,"Warrensville Heights, OH",http://www.wkyc.com/story/news/local/cuyahoga-county/2015/02/05/warrensville-heights-barbershop/22956675/,2015,Feb,Thurs,OH,-81.5124,41.4695
+2015-02-06,Unknown,1,3,"Tulsa, OK",http://www.newson6.com/story/28049041/tulsa-police-investigating-reports-of-triple-shooting,2015,Feb,Fri,OK,-95.9928,36.154
+2015-02-07,Cedric G. Prather,5,2,"Douglasville, GA",http://www.csmonitor.com/USA/Latest-News-Wires/2015/0208/Children-among-five-dead-in-Georgia-shooting-video,2015,Feb,Sat,GA,-84.7446,33.6897
+2015-02-08,Unknown,0,6,"Crockett County, TN",http://www.wmcactionnews5.com/story/28054306/six-hit-in-early-morning-crockett-county-shooting,2015,Feb,Sun,TN,-87.3277,35.2358
+2015-02-09,Christopher Lee Duncan and Dora Delgado,3,1,"New Port Richey, FL",http://www.tampabay.com/news/publicsafety/crime/pasco-sheriff-identifies-third-victim-in-moon-lake-shooting/2217118,2015,Feb,Mon,FL,-82.7369,28.2394
+2015-02-15,Unknown,0,5,"Long Beach, CA",http://www.nbclosangeles.com/news/local/Long-Beach-Shooting-Sunday-292042941.html,2015,Feb,Sun,CA,-118.168,33.8034
+2015-02-17,Unknown,1,3,"Little Rock, AR",http://www.arkansasonline.com/news/2015/feb/18/one-killed-three-injured-in-shooting-at/,2015,Feb,Tues,AR,-92.2896,34.7465
+2015-02-22,Anthony Giaquinta,3,2,"Habersham County, GA",http://www.wsbtv.com/news/news/local/2-deputies-shot-habersham-county/nkGwC/,2015,Feb,Sun,GA,-83.5636,34.5886
+2015-02-22,Unknown,0,4,"Charleston, SC",http://www.postandcourier.com/article/20150223/PC16/150229733/1005&source=RSS,2015,Feb,Sun,SC,-79.9408,32.7803
+2015-02-22,Atase Giffa,4,1,"Killeen, TX",http://www.wfaa.com/story/news/nation/2015/02/23/four-dead-killeen-texas-shooting/23873731/,2015,Feb,Sun,TX,-97.3571,31.0858
+2015-02-25,Unknown,3,2,"Houston, TX",http://www.khou.com/story/news/2015/02/26/3-dead-2-injured-in-south-houston-shooting/24040425/,2015,Feb,Wed,TX,-95.3098,29.8131
+2015-02-27,Joseph Jesse Aldridge,8,1,"Tyrone, MO",http://www.nbcnews.com/news/crime-courts/nine-found-dead-including-gunman-after-missouri-shooting-spree-police-n314071,2015,Feb,Fri,MO,-91.9551,37.299
+2015-02-28,Unknown,1,3,"Baltimore, MD",http://baltimore.cbslocal.com/2015/02/28/multiple-injured-in-baltimore-shooting/,2015,Feb,Sat,MD,-76.7195,39.3242
+2015-02-28,Unknown,3,1,"Columbia, MO",http://www.wmur.com/national/three-dead-one-wounded-in-missouri-shootings/31551946,2015,Feb,Sat,MO,-92.2741,38.8942
+2015-02-28,Ian Sherrod,4,0,"Tarboro, NC",http://www.wncn.com/story/28228144/at-least-2-shot-at-tarboro-barber-shop,2015,Feb,Sat,NC,-77.5816,35.9284
+2015-03-01,Unknown,1,5,"Detroit, MI",http://www.toledoblade.com/Nation/2015/03/01/Man-44-killed-5-wounded-when-gunfire-erupts-during-celebration-at-Detroit-social-hall.html,2015,Mar,Sun,MI,-83.0602,42.347
+2015-03-01,Unknown,0,4,"Tangelo Park, FL",http://www.wftv.com/news/news/local/4-injured-tangelo-park-shooting/nkL22/,2015,Mar,Sun,FL,-81.386,28.4621
+2015-03-02,Unknown,1,4,"Santa Ana, CA",http://www.ocregister.com/articles/santa-652761-altercation-shot.html,2015,Mar,Mon,CA,-117.858,33.7482
+2015-03-03,Unknown,3,1,"Las Vegas, NV",http://www.jrn.com/ktnv/news/2-dead-2-hospitalized-after-shooting-near-Fort-Apache-and-Sahara-294993961.html,2015,Mar,Tues,NV,-115.207,36.3011
+2015-03-04,Unknown,2,5,"San Bernadino, CA",http://www.nbclosangeles.com/news/local/People-Shot-Nightclub-San-Bernardino-294974301.html,2015,Mar,Wed,CA,-117.285,34.0637
+2015-03-09,Unknown,1,3,"Chicago, IL",http://abc7chicago.com/news/roseland-shooting-leaves-1-dead-3-injured-/551473/,2015,Mar,Mon,IL,-87.6221,41.8853
+2015-03-10,Unknown,0,5,"Columbus, GA",http://www.ledger-enquirer.com/2015/03/10/3607030_five-wounded-during-tuesday-morning.html?rh=1,2015,Mar,Tues,GA,-84.9782,32.4729
+2015-03-11,Unknown,0,4,"Aurora, IL",http://my.chicagotribune.com/#section/-1/article/p2p-83042213/,2015,Mar,Wed,IL,-88.2596,41.7926
+2015-03-13,Jimmy Lyons,2,3,"Brookhaven, MS",http://www.wapt.com/news/central-mississippi/reports-5-shot-in-brookhaven/31775312,2015,Mar,Fri,MS,-90.4707,31.5632
+2015-03-14,Unknown,0,5,"Atlanta, GA",http://www.wsbtv.com/news/news/local/police-investigating-shooting-left-5-men-injured/nkXFD/,2015,Mar,Sat,GA,-84.4741,33.8444
+2015-03-15,Eric Antonio Cannady and Tommy Ray Jackson Jr.,0,4,"Lillington, NC",http://www.wncn.com/story/28524422/4-injured-in-early-morning-shooting-in-lillington,2015,Mar,Sun,NC,-78.8712,35.3992
+2015-03-15,Christopher Lance Joyner,3,1,"Houston County, AL",http://www.wsfa.com/story/28529911/3-dead-1-injured-in-houston-county-murder-suicide,2015,Mar,Sun,AL,-86.3731,31.2982
+2015-03-16,Unknown,0,4,"Compton, CA",http://losangeles.cbslocal.com/2015/03/15/2-girls-2-men-shot-at-birthday-party-in-compton/,2015,Mar,Mon,CA,-118.24,33.8748
+2015-03-17,Unknown,3,4,"Stockton, CA",http://www.kcra.com/news/police-multiple-people-reportedly-injured-in-stockton-shooting/31860188,2015,Mar,Tues,CA,-121.291,37.9577
+2015-03-18,Unknown,1,3,"Newark, NJ",http://www.northjersey.com/news/police-1-killed-3-wounded-in-afternoon-shooting-in-newark-1.1291344,2015,Mar,Wed,NJ,-74.2251,40.7361
+2015-03-18,Unknown,1,5,"Mesa, AZ",http://www.usatoday.com/story/news/nation/2015/03/18/mesa-arizona-shootings/24965575/,2015,Mar,Wed,AZ,-111.823,33.4223
+2015-03-19,Justin Fowler,2,2,"Navajo Nation, AZ",http://www.kob.com/article/stories/s3740954.shtml,2015,Mar,Thurs,AZ,-109.288,35.1822
+2015-03-20,Unknown,0,4,"Joliet, IL",http://chicago.suntimes.com/crime/7/71/463526/four-shot-joliet,2015,Mar,Fri,IL,-88.1802,41.5097
+2015-03-20,Unknown,0,4,"Oklahoma City, OK",http://newsok.com/police-investigate-quadruple-shooting-in-northeast-oklahoma-city/article/5403359,2015,Mar,Fri,OK,-97.5628,35.4916
+2015-03-20,Unknown,0,4,"Columbus, MS",http://www.cdispatch.com/news/article.asp?aid=40862,2015,Mar,Fri,MS,-88.5047,33.3939
+2015-03-20,Unknown,1,5,"Lancaster, TX",http://crimeblog.dallasnews.com/2015/03/five-wounded-one-killed-in-lancaster-shooting.html/,2015,Mar,Fri,TX,-96.245,32.3667
+2015-03-21,Unknown,0,4,"Ybor City, FL",http://tbo.com/news/crime/four-shot-outside-carmines-restaurant-in-ybor-city-20150321/,2015,Mar,Sat,FL,-82.4351,27.965
+2015-03-21,Unknown,0,5,"Lehigh Acres, FL",http://www.winknews.com/2015/03/22/five-injured-at-lehigh-acres-party/,2015,Mar,Sat,FL,-81.6248,26.6254
+2015-03-22,Unknown,1,6,"Albuquerque, NM",http://www.abqjournal.com/558868/abqnewsseeker/albuquerque-police-1-dead-others-hurt-in-park-shooting.html,2015,Mar,Sun,NM,-106.651,35.0845
+2015-03-23,Unknown,1,4,"Clarksville, TN",http://www.theleafchronicle.com/story/news/crime/2015/03/24/dead-injured-drive-shooting/70366434/,2015,Mar,Mon,TN,-87.3349,36.5226
+2015-03-24,Unknown,4,0,"Indianapolis, IN",http://www.usatoday.com/story/news/nation/2015/03/24/4-dead-indianapolis-home/70374450/,2015,Mar,Tues,IN,-86.1322,39.7751
+2015-03-26,Unknown,0,4,"Amarillo, TX",http://amarillo.com/news/latest-news/2015-03-26/police-investigate-near-hamlet-elementary,2015,Mar,Thurs,TX,-101.831,35.222
+2015-03-28,David Jamichael Daniels,0,7,"Panama City Beach, FL",http://www.oregonlive.com/today/index.ssf/2015/03/spring_break_shooting_in_flori.html,2015,Mar,Sat,FL,-85.8136,30.2007
+2015-03-29,Unknown,0,4,"Stockton, CA",http://www.news10.net/story/news/local/stockton/2015/03/29/four-people-shooting-deja-vu-night-club/70644684/,2015,Mar,Sun,CA,-121.291,37.9577
+2015-03-30,Sudheer Khamitkar,4,0,"Tulsa, OK",http://www.tulsaworld.com/news/crimewatch/four-people-found-dead-in-east-tulsa-home-police-say/article_9c246e78-57b2-5d84-8257-5a5d23e37a14.html,2015,Mar,Mon,OK,-95.9928,36.154
+2015-04-02,Unknown,0,5,"Baltimore, MD",http://www.wbaltv.com/news/multiple-people-shot-in-west-baltimore/32156116,2015,Apr,Thurs,MD,-76.7195,39.3242
+2015-04-03,Vincent Tyrone Smith,0,4,"Daytona Beach, FL",http://www.wesh.com/news/4-people-shot-near-bethunecookman-university-deputies-say/32169944,2015,Apr,Fri,FL,-81.0477,29.194
+2015-04-05,Unknown,0,5,"Indianapolis, IN",http://www.bigstory.ap.org/article/c5d24cbeed8d40afb2322c66e6b9153c/police-2-women-3-children-shot-indianapolis-townhome,2015,Apr,Sun,IN,-86.1322,39.7751
+2015-04-05,Unknown,1,4,"Louisville, KY",http://www.wave3.com/story/28724814/5-people-shot-in-early-hours-of-easter-sunday,2015,Apr,Sun,KY,-85.6768,38.189
+2015-04-07,Unknown,1,3,"North Rome, GA",http://wrgarome.com/common/page.php?feed=1&id=45571&is_corp=1,2015,Apr,Tues,GA,-85.1558,34.2754
+2015-04-16,Unknown,1,4,"Los Angeles, CA",http://www.dailynews.com/general-news/20150416/1-killed-4-wounded-in-shootings-in-palms-male-suspect-sought,2015,Apr,Thurs,CA,-118.248,33.974
+2015-04-16,Unknown,5,0,"Phoenix, AZ",http://www.washingtonpost.com/news/morning-mix/wp/2015/04/17/five-dead-in-family-dispute-after-hours-long-standoff-at-phoenix-home/,2015,Apr,Thurs,AZ,-112.074,33.4484
+2015-04-18,Unknown,0,5,"Williamsport, PA",http://www.pennlive.com/midstate/index.ssf/2015/04/five_wounded_in_shooting_outsi.html#incart_river,2015,Apr,Sat,PA,-76.8573,41.345
+2015-04-18,Unknown,1,3,"Paterson, NJ",http://www.nbcnewyork.com/news/local/Boy-15-Dies-in-NJ-Shooting-Paterson-300593881.html,2015,Apr,Sat,NJ,-74.171,40.912
+2015-04-18,Unknown,0,4,"Charlotte, NC",http://www.wsoctv.com/news/news/local/medic-1-person-taken-hospital-after-west-charlotte/nkxff/,2015,Apr,Sat,NC,-80.8042,35.26
+2015-04-18,Unknown,1,3,"Lumberton, NC",http://www.wave3.com/story/28837482/police-shooting-in-lumberton-leaves-one-dead-6-year-old-child-among-3-injured,2015,Apr,Sat,NC,-78.9345,34.6081
+2015-04-18,Unknown,0,5,"Montgomery, AL",http://www.wsfa.com/story/28841135/5-injured-in-west-montgomery-shooting,2015,Apr,Sat,AL,-86.2578,32.357
+2015-04-19,Unknown,0,4,"Richmond, VA",http://www.richmond.com/news/local/city-of-richmond/article_d6647e6f-dd0f-5edf-b43b-4c981e8eb9aa.html,2015,Apr,Sun,VA,-77.4603,37.5538
+2015-04-21,Unknown,2,3,"Killeen, TX",http://www.kwtx.com/home/headlines/Police-Investigate-Early-Morning-Shooting-300759331.html,2015,Apr,Tues,TX,-97.3571,31.0858
+2015-04-25,David Alligood,1,6,"Gates, NY",http://www.democratandchronicle.com/story/news/2015/04/25/killed-hurt-gates-pub-shooting/26355003/,2015,Apr,Sat,NY,-78.4637,42.2858
+2015-04-25,Unknown,0,4,"Trenton, NJ",http://www.nj.com/mercer/index.ssf/2015/04/4_shot_in_trenton_early_saturday_night_police_say.html,2015,Apr,Sat,NJ,-74.712,40.2805
+2015-04-27,Unknown,2,4,"Brooklyn, NY",http://www.nytimes.com/2015/04/28/nyregion/5-shot-2-fatally-outside-funeral-at-brooklyn-church.html?smid=re-share&_r=0,2015,Apr,Mon,NY,-73.9893,40.6945
+2015-04-27,Unknown,2,2,"Gila Bend, AZ",http://azdailysun.com/news/state-and-regional/mcso-people-dead-wounded-in-shooting-east-of-gila-bend/article_858544a6-fbd7-592c-8c5a-141c79e7836a.html,2015,Apr,Mon,AZ,-112.717,32.9478
+2015-05-01,Unknown,2,3,"Milwaukee, WI",http://fox6now.com/2015/05/01/developing-two-killed-in-early-morning-shooting-near-37th-and-nash/,2015,May,Fri,WI,-87.9584,43.0113
+2015-05-03,Unknown,4,1,"Menasha, WI",http://news.yahoo.com/four-killed-shooting-wisconsin-foot-bridge-including-suspect-041118959.html,2015,May,Sun,WI,-88.3295,44.201
+2015-05-03,Christopher Lee Accettura,0,4,"South Bend, IN",http://www.wsbt.com/news/local/update-arrest-made-in-south-bend-shooting-that-injured-4/32785308,2015,May,Sun,IN,-86.2517,41.6734
+2015-05-03,Unknown,1,6,"Dayton, OH",http://www.wlwt.com/news/police-8-shot-at-dayton-business/32778884,2015,May,Sun,OH,-84.0762,39.7642
+2015-05-03,Unknown,0,6,"Houston, TX",http://www.kwtx.com/home/headlines/Six-Injured-In-Shooting-Outside-Of-Texas-Nightclub-302352761.html,2015,May,Sun,TX,-95.3098,29.8131
+2015-05-04,Unknown,1,3,"Buffalo, NY",http://wivb.com/2015/05/04/police-respond-to-triple-shooting-in-buffalo/,2015,May,Mon,NY,-78.8864,42.8961
+2015-05-04,Unknown,0,4,"Bronx, NY",http://nypost.com/2015/05/04/daily-blotter-512/,2015,May,Mon,NY,-73.8708,40.845
+2015-05-07,Unknown,0,4,"Cincinnati, OH",http://www.wlwt.com/news/cpd-investigating-quadruple-shooting-on-baltimore-avenue/32867572,2015,May,Thurs,OH,-84.5382,39.1668
+2015-05-10,Unknown,1,4,"Cleveland, OH",http://www.huffingtonpost.com/2015/05/11/cleveland-shooting_n_7254086.html,2015,May,Sun,OH,-81.6675,41.4894
+2015-05-10,Unknown,1,3,"Newark, NJ",http://www.nbcnewyork.com/news/local/NJ-Newark-Knights-Biker-Club-Shooting-Dead-303236741.html,2015,May,Sun,NJ,-74.2251,40.7361
+2015-05-10,Unknown,0,4,"Jersey City, NJ",http://www.nj.com/hudson/index.ssf/2015/05/4_women_shot_on_jersey_city_street_5_charged_with.html#incart_river,2015,May,Sun,NJ,-74.0755,40.7328
+2015-05-12,Unknown,1,4,"Capitol Heights, MD",http://wtop.com/prince-georges-county/2015/05/one-killed-4-injured-in-capitol-heights-shooting/,2015,May,Tues,MD,-76.8777,38.8336
+2015-05-12,Christopher Carrillo,5,0,"Tucson, AZ",http://www.huffingtonpost.com/2015/05/13/tucson-shooting_n_7272000.html,2015,May,Tues,AZ,-110.971,32.218
+2015-05-13,Unknown,4,0,"Anchorage, AK",http://www.adn.com/article/20150514/domestic-violence-blame-4-deaths-south-anchorage-police-say,2015,May,Wed,AK,-149.856,61.22
+2015-05-16,Unknown,0,4,"Rochester, NY",http://www.democratandchronicle.com/story/news/2015/05/16/four-men-shot-near-lewis-street/27434111/,2015,May,Sat,NY,-77.6843,43.286
+2015-05-16,Unknown,0,5,"Milwaukee, WI",http://fox6now.com/2015/05/16/breaking-police-investigate-triple-shooting-on-milwaukees-north-side/,2015,May,Sat,WI,-87.9584,43.0113
+2015-05-16,Unknown,0,5,"Baltimore, MD",http://www.wbaltv.com/news/2-men-2-women-shot-in-baltimore-police-say/33062884,2015,May,Sat,MD,-76.7195,39.3242
+2015-05-17,Unknown,9,18,"Waco, TX",http://www.cnn.com/2015/05/17/us/texas-shooting/index.html,2015,May,Sun,TX,-97.1382,31.552
+2015-05-18,Unknown,0,4,"Kinloch, MO",http://www.kmov.com/story/29099207/two-hospitalized-after-late-night-shooting-in-kinloch,2015,May,Mon,MO,-90.3254,38.7406
+2015-05-18,Unknown,1,4,"Miami, FL",http://www.miamiherald.com/news/local/community/miami-dade/article21349797.html,2015,May,Mon,FL,-80.2393,25.812
+2015-05-19,Unknown,1,3,"Arlington, VA",http://www.wjla.com/articles/2015/05/4-injured-in-shooting-in-arlington-114076.html,2015,May,Tues,VA,-77.0991,38.8855
+2015-05-20,Unknown,1,4,"Baltimore, MD",http://www.wbaltv.com/news/police-several-people-shot-in-east-baltimore/33129870,2015,May,Wed,MD,-76.7195,39.3242
+2015-05-23,Unknown,2,2,"Fresno, CA",http://www.fresnobee.com/news/local/crime/article21934929.html,2015,May,Sat,CA,-119.735,36.8626
+2015-05-24,Unknown,0,7,"Flint, MI",http://www.abc12.com/home/headlines/Multiple-people-shot-during-violent-holiday-weekend-304862191.html,2015,May,Sun,MI,-83.7808,42.9659
+2015-05-24,Unknown,0,5,"Brockton, MA",http://www.wcvb.com/news/gunfire-erupts-at-brockton-bar-multiple-injuries-reported/33195690?absolute=true,2015,May,Sun,MA,-71.0102,42.5455
+2015-05-24,Unknown,0,4,"St. Louis, MO",http://www.stltoday.com/news/local/crime-and-courts/police-critically-wounded-in-st-louis-shooting/article_08aeee05-13db-53a9-95c4-11d3820a0b80.html,2015,May,Sun,MO,-90.4434,38.6407
+2015-05-24,Unknown,1,3,"Montgomery, AL",http://www.wsfa.com/story/29146971/4-shot-1-dead-in-weekend-shooting-at-montgomerys-smiley-court,2015,May,Sun,AL,-86.2578,32.357
+2015-05-25,Unknown,1,4,"Decatur, IL",http://herald-review.com/news/local/crime-and-courts/decatur-man-killed-four-wounded-in-shooting-at-club-maxey/article_2c850ef3-21f1-5830-80df-3d430638b068.html,2015,May,Mon,IL,-88.9465,39.8395
+2015-05-26,Unknown,2,2,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2015/05/2_killed_2_injured_shooting.html,2015,May,Tues,LA,-89.931,30.0688
+2015-05-28,Unknown,0,5,"Chicago, Il",http://www.dnainfo.com/chicago/20150529/west-englewood/toddler-among-five-wounded-west-englewood-shooting-police-say,2015,May,Thurs,IL,-87.6221,41.8853
+2015-05-28,Unknown,0,4,"Omaha, NE",http://www.wowt.com/home/headlines/Four-Wounded-In-Shooting-305416711.html,2015,May,Thurs,NE,-96.1711,41.2917
+2015-05-28,Unknown,1,3,"Chester, PA",http://6abc.com/news/1-dead-3-wounded-in-chester-shooting/751826/,2015,May,Thurs,PA,-75.3781,39.8482
+2015-05-29,Unknown,1,3,"Miami, FL",http://www.cbs8.com/story/29196990/4-shot-at-bar-swat-standoff-underway,2015,May,Fri,FL,-80.2393,25.812
+2015-05-30,Unknown,1,3,"North Amityville, NY",http://newyork.cbslocal.com/2015/05/30/north-amityville-fight/,2015,May,Sat,NY,-73.4251,40.6976
+2015-05-30,Unknown,0,4,"San Diego, CA",http://www.cbs8.com/story/29196990/4-shot-at-bar-swat-standoff-underway,2015,May,Sat,CA,-117.171,32.7241
+2015-05-31,Unknown,3,1,"Cleveland, OH",http://www.wkyc.com/story/news/local/cleveland/2015/05/31/lavern-ave-shooting/28285919/,2015,May,Sun,OH,-81.6675,41.4894
+2015-05-31,Unknown,0,5,"New Haven, CT",http://www.nbcconnecticut.com/news/local/Five-People-Shot-at-New-Haven-Party-305604931.html,2015,May,Sun,CT,-72.9275,41.3657
+2015-05-31,Unknown,1,3,"Springdale, MD",http://www.nbcwashington.com/news/local/One-Dead-Three-Injured-in-Shooting-at-Prince-George-Co-Park-305617831.html,2015,May,Sun,MD,-76.8389,38.9376
+2015-05-31,Unknown,1,3,"Conyers, GA",http://www.rockdalecitizen.com/news/2015/may/31/one-dead-three-wounded-in-shooting-rampage-in/,2015,May,Sun,GA,-84.0021,33.7192
+2015-06-03,Unknown,3,1,"Wyandanch, NY",http://www.nbcnewyork.com/news/local/3-Dead-Wyandanch-Long-Island-Shooting-Police-306096381.html,2015,Jun,Wed,NY,-73.3773,40.7465
+2015-06-05,Unknown,0,5,"Davenport, IA",http://qctimes.com/news/local/injured-in-shooting-in-davenport/article_a7b33225-4ada-50d6-805e-474aa473c9ff.html,2015,Jun,Fri,IA,-90.5748,41.521
+2015-06-05,Unknown,1,3,"New Orleans, LA",http://www.wdsu.com/news/local-news/new-orleans/nopd-responding-to-multiple-people-shot-near-trem-seventh-ward/33423652?absolute=true,2015,Jun,Fri,LA,-89.931,30.0688
+2015-06-06,Unknown,1,4,"Buffalo, NY",http://wivb.com/2015/06/06/buffalo-police-investigate-triple-shooting/,2015,Jun,Sat,NY,-78.8864,42.8961
+2015-06-06,Unknown,0,5,"Chicago, IL",http://abc7chicago.com/news/5-injured-in-south-austin-shooting/769688/,2015,Jun,Sat,IL,-87.6221,41.8853
+2015-06-07,Michael Augustine Bournes,5,0,"Deer Lodge, MT",http://www.krtv.com/story/29277717/victims-identified-in-murders-suicide-near-deer-lodge,2015,Jun,Sun,MT,-112.642,46.4019
+2015-06-09,Unknown,1,3,"St. Louis, MO",http://www.stltoday.com/news/local/crime-and-courts/woman-dead-wounded-by-gunfire-in-north-st-louis-park/article_e5e1e823-c09f-579f-8d3d-5d81401b269b.html,2015,Jun,Tues,MO,-90.4434,38.6407
+2015-06-10,Unknown,1,3,"Cincinnati, OH",http://www.wlwt.com/news/police-investigating-after-3-people-shot-in-evanston/33507594,2015,Jun,Wed,OH,-84.5382,39.1668
+2015-06-10,Unknown,1,3,"Los Angeles, CA",http://abc7.com/news/1-dead-3-wounded-in-south-la-shooting/776768/,2015,Jun,Wed,CA,-118.248,33.974
+2015-06-11,Unknown,1,8,"Bridgeport, CT",http://news.yahoo.com/nine-wounded-one-dead-shooting-connecticut-apartment-media-094718511.html,2015,Jun,Thurs,CT,-73.3637,41.3089
+2015-06-11,Unknown,1,3,"Houston, TX",http://abc13.com/news/one-dead-several-injured-after-third-ward-shooting/777883/,2015,Jun,Thurs,TX,-95.3098,29.8131
+2015-06-12,Unknown,0,4,"Miami, FL",http://miami.cbslocal.com/2015/06/12/several-people-injured-in-shooting-outside-miami-club/,2015,Jun,Fri,FL,-80.2393,25.812
+2015-06-13,Unknown,0,5,"Bronx, NY",http://www.nbcnewyork.com/news/local/Suspect-Sought-5-Shot-Bronx-NYPD-307540851.html,2015,Jun,Sat,NY,-73.8708,40.845
+2015-06-13,Unknown,4,1,"Columbus, OH",http://abcnews.go.com/US/wireStory/police-dead-injured-shooting-ohio-home-31741950,2015,Jun,Sat,OH,-83.0134,40.1009
+2015-06-13,Unknown,0,4,"St. Louis, MO",http://www.kmov.com/story/29315038/saturday-night-party-ends-in-quadruple-shooting,2015,Jun,Sat,MO,-90.4434,38.6407
+2015-06-13,Unknown,0,4,"Tulsa, OK",http://www.tulsaworld.com/news/crimewatch/four-hospitalized-in-overnight-shooting-at-north-tulsa-party/article_cdb02e7a-c686-58c0-971a-3638aff44fd7.html,2015,Jun,Sat,OK,-95.9928,36.154
+2015-06-13,Patrick Solis & Donald Walters,0,4,"Oklahoma City, OK",http://www.okcfox.com/story/29315672/four-injured-in-drive-by-shooting-2-arrested,2015,Jun,Sat,OK,-97.5628,35.4916
+2015-06-13,Unknown,1,4,"Fayette County, GA",http://www.11alive.com/story/news/crime/2015/06/14/fayette-fatal-pool-party-shooting/71207432/,2015,Jun,Sat,GA,-84.4942,33.4139
+2015-06-14,Unknown,1,3,"Camden, NJ",http://www.courierpostonline.com/story/news/crime/2015/06/14/camden-shooting-leaves-injured/71207522/,2015,Jun,Sun,NJ,-74.9383,39.8024
+2015-06-14,Unknown,1,3,"Milledgeville, GA",http://www.macon.com/2015/06/14/3796263/one-killed-three-wounded-in-shooting.html,2015,Jun,Sun,GA,-83.239,33.0723
+2015-06-15,Unknown,0,4,"Brooklyn, NY",http://www.nydailynews.com/new-york/nyc-crime/4-shot-1-slashed-brooklyn-bar-sources-article-1.2258318,2015,Jun,Mon,NY,-73.9893,40.6945
+2015-06-16,Ivan Clark,0,4,"Miami Gardens, FL",http://www.nbcmiami.com/news/local/Four-People-Shot-in-Miami-Gardens-Police-307722511.html,2015,Jun,Tues,FL,-80.2456,25.942
+2015-06-17,Dylan Roof,9,0,"Charleston, SC",http://www.usatoday.com/story/news/nation/2015/06/17/charleston-south-carolina-shooting/28902017/,2015,Jun,Wed,SC,-79.9408,32.7803
+2015-06-19,Zackary Alvarado,0,4,"Woonsocket, RI",http://m.providencejournal.com/article/20150619/NEWS/150619206/14110,2015,Jun,Fri,RI,-71.5148,42.0029
+2015-06-20,Unknown,1,11,"Detroit, MI",http://www.cnn.com/2015/06/21/us/detroit-birthday-party-shooting/,2015,Jun,Sat,MI,-83.0602,42.347
+2015-06-20,Unknown,0,10,"Philadelphia, PA",http://www.cnn.com/2015/06/21/us/philadelphia-block-party-shooting/,2015,Jun,Sat,PA,-75.1638,39.9523
+2015-06-21,Russell Smith,4,0,"Roy, UT",http://www.wkyt.com/home/headlines/Several-people-injured-in-shooting-at-Douglass-Park-in-Lexington.html,2015,Jun,Sun,UT,-112.053,41.1787
+2015-06-21,Unknown,0,5,"Lexington, KY",http://www.wkyt.com/home/headlines/Several-people-injured-in-shooting-at-Douglass-Park-in-Lexington.html,2015,Jun,Sun,KY,-84.4777,37.9887
+2015-06-22,Unknown,0,7,"Philadelphia, PA",http://www.philly.com/philly/news/breaking/20150623_Seven_people_shot_in_Kensington.html,2015,Jun,Mon,PA,-75.1638,39.9523
+2015-06-23,Unknown,1,3,"Chicago, IL",http://abc7chicago.com/news/1-dead-3-injured-in-bronzeville-shooting/802755/,2015,Jun,Tues,IL,-87.6221,41.8853
+2015-06-23,Unknown,3,1,"Breaux Bridge, LA",http://www.katc.com/story/29392606/3-dead-1-injured-in-breaux-bridge-shooting,2015,Jun,Tues,LA,-90.6061,29.5506
+2015-06-24,Unknown,0,4,"Manhattan, NY",http://www.nytimes.com/2015/06/25/nyregion/four-wounded-in-upper-manhattan-shooting.html?_r=0,2015,Jun,Wed,NY,-73.9926,40.7422
+2015-06-25,Unknown,0,4,"New Orleans, LA",http://www.theneworleansadvocate.com/news/12756595-171/violent-night-in-new-orleans,2015,Jun,Thurs,LA,-89.931,30.0688
+2015-06-26,Unknown,0,4,"Detroit, MI",http://detroit.cbslocal.com/2015/06/27/4-men-shot-at-block-party-in-detroit/,2015,Jun,Fri,MI,-83.0602,42.347
+2015-06-27,Unknown,1,3,"Taunton, MA",http://www.turnto10.com/story/29424942/one-dead-three-others-injured-in-taunton-shooting,2015,Jun,Sat,MA,-71.1183,41.9091
+2015-06-27,Roosevelt Holmes,1,3,"Hartford, CT",http://connecticut.cbslocal.com/2015/06/28/shooting-at-hartford-basketball-tournament-leaves-4-hurt/,2015,Jun,Sat,CT,-72.6771,41.7801
+2015-06-27,Unknown,4,0,"Greenacres, FL",http://www.palmbeachpost.com/news/news/crime-law/greenacres-police-probe-report-of-shooting/nmm6y/,2015,Jun,Sat,FL,-80.1376,26.6277
+2015-06-28,Unknown,0,5,"Detroit, MI",http://www.freep.com/story/news/local/michigan/detroit/2015/06/29/block-party-shooting/29451529/,2015,Jun,Sun,MI,-83.0602,42.347
+2015-06-28,Unknown,0,6,"Harrington, DE",http://www.doverpost.com/article/20150628/NEWS/150629891,2015,Jun,Sun,DE,-75.6113,38.9122
+2015-06-28,Unknown,0,6,"Venice, IL",http://thetelegraph.com/news/3391/autopsy-man-killed-in-granite-city-crash-had-been-shot,2015,Jun,Sun,IL,-90.1689,38.6703
+2015-06-29,Unknown,0,4,"Opa-locka, FL",http://www.wsvn.com/story/29437311/4-shot-in-opa-locka-neighborhood,2015,Jun,Mon,FL,-80.2503,25.9023
+2015-07-01,Unknown,1,4,"Newark, NJ",http://www.nj.com/essex/index.ssf/2015/07/five_people_wounded_in_multiple_newark_shooting.html,2015,Jul,Wed,NJ,-74.2251,40.7361
+2015-07-01,Unknown,1,3,"Indianapolis, IN",http://www.indystar.com/story/news/crime/2015/07/03/one-killed-three-injured-drive-shooting/29659359/,2015,Jul,Wed,IN,-86.1322,39.7751
+2015-07-03,Unknown,2,2,"Philadelphia, PA",http://www.myfoxphilly.com/story/29468719/2-dead-2-wounded-in-nicetown-shooting,2015,Jul,Fri,PA,-75.1638,39.9523
+2015-07-04,Unknown,0,4,"Syracuse, NY",http://www.syracuse.com/crime/index.ssf/2015/07/4_people_shot_as_suspect_opens_fire_on_syracuse_crowd_watching_july_4th_firework.html#incart_story_package,2015,Jul,Sat,NY,-76.1977,43.0214
+2015-07-04,Unknown,1,4,"Pittsfield, MA",http://www.masslive.com/news/index.ssf/2015/07/pittsfield_shooting_leaves_1_d.html,2015,Jul,Sat,MA,-73.2481,42.4795
+2015-07-04,Unknown,1,3,"Washington, D.C.",http://www.wusa9.com/story/news/local/dc/2015/07/05/4-shot-1-killed-in-se-dc-shooting/29731213/,2015,Jul,Sat,D.C.,-77.0364,38.8951
+2015-07-04,Unknown,0,4,"San Antonio, TX",http://www.mysanantonio.com/news/local/article/Police-Fight-over-women-led-to-North-Side-6366733.php,2015,Jul,Sat,TX,-98.5289,29.4684
+2015-07-05,Unknown,0,9,"Fort Wayne, IN",http://wane.com/2015/07/05/nine-people-hurt-in-early-morning-shooting/,2015,Jul,Sun,IN,-85.1289,41.1306
+2015-07-05,Unknown,1,3,"East Orange, NJ",http://newyork.cbslocal.com/2015/07/06/east-orange-shooting/,2015,Jul,Sun,NJ,-74.207,40.7719
+2015-07-05,Unknown,4,0,"Rock Hill, SC",http://www.charlotteobserver.com/news/local/crime/article26552740.html,2015,Jul,Sun,SC,-81.0251,34.9249
+2015-07-05,Unknown,0,8,"Shreveport, LA",http://www.ksla.com/story/29477516/8-injured-in-overnight-shooting-in-w-shreveport,2015,Jul,Sun,LA,-93.7502,32.5252
+2015-07-07,Unknown,3,1,"Baltimore, MD",http://www.wbal.com/article/116967/40/4-shot-3-dead-just-blocks-from-umb-campus,2015,Jul,Tues,MD,-76.7195,39.3242
+2015-07-12,Unknown,2,3,"River Forest, IL",http://chicago.cbslocal.com/2015/07/12/cop-wounded-in-river-forest-shootout-neighbor-says/,2015,Jul,Sun,IL,-87.814,41.8978
+2015-07-12,Unknown,0,4,"Jersey City, NJ",http://www.nj.com/hudson/index.ssf/2015/07/four_people_injured_in_jersey_city_shooting_police.html#incart_river,2015,Jul,Sun,NJ,-74.0755,40.7328
+2015-07-12,Marquiles Whaley,3,1,"Baton Rouge, LA",http://theadvocate.com/news/12895241-171/three-dead-one-wounded-in,2015,Jul,Sun,LA,-91.1856,30.4492
+2015-07-13,Unknown,1,4,"Stockton, CA",http://sacramento.cbslocal.com/2015/07/13/1-dead-4-injured-in-stockton-shooting-2/,2015,Jul,Mon,CA,-121.291,37.9577
+2015-07-14,Unknown,0,4,"St. Louis, MO",http://www.stltoday.com/news/local/crime-and-courts/four-shot-one-critically-injured-in-shooting-near-halls-ferry/article_efb36b2b-1654-5f7f-b86f-d88cf9cfdbcf.html,2015,Jul,Tues,MO,-90.4434,38.6407
+2015-07-15,Unknown,0,4,"Detroit, MI",http://www.clickondetroit.com/news/4-people-shot-in-driveby-shooting-on-detroits-west-side/34189762,2015,Jul,Wed,MI,-83.0602,42.347
+2015-07-15,Unknown,0,7,"Cleaveland, OH",http://fox8.com/2015/07/16/at-least-7-injured-in-overnight-drive-by-shooting-on-clevelands-east-side/,2015,Jul,Wed,OH,-81.5962,41.5479
+2015-07-15,Unknown,1,3,"Baltimore, MD",http://www.baltimoresun.com/news/maryland/crime/blog/bs-md-ci-shootings-20150715-story.html,2015,Jul,Wed,MD,-76.7195,39.3242
+2015-07-15,Unknown,0,5,"Atlanta, GA",http://www.wsbtv.com/news/news/local/double-shooting-investigated-nw-atlanta/nmzQt/,2015,Jul,Wed,GA,-84.4741,33.8444
+2015-07-15,Unknown,4,1,"Holly Hill, SC",http://abcnews.go.com/US/wireStory/sheriffs-office-people-killed-home-south-carolina-32464912,2015,Jul,Wed,SC,-80.4389,33.3495
+2015-07-16,Muhammad Youssef Abdulazeez,5,3,"Chattanooga, TN",http://www.cbsnews.com/news/report-police-officer-shot-near-tennessee-army-recruiting-center/,2015,Jul,Thurs,TN,-85.2064,35.0178
+2015-07-16,Unknown,0,4,"Dallas, TX",http://www.wfaa.com/story/news/crime/2015/07/17/three-shot-in-grocery-store-ambush/30285841/,2015,Jul,Thurs,TX,-96.7903,32.7812
+2015-07-17,Unknown,0,5,"Chicago, IL",http://www.nbcchicago.com/news/local/chicago-violence-five-shot-west-garfield-park-friday-316363111.html,2015,Jul,Fri,IL,-87.6221,41.8853
+2015-07-17,Clement Dwight Cooper and Michael Antonio Long,1,5,"Columbus, OH",http://nbc4i.com/2015/07/17/1-dead-4-injured-in-west-columbus-shooting/,2015,Jul,Fri,OH,-83.0134,40.1009
+2015-07-17,Unknown,0,4,"Cincinnati, OH",http://www.cincinnati.com/story/news/2015/07/17/sunshine-avenue-shooting/30327115/,2015,Jul,Fri,OH,-84.5382,39.1668
+2015-07-17,Unknown,1,3,"Washington, DC",http://www.nbcwashington.com/news/local/Three-People-Shot-in-Northeast-DC--316481771.html,2015,Jul,Fri,DC,-77.0364,38.8951
+2015-07-18,Unknown,1,3,"Salem, OR",http://www.kval.com/news/local/1-dead-3-injured-in-Salem-strip-club-shooting-316933861.html,2015,Jul,Sat,OR,-123.004,44.9488
+2015-07-18,Unknown,2,2,"Baton Rouge, LA",http://www.wafb.com/story/29580203/two-dead-two-hospitalized-in-brice-street-shooting,2015,Jul,Sat,LA,-91.1856,30.4492
+2015-07-19,Unknown,0,6,"Louisville, KY",http://www.14news.com/story/29581038/7-people-shot-inside-louisville-nightclub-suspect-at-large,2015,Jul,Sun,KY,-85.6768,38.189
+2015-07-19,Unknown,0,4,"Suffolk, VA",http://wtkr.com/2015/07/19/four-people-shot-in-suffolk/,2015,Jul,Sun,VA,-76.5531,36.8749
+2015-07-20,Unknown,0,5,"Bronx, NY",http://www.nydailynews.com/new-york/nyc-crime/5-youths-wounded-gunfire-erupts-barbecue-bronx-park-article-1.2297516,2015,Jul,Mon,NY,-73.8708,40.845
+2015-07-21,Unknown,1,3,"Miami Gardens, FL",http://www.wsvn.com/story/29597409/shooting-outside-miami-gardens-night-club-leaves-1-dead,2015,Jul,Tues,FL,-80.2456,25.942
+2015-07-22,Unknown,4,1,"Forsyth County, GA",http://www.ajc.com/news/news/crime-law/three-people-dead-two-wounded-in-forsyth-county-sh/nm4jg/,2015,Jul,Wed,GA,-83.9464,33.0285
+2015-07-23,John Russell Houser,3,9,"Lafayette, LA",http://www.latimes.com/nation/la-na-louisiana-movie-theater-shooting-20150724-story.html,2015,Jul,Thurs,LA,-91.991,30.2417
+2015-07-25,Unknown,2,4,"Erie, PA",http://www.erietvnews.com/story/29640437/4th-gun-recovered-in-investigation-into-deadly-shootout,2015,Jul,Sat,PA,-80.0889,42.1213
+2015-07-25,William Timothy Faust,0,4,"Hopewell, VA",http://www.nbc12.com/story/29682598/police-make-arrest-in-shotgun-shooting-that-injured-4-in-hopewell,2015,Jul,Sat,VA,-77.2966,37.2867
+2015-07-26,Unknown,0,5,"Indianapolis, IN",http://www.wthr.com/story/29633647/multiple-people-wounded-in-near-downtown-shooting-incident-with-police-officers,2015,Jul,Sun,IN,-86.1322,39.7751
+2015-07-26,Unknown,2,3,"Kansas City, MO",http://www.reuters.com/article/2015/07/26/us-usa-crime-missouri-idUSKCN0Q00QF20150726,2015,Jul,Sun,MO,-94.5986,39.1024
+2015-07-26,Unknown,0,4,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2015/07/4_shot_in_assault_rifle_attack.html,2015,Jul,Sun,LA,-89.931,30.0688
+2015-07-27,Unknown,0,5,"Rockford, IL",http://www.wifr.com/home/headlines/Five-People-Shot-at-House-Party-318631191.html,2015,Jul,Mon,IL,-89.094,42.2711
+2015-07-28,Harley Wilder,2,2,"West Frankfort, IL",http://www.wpsdlocal6.com/story/29660069/two-killed-two-injured-in-west-frankfort-shooting,2015,Jul,Tues,IL,-88.9315,37.8978
+2015-07-30,Unknown,0,4,"Pittsburgh, PA",http://www.wtae.com/news/12yearold-shot-in-homewood-north/34453952,2015,Jul,Thurs,PA,-79.951,40.4744
+2015-08-01,Unknown,0,4,"Orlando, FL",http://www.orlandosentinel.com/news/breaking-news/os-victor-hernandez-shot-eye-orlando-20150803-story.html,2015,Aug,Sat,FL,-81.3733,28.5452
+2015-08-02,Unknown,1,4,"Chicago, IL",http://abc7chicago.com/news/1-dead-4-injured-in-north-austin-shooting/898451/,2015,Aug,Sun,IL,-87.6221,41.8853
+2015-08-02,Unknown,0,9,"Brooklyn, NY",http://www.nytimes.com/2015/08/03/nyregion/9-injured-in-shooting-in-east-brooklyn.html?_r=0,2015,Aug,Sun,NY,-73.9893,40.6945
+2015-08-02,Unknown,0,7,"Baltimore, MD",http://www.baltimoresun.com/news/maryland/crime/blog/bal-7-shot-in-single-incident-in-w-baltimore-neighborhood-20150802-story.html,2015,Aug,Sun,MD,-76.7195,39.3242
+2015-08-02,Unknown,0,5,"Savannah, GA",http://m.wtoc.com/wtoc/db_350145/contentdetail.htm?full=true&contentguid=lTj70D7u&pn=&ps=#display,2015,Aug,Sun,GA,-81.0883,32.0747
+2015-08-03,Unknown,0,5,"Brooklyn, NY",http://nypost.com/2015/08/04/five-wounded-in-brooklyn-drive-by-shooting/,2015,Aug,Mon,NY,-73.9893,40.6945
+2015-08-04,Unknown,1,4,"St. Louis, MO",http://www.stltoday.com/news/local/crime-and-courts/two-men-killed-wounded-in-overnight-shootings-in-st-louis/article_5d1e6dce-ee47-5da2-8a78-65e0283841fc.html,2015,Aug,Tues,MO,-90.4434,38.6407
+2015-08-06,Unknown,0,4,"Columbia, SC",http://www.wltx.com/story/news/2015/08/07/four-people-shot-columbia-suspect-wanted/31300491/,2015,Aug,Thurs,SC,-81.0249,33.9875
+2015-08-07,Jody Herring,4,0,"Barre, VT",http://www.wcax.com/story/29740309/3-women-found-dead-in-berlin-related-to-barre-shooting-suspect,2015,Aug,Fri,VT,-72.502,44.197
+2015-08-08,Unknown,1,11,"Blytheville, AR",http://www.therepublic.com/view/story/7f29eae4bf1f48c79d31b1e53dbc19a0/AR--Blytheville-Slaying,2015,Aug,Sat,AR,-89.9034,35.9026
+2015-08-08,Unknown,2,3,"Gastonia, NC",http://www.nbcnews.com/news/us-news/gaston-county-shooting-five-shot-including-two-police-officers-n406611,2015,Aug,Sat,NC,-81.1897,35.284
+2015-08-08,David Conley,8,0,"Houston, TX",http://www.usatoday.com/story/news/nation/2015/08/10/victims-shooting-mourned/31398681/,2015,Aug,Sat,TX,-95.3098,29.8131
+2015-08-09,Unknown,1,3,"Detroit, MI",http://www.detroitnews.com/story/news/local/detroit-city/2015/08/10/dead-wounded-overnight-detroit-shootings/31403023/,2015,Aug,Sun,MI,-83.0602,42.347
+2015-08-09,Unknown,1,3,"Forest, MS",http://www.wapt.com/news/central-mississippi/woman-killed-in-forest-shooting/34631886,2015,Aug,Sun,MS,-89.5053,32.3999
+2015-08-10,Unknown,0,4,"Long Beach, CA",http://www.latimes.com/local/lanow/la-me-ln-4-shot-in-long-beach-gunman-at-large-20150810-story.html,2015,Aug,Mon,CA,-118.168,33.8034
+2015-08-15,Unknown,1,3,"Pittsburgh, PA",http://www.wpxi.com/news/news/local/3-shot-1-dead-west-end-shooting/nnK5P/,2015,Aug,Sat,PA,-79.951,40.4744
+2015-08-15,Unknown,0,4,"Los Angeles, CA",http://abc7.com/news/4-people-in-car-injured-after-gunman-opens-fire-in-south-los-angeles/935475/,2015,Aug,Sat,CA,-118.248,33.974
+2015-08-15,Unknown,1,3,"Orangeburg, SC",http://thetandd.com/news/drive-by-shooter-kills-injures/article_5a98e314-e6f4-5ab0-b54f-431853f606ff.html,2015,Aug,Sat,SC,-80.8218,33.4909
+2015-08-16,Unknown,0,4,"Chicago, IL",http://www.dnainfo.com/chicago/20150816/austin/3-men-1-female-passerby-injured-austin-party-shooting-police-say,2015,Aug,Sun,IL,-87.6221,41.8853
+2015-08-16,Unknown,0,5,"Bennettsville, SC",http://www.wfxg.com/story/29803458/five-people-shot-at-bennettsville-club-early-sunday-morning-officials-state,2015,Aug,Sun,SC,-79.7077,34.5988
+2015-08-16,Unknown,0,6,"Fort Worth, TX",http://www.star-telegram.com/news/local/community/fort-worth/article31246733.html,2015,Aug,Sun,TX,-97.2915,32.7714
+2015-08-16,Unknown,1,3,"Miami, FL",http://www.miamiherald.com/news/local/community/miami-dade/article31249055.html,2015,Aug,Sun,FL,-80.2393,25.812
+2015-08-19,Unknown,3,4,"Rochester, NY",http://abcnews.go.com/US/wireStory/killed-wounded-shooting-western-york-33194354,2015,Aug,Wed,NY,-77.6843,43.286
+2015-08-20,Unknown,2,2,"Starr County, TX",http://www.themonitor.com/news/local/two-dead-two-injured-in-starr-county-shooting/article_37057292-47b8-11e5-8a52-ab722992a66f.html,2015,Aug,Thurs,TX,-104.836,31.0369
+2015-08-21,Unknown,2,5,"Cincinnati, OH",http://www.cincinnati.com/story/news/2015/08/22/police-5-injured-2-dead--madisonville-shooting/32189603/,2015,Aug,Fri,OH,-84.5382,39.1668
+2015-08-21,Unknown,0,8,"Durham, NC",http://wncn.com/2015/08/22/7-injured-in-durham-drive-by-shooting/,2015,Aug,Fri,NC,-79.0232,35.8503
+2015-08-21,Unknown,3,1,"Roswell, NM",http://www.kob.com/article/stories/s3886264.shtml#.VdtF_PlVhHw,2015,Aug,Fri,NM,-104.378,33.6371
+2015-08-21,Unknown,0,4,"Pine Hills, FL",http://www.orlandosentinel.com/news/breaking-news/os-three-shot-gas-station-pine-hills-20150822-story.html#,2015,Aug,Fri,FL,-81.4534,28.5578
+2015-08-22,Unknown,1,7,"Modesto, CA",http://www.nbcnews.com/news/us-news/after-california-music-festival-shooting-leaves-1-dead-7-injured-n414561,2015,Aug,Sat,CA,-121.017,37.6695
+2015-08-25,Unknown,1,3,"New Orleans, LA",http://www.nola.com/crime/index.ssf/2015/08/new_orleans_homicide.html#incart_story_package,2015,Aug,Tues,LA,-89.931,30.0688
+2015-08-26,Unknown,0,4,"Brooklyn Center, MN",http://minnesota.cbslocal.com/2015/08/26/4-shot-injured-in-brooklyn-center-home-invasion/,2015,Aug,Wed,MN,-93.3327,45.0761
+2015-08-26,Unknown,1,3,"Chicago, IL",http://www.chicagotribune.com/news/local/breaking/ct-3-shot-in-east-garfield-park-20150826-story.html,2015,Aug,Wed,IL,-87.6221,41.8853
+2015-08-26,Vester Flanagan (aka Bryce Williams),3,1,"Moneta, VA",http://www.nytimes.com/2015/08/27/us/wdbj7-virginia-journalists-shot-during-live-broadcast.html?emc=edit_na_20150826&nlid=54192941&ref=headline&_r=0,2015,Aug,Wed,VA,-79.6172,37.1812
+2015-08-26,Unknown,2,2,"West Palm Beach, FL",http://www.palmbeachpost.com/news/news/crime-law/police-more-than-one-injured-in-west-palm-beach-sh/nnRYF/,2015,Aug,Wed,FL,-80.0702,26.7158
+2015-08-27,Unknown,2,2,"Salinas, CA",http://www.ksbw.com/news/two-dead-two-wounded-in-salinas-shooting/34949818,2015,Aug,Thurs,CA,-121.656,36.6777
+2015-08-28,Unknown,1,3,"Brooklyn, NY",http://newyork.cbslocal.com/2015/08/28/deadly-brooklyn-lounge-shooting/,2015,Aug,Fri,NY,-73.9893,40.6945
+2015-08-29,Robert Seth Denton,3,2,"Bristol, TN",http://abcnews.go.com/US/wireStory/dead-injured-shooting-spree-tennessee-33417102,2015,Aug,Sat,TN,-82.1925,36.5317
+2015-08-29,Unknown,0,4,"Macon, GA",http://www.macon.com/news/local/crime/article32791677.html,2015,Aug,Sat,GA,-83.6176,32.8044
+2015-08-29,Unknown,1,3,"Smith County, TX",http://www.cbs19.tv/story/29913661/victim-identified-in-truck-stop-shooting,2015,Aug,Sat,TX,-96.5066,29.0765
+2015-08-30,Unknown,0,4,"Muskegon Heights, MI",http://woodtv.com/2015/08/30/3-shot-in-muskegon-heights/,2015,Aug,Sun,MI,-86.2389,43.2011
+2015-08-30,Unknown,1,4,"Memphis, TN",http://www.wmcactionnews5.com/story/29916653/1-dead-4-injured-in-shooting-on-sobota-circle,2015,Aug,Sun,TN,-89.9904,35.1693
+2015-09-01,Lyndon Beharry,4,0,"Long Branch, NJ",http://6abc.com/news/family-shot-in-murder-suicide-before-nj-fire-prosecutors-say/969948/,2015,Sep,Tues,NJ,-73.9924,40.3043
+2015-09-05,Unknown,0,4,"Columbus, MO",http://www.abc17news.com/news/four-injured-following-shooting-at-columbia-vfw/35121054,2015,Sep,Sat,MO,-93.8908,38.8586
+2015-09-05,Unknown,1,3,"Las Vegas, NV",http://www.fox5vegas.com/story/29967889/1-killed-3-injured-in-shooting-on-eastside,2015,Sep,Sat,NV,-115.207,36.3011
+2015-09-05,Unknown,1,3,"Charlotte, NC",http://wtop.com/national/2015/09/police-girl-9-dead-3-hurt-after-north-carolina-shooting/,2015,Sep,Sat,NC,-80.8042,35.26
+2015-09-05,Unknown,0,4,"Daytona Beach, FL",http://www.wftv.com/news/news/local/police-4-shot-outside-daytona-beach-nightclub/nnYsn/,2015,Sep,Sat,FL,-81.0477,29.194
+2015-09-07,Unknown,0,4,"Denver, CO",http://www.9news.com/story/news/crime/2015/09/07/4-injured-downtown-denver-shooting/71833624/,2015,Sep,Mon,CO,-105.069,39.7433
+2015-09-07,Unknown,0,5,"Washington, DC",http://www.nbcwashington.com/news/local/Multiple-People-Shot-in-Southeast-DC-Incident-325529391.html,2015,Sep,Mon,DC,-77.0364,38.8951
+2015-09-08,Unknown,4,0,"Manson, WA",http://www.yakimaherald.com/news/crime_and_courts/dead-in-shooting-in-chelan-county/article_9ff488b6-5707-11e5-a337-a77b679c27c1.html,2015,Sep,Tues,WA,-120.158,47.8849
+2015-09-08,Brian Short,5,0,"Minneapolis, MN",http://www.chron.com/news/crime/article/Authorities-Minnesota-family-died-in-6500498.php,2015,Sep,Tues,MN,-93.3148,45.1604
+2015-09-08,Unkown,0,4,"Chicago, IL",http://chicago.suntimes.com/crime/7/71/941400/four-shot-englewood-backyard,2015,Sep,Tues,IL,-87.6221,41.8853
+2015-09-11,Unknown,0,5,"Charlotte, NC",http://www.wcnc.com/story/news/local/2015/09/11/breaking-3-people-shot--nc-music-factory/72117028/,2015,Sep,Fri,NC,-80.8042,35.26
+2015-09-12,Unknown,1,3,"Minneapolis, MN",http://www.startribune.com/one-killed-three-injured-in-early-morning-shooting/327025161/,2015,Sep,Sat,MN,-93.3148,45.1604
+2015-09-12,Undisclosed,0,6,"Minneapolis, MN",http://www.startribune.com/six-people-shot-overnight-near-target-center-in-downtown-minneapolis/327032521/,2015,Sep,Sat,MN,-93.3148,45.1604
+2015-09-12,Unknown,2,4,"Rochester, NY",http://www.twcnews.com/nys/rochester/news/2015/09/12/woodward-street-shooting-.html,2015,Sep,Sat,NY,-77.6843,43.286
+2015-09-12,Unknown,0,4,"Shreveport, LA",http://www.arklatexhomepage.com/news/four-injured-in-caddo-heights-shooting,2015,Sep,Sat,LA,-93.7502,32.5252
+2015-09-13,Unknown,2,2,"Los Chavez, NM",http://krqe.com/2015/09/13/state-police-investigating-double-homicide-in-los-chaves/,2015,Sep,Sun,NM,-106.757,34.7206
+2015-09-13,Rodney Chemin,4,0,"Baker, LA",http://theadvocate.com/news/13436293-100/four-found-dead-in-apparent,2015,Sep,Sun,LA,-91.0804,30.5159
+2015-09-13,Unknown,1,5,"Ocala, FL",http://www.mynews13.com/content/news/cfnews13/news/article.html/content/news/articles/cfn/2015/9/13/_1_dead_5_injured_in.html,2015,Sep,Sun,FL,-82.0874,29.1989
+2015-09-15,Unknown,0,4,"Newark, NJ",http://www.nj.com/essex/index.ssf/2015/09/4_wounded_in_multiple_newark_shooting.html,2015,Sep,Tues,NJ,-74.2251,40.7361
+2015-09-17,Scott Westerhuis,6,0,"Platte, SD",http://www.nbcnews.com/news/us-news/father-killed-wife-kids-suicide-prelim-autopsy-reveals-n431401?cid=sm_tw&hootPostID=1cbcc7d6cf3ec13f4bb8ee5651e7de1f,2015,Sep,Thurs,SD,-98.8445,43.3869
+2015-09-17,Undisclosed,0,4,"Albion, MI",http://woodtv.com/2015/09/17/dispatchers-multiple-victims-in-albion-shooting/,2015,Sep,Thurs,MI,-84.7929,42.2906
+2015-09-19,Unknown,1,3,"Indianapolis, IN",http://www.indystar.com/story/news/crime/2015/09/19/4-people-shot-northside/72498548/,2015,Sep,Sat,IN,-86.1322,39.7751
+2015-09-20,Unknown,1,5,"Chicago, IL",http://wgntv.com/2015/09/20/one-dead-11-injured-in-englewood-shooting-crash/,2015,Sep,Sun,IL,-87.6221,41.8853
+2015-09-20,Unknown,0,6,"Tulsa, OK",http://www.newson6.com/story/30072412/six-shot-outside-tulsa-nightclub,2015,Sep,Sun,OK,-95.9928,36.154
+2015-09-21,Unknown,1,3,"Philadelphia, PA",http://www.nbcphiladelphia.com/news/local/Tavern-Philadelphia-Shooting-Bikers-Fatal--328438681.html,2015,Sep,Mon,PA,-75.1638,39.9523
+2015-09-21,Undisclosed,2,2,"Sand City, CA",http://www.latimes.com/local/lanow/la-me-ln-sand-city-police-shooting-20150921-story.html,2015,Sep,Mon,CA,-121.848,36.6172
+2015-09-23,Unknown,1,3,"Norcross, GA",http://www.wsbtv.com/ap/ap/georgia/police-1-dead-several-injured-in-norcross-shooting/nnmrT/,2015,Sep,Wed,GA,-84.2135,33.9412
+2015-09-23,Unknown,0,5,"Shreveport, LA",http://www.arklatexhomepage.com/news/5-injured-in-shooting,2015,Sep,Wed,LA,-93.7502,32.5252
+2015-09-23,Unknown,0,4,"Fort Meyers, FL",http://www.news-press.com/story/news/crime/2015/09/24/fort-myers-shooting-victim-identified/72733012/,2015,Sep,Wed,FL,-81.8463,26.598
+2015-09-24,Unknown,0,5,"Chicago, IL",http://abc7chicago.com/news/4-people-shot-in-back-of-the-yards-/1000927/,2015,Sep,Thurs,IL,-87.6221,41.8853
+2015-09-25,Unknown,0,4,"Danville, IL",http://www.wandtv.com/story/30123982/danville-police-investigating-may-street-shooting,2015,Sep,Fri,IL,-87.6365,40.1362
+2015-09-26,James Diaz,2,2,"Banning, CA",http://www.pe.com/articles/shooting-781634-officers-banning.html,2015,Sep,Sat,CA,-116.864,33.9192
+2015-09-27,Unknown,0,4,"Kansas City, MO",http://www.kmbc.com/news/police-4-shot-outside-18th-vine-jazz-club/35510854,2015,Sep,Sun,MO,-94.5986,39.1024
+2015-09-27,Unknown,0,10,"Greenville, GA",http://abcnews.go.com/US/wireStory/sheriff-11-people-injured-west-georgia-bar-shooting-34101372,2015,Sep,Sun,GA,-81.8332,30.8016
+2015-09-28,Unknown,2,3,"Chicago, IL",http://chicago.suntimes.com/news/7/71/996375/five-people-including-infant-shot-back-yards,2015,Sep,Mon,IL,-87.6221,41.8853
+2015-09-28,Unknown,0,4,"Dayton, OH",http://www.whio.com/news/news/crime-law/multiple-victims-reported-in-dayton-shooting/nnqSG/,2015,Sep,Mon,OH,-84.0762,39.7642
+2015-09-28,Unknown,0,5,"Cincinnati, OH",http://www.cincinnati.com/story/news/2015/09/28/four-men-one-child-shot-evanston/73008124/,2015,Sep,Mon,OH,-84.5382,39.1668
+2015-09-29,Unknown,3,2,"Chicago, IL",http://abc7chicago.com/news/3-dead-2-wounded-in-fuller-park-shooting/1007546/,2015,Sep,Tues,IL,-87.6221,41.8853
+2015-10-01,Chris Harper-Mercer,10,7,"Roseburg, OR",http://www.oregonlive.com/pacific-northwest-news/index.ssf/2015/10/horror_in_roseburg_10_minutes.html#incart_maj-story-1,2015,Oct,Thurs,OR,-123.342,43.2165

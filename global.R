@@ -1,5 +1,3 @@
-
-
 library(dplyr)
 library(leaflet)
 library(readxl)
@@ -12,6 +10,7 @@ library(stringr)
 library(RColorBrewer)
 library(rcstatebin)
 library(readr)
+library(googleVis)
 
 
 library(htmlwidgets)
@@ -112,6 +111,7 @@ prospects <- read_csv("HSBaseballProspects.csv")
 schoolChoice <- sort(unique(prospects$Commitment))
 schoolChoice[1] <- "Unknown"
 
-
+## mass killings - 2013 to Oct 1 2015 (currently missing few lat lons)
+killings <- read_csv("data/massKillings.csv")
 
 print("ended global")

@@ -7,13 +7,7 @@ dashboardPage(
   
   dashboardSidebar(
     includeCSS("custom.css"),
-    
-    #       fluidRow(column(width=8,textInput("postcode","Enter Postcode","BR3 4DT")),
-    #                column(width=4, submitButton(icon("refresh")))
-    #       ),
-    
-    #    textInput("postcode","Enter Postcode","BR3 4DT"),
-    #     submitButton(text="Apply Change",icon("refresh")),
+
     uiOutput("a"),
     hr(),
     
@@ -38,14 +32,19 @@ dashboardPage(
         
       ),
       menuItem(
+        "US Mass Killings",
+        menuSubItem("Maps",tabName = "killings",icon = icon("map-marker")),
+        menuSubItem("Info", tabName = "killings_info",icon = icon("info"))
+      ),
+      menuItem(
         "US Prisons",
         menuSubItem("Maps",tabName = "prisons",icon = icon("map-marker")),
         menuSubItem("Info", tabName = "prisons_info",icon = icon("info"))
       ),
-      menuItem(
-        "Baseball prospects",
-        menuSubItem("Maps",tabName = "prospects",icon = icon("map-marker"))
-      ),
+#       menuItem(
+#         "Baseball prospects",
+#         menuSubItem("Maps",tabName = "prospects",icon = icon("map-marker"))
+#       ),
       
       #   menuItem("Data", tabName = "data",icon = icon("database")),
       # menuItem("Info", tabName = "info",icon = icon("info")),
@@ -56,6 +55,7 @@ dashboardPage(
       menuItem(
         "Other Dashboards",
         menuSubItem("Climate",href = "https://mytinyshinys.shinyapps.io/climate"),
+        menuSubItem("Cricket",href = "https://mytinyshinys.shinyapps.io/cricket"),
         menuSubItem("MLB",href = "https://mytinyshinys.shinyapps.io/mlbCharts"),
        
         menuSubItem("WikiGuardian",href = "https://mytinyshinys.shinyapps.io/wikiGuardian"),
@@ -134,6 +134,16 @@ dashboardPage(
               box(status="info",solidHeader = TRUE,
                   leafletOutput("prospectsMap")
                   )
+      ),
+      
+      
+      tabItem("killings",
+              box(width=12,status="info",solidHeader = TRUE,
+                  title="Calendar",
+                htmlOutput("killCalendar")
+                  
+                 
+              )
       ),
       
       tabItem("fortune_data",

@@ -34,5 +34,6 @@ shinyServer(function(input, output) {
   source("code/prisons.R", local = TRUE)
   source("code/fortune500.R", local = TRUE)
   source("code/baseballProspects.R", local = TRUE)
+  source("code/massKillings.R", local = TRUE)
   
 })
