@@ -21,7 +21,11 @@ shinyServer(function(input, output) {
       inputPanel(
         selectInput("schools","College Commitment",schoolChoice)
       )
-    } else {
+    
+  } else  if (input$sbMenu == "killings_calendar") {
+   helpText("some text")
+  }
+    else {
       
     }
     

@@ -35,3 +35,18 @@ p <-temp %>%
 p
 })
 
+
+killings %>% 
+  mutate(Casualties=Dead+Injured,dayOrder=wday(Date)) %>% 
+  group_by(wday,dayOrder) %>% 
+  summarize(all=sum(Casualties)) %>% 
+  ungroup()  %>% 
+  arrange(dayOrder) %>% 
+  mutate(wday=factor(wday, levels = wday)) %>% 
+  ggvis(~wday,~all) %>% 
+  layer_bars(width=0.6, fill:="red") %>% 
+  add_axis("x", title="") %>% 
+  add_axis("y", title="Casualties") %>% 
+  set_options( width = 480) %>% 
+  bind_shiny("killWeekday")
+

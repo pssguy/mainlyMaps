@@ -154,7 +154,8 @@ dashboardPage(
                 ),
                 box( width = 6,
                      status = "info", solidHeader = TRUE,
-                     title="By Weekday"
+                     title="By Weekday",
+                     ggvisOutput("killWeekday")
               )))
       ),
       
