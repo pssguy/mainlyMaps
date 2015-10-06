@@ -33,7 +33,8 @@ dashboardPage(
       ),
       menuItem(
         "US Mass Killings",
-        menuSubItem("Maps",tabName = "killings",icon = icon("map-marker")),
+        menuSubItem("Calendar",tabName = "killings_calendar",icon = icon("calendar"), selected=T),
+        menuSubItem("Maps",tabName = "killings_maps",icon = icon("map-marker")),
         menuSubItem("Info", tabName = "killings_info",icon = icon("info"))
       ),
       menuItem(
@@ -137,13 +138,24 @@ dashboardPage(
       ),
       
       
-      tabItem("killings",
+      tabItem("killings_calendar",
               box(width=12,status="info",solidHeader = TRUE,
                   title="Calendar",
                 htmlOutput("killCalendar")
-                  
-                 
-              )
+                                ),
+              fluidRow(column(
+                width = 12,
+                
+                box(
+                  width = 6,
+                  status = "info", solidHeader = TRUE,
+                  title="By Month",
+                  plotOutput("killMonth")
+                ),
+                box( width = 6,
+                     status = "info", solidHeader = TRUE,
+                     title="By Weekday"
+              )))
       ),
       
       tabItem("fortune_data",

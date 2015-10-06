@@ -11,6 +11,8 @@ library(RColorBrewer)
 library(rcstatebin)
 library(readr)
 library(googleVis)
+library(ggvis)
+library(ggplot2)
 
 
 library(htmlwidgets)
